@@ -1,0 +1,109 @@
+id,title,artists,duration,genre,key,beat_grid,cue_pts,bpm,bpm_bucket
+1098701702,JEWELZ,Anderson Paak,174,['Rap/Hip Hop'],['9A'],"{'bpm': 108.57, 'init_beat': 1, 'start_pos': 0.541, 'time_sig': '4/4'}",[0.541],108.57,Chill / Downtempo
+3135561,Something About Us,Daft Punk,232,['Dance'],['7A'],"{'bpm': 99.98, 'init_beat': 1, 'start_pos': 0.42, 'time_sig': '4/4'}",[0.42],99.98,Chill / Downtempo
+3135563,Veridis Quo,Daft Punk,345,['Dance'],['8A'],"{'bpm': 106.89, 'init_beat': 4, 'start_pos': 0.134, 'time_sig': '4/4'}",[0.412],106.89,Chill / Downtempo
+3135564,Short Circuit,Daft Punk,206,['Dance'],['1A'],"{'bpm': 109.67, 'init_beat': 1, 'start_pos': 0.25, 'time_sig': '4/4'}",[0.25],109.67,Chill / Downtempo
+88449443,Afterglow,"Wilkinson, Becky Hill",225,['Electronic' 'Electronic' 'Electronic' 'Electronic'],['9A' '9A' '9A' '9A'],"{'bpm': 108.75, 'init_beat': 1, 'start_pos': 0.048, 'time_sig': '4/4'}",[21.427 22.117 33.151],108.75,Chill / Downtempo
+1857803437,Sentient,KOAN Sound,247,['Electronic'],['3A'],"{'bpm': 95.0, 'init_beat': 1, 'start_pos': 0.053, 'time_sig': '4/4'}",[ 10.158  30.368  96.052 116.263 136.473 156.683],95.0,Chill / Downtempo
+489645852,All I Need,Nexus & Tight,313,['Drum & Bass' 'Drum & Bass' 'Drum & Bass' 'Drum & Bass' 'Drum & Bass'],['12A' '12A' '12A' '12A' '12A'],"{'bpm': 104.4, 'init_beat': 1, 'start_pos': 0.026000000000000002, 'time_sig': '4/4'}",[22.095 44.164],104.4,Chill / Downtempo
+489645822,Promises,Itro,184,['Drum & Bass' 'Drum & Bass' 'Drum & Bass' 'Drum & Bass'],['5A' '5A' '5A' '5A'],"{'bpm': 108.75, 'init_beat': 1, 'start_pos': 0.027, 'time_sig': '4/4'}",[  5.543  27.613  82.785 104.854],108.75,Chill / Downtempo
+509568372,Live Another Day (M&F's Smoke & Mirrors Mix) (Club Master),"Matrix & Futurebound, Alex Hepburn",246,['Dance' 'Dance' 'Dance' 'Dance'],['9A' '9A' '9A' '9A'],"{'bpm': 108.75, 'init_beat': 1, 'start_pos': 0.07, 'time_sig': '4/4'}",[22.14  44.209],108.75,Chill / Downtempo
+1060564312,Airwalk,Oak,247,['Electronic'],['8A'],"{'bpm': 107.0, 'init_beat': 1, 'start_pos': 0.076, 'time_sig': '4/4'}",[26.992],107.0,Chill / Downtempo
+1064533332,Casin,glue70,106,['Electro'],['5A'],"{'bpm': 104.0, 'init_beat': 1, 'start_pos': 0.026000000000000002, 'time_sig': '4/4'}",[4.642],104.0,Chill / Downtempo
+2254933067,We Are E,"Adam Beyer, Pig&Dan",482,['Techno'],['4A'],"{'bpm': 124.0, 'init_beat': 4, 'start_pos': 0.03, 'time_sig': '4/4'}",[ 31.482  62.449 372.125],124.0,House / Deep House
+3129775,Around the World,Daft Punk,429,['French House'],['9B'],"{'bpm': 121.29, 'init_beat': 4, 'start_pos': 0.036000000000000004, 'time_sig': '4/4'}",[16.36 32.19],121.29,House / Deep House
+408221052,Pump,Tantrum Desire,278,['Breakbeat' 'Breakbeat' 'Breakbeat'],['1A' '1A' '1A'],"{'bpm': 116.0, 'init_beat': 2, 'start_pos': 0.133, 'time_sig': '4/4'}",[ 0.477 22.546 44.615],116.0,House / Deep House
+1838375457,Remember,DC Breaks,313,['Dance' 'Dance' 'Dance'],['6A' '6A' '6A'],"{'bpm': 116.0, 'init_beat': 1, 'start_pos': 0.026000000000000002, 'time_sig': '4/4'}",[22.095 44.164 66.233],116.0,House / Deep House
+653769112,Black Heart Communion,Shades,200,[''],['7B'],"{'bpm': 120.0, 'init_beat': 1, 'start_pos': 0.05, 'time_sig': '4/4'}",[ 0.05 32.05],120.0,House / Deep House
+3135558,Nightvision,Daft Punk,104,['Dance'],['8B'],"{'bpm': 119.99, 'init_beat': 1, 'start_pos': 0.274, 'time_sig': '4/4'}",[0.274],119.99,House / Deep House
+716493872,Solar System,Sub Focus,288,['Drum & Bass' 'Drum & Bass' 'Drum & Bass'],['4A' '4A' '4A'],"{'bpm': 116.0, 'init_beat': 1, 'start_pos': 0.256, 'time_sig': '4/4'}",[ 22.094  44.163  66.232 154.508 176.577],116.0,House / Deep House
+3135556,"Harder, Better, Faster, Stronger",Daft Punk,224,['Dance'],['11A'],"{'bpm': 123.45, 'init_beat': 2, 'start_pos': 0.249, 'time_sig': '4/4'}",[0.735],123.45,House / Deep House
+144390264,Threatz,"Denzel Curry, Yung Simmie, Robb Bank$",190,['Rap/Hip Hop'],['4A'],"{'bpm': 124.0, 'init_beat': 1, 'start_pos': 0.026000000000000002, 'time_sig': '4/4'}",[ 0.026 15.51 ],124.0,House / Deep House
+3135555,Digital Love,Daft Punk,301,['Dance'],['11B'],"{'bpm': 124.68, 'init_beat': 1, 'start_pos': 0.316, 'time_sig': '4/4'}",[0.316],124.68,House / Deep House
+683669232,Generator,Dimension,306,['Dance' 'Drum & Bass' 'Dance'],['4A' '4A' '4A'],"{'bpm': 116.0, 'init_beat': 1, 'start_pos': 0.27, 'time_sig': '4/4'}",[ 22.116  44.185  66.254 154.53  176.599 198.668],116.0,House / Deep House
+3135565,Face to Face,Daft Punk,240,['Dance' 'French House'],['1A' '1A'],"{'bpm': 117.88, 'init_beat': 1, 'start_pos': 0.11900000000000001, 'time_sig': '4/4'}",[ 0.122  8.26  57.122 73.409],117.88,House / Deep House
+1358765162,Hardbody,Cyantific,293,['Dance' 'Dance' 'Dance'],['4A' '4A' '4A'],"{'bpm': 116.0, 'init_beat': 1, 'start_pos': 0.027, 'time_sig': '4/4'}",[22.095],116.0,House / Deep House
+1117818682,Unknown,"Mtwn, Fearful",302,['Electronica / Downtempo'],['2A'],"{'bpm': 116.0, 'init_beat': 1, 'start_pos': 0.051000000000000004, 'time_sig': '4/4'}",[5.1000e-02 3.3155e+01 6.6258e+01],116.0,House / Deep House
+3135554,Aerodynamic,Daft Punk,212,['Dance'],['10B'],"{'bpm': 122.88, 'init_beat': 1, 'start_pos': 0.323, 'time_sig': '4/4'}",[ 0.323 31.573],122.88,House / Deep House
+3135553,One More Time,Daft Punk,320,['Dance' 'French House'],['9B' '9B'],"{'bpm': 122.88, 'init_beat': 1, 'start_pos': 0.11800000000000001, 'time_sig': '4/4'}",[ 0.118 15.743 30.392 31.368 46.994 62.619 92.892],122.88,House / Deep House
+1046367272,FleshNet,Eprom,180,['Electro'],['2A'],"{'bpm': 120.0, 'init_beat': 1, 'start_pos': 0.048, 'time_sig': '4/4'}",[ 0.048 32.048],120.0,House / Deep House
+436716892,Broken,Terrence & Phillip,215,['Dance' 'Dance' 'Dance'],['7B' '4A' '4A'],"{'bpm': 116.0, 'init_beat': 1, 'start_pos': 0.28, 'time_sig': '4/4'}",[22.119],116.0,House / Deep House
+653769092,Two One Six,Shades,206,[''],['9A'],"{'bpm': 120.0, 'init_beat': 1, 'start_pos': 0.066, 'time_sig': '4/4'}",[ 0.066 32.066],120.0,House / Deep House
+2255921897,Protocol,Wehbba,379,['Techno'],['8A'],"{'bpm': 128.0, 'init_beat': 1, 'start_pos': 0.052000000000000005, 'time_sig': '4/4'}",[ 15.052  30.052  45.052  60.052  75.052  90.052 195.052 210.052 225.052],128.0,Electro / Dance
+359506821,Groundwork,Glaskin,395,['Techno'],['4B'],"{'bpm': 128.0, 'init_beat': 1, 'start_pos': 0.024, 'time_sig': '4/4'}",[30.024 90.024],128.0,Electro / Dance
+2213751277,Cyclone,Drone,215,['Alternative'],['8B'],"{'bpm': 126.0, 'init_beat': 1, 'start_pos': 0.048, 'time_sig': '4/4'}",[ 0.048 30.524],126.0,Electro / Dance
+688120042,Without Warning (Thomas Schumacher Remix),Spektre,466,['Techno'],['6A'],"{'bpm': 130.0, 'init_beat': 1, 'start_pos': 0.342, 'time_sig': '4/4'}",[ 15.111  29.881 118.496 203.418 218.188 232.957 247.726 262.495],130.0,Electro / Dance
+1358388652,Pay Off,"Octo-Pi, Modify Perspective",336,"[""Jungle/Drum'n'Bass"" ""Jungle/Drum'n'Bass""]",['4A' '4A'],"{'bpm': 130.5, 'init_beat': 1, 'start_pos': 0.048, 'time_sig': '4/4'}",[22.116 44.185],130.5,Electro / Dance
+2256001677,Terrax,Pig&Dan,408,['Techno'],['12A'],"{'bpm': 127.0, 'init_beat': 1, 'start_pos': 0.048, 'time_sig': '4/4'}",[ 15.166  30.284 105.874 181.465 196.583 211.701 287.291 302.41 ],127.0,Electro / Dance
+2276763157,Second Encounter,S.P.Y,239,['Drum & Bass' 'Dance' 'Dance' 'Dance'],['4A' '4A' '4A' '4A'],"{'bpm': 129.0, 'init_beat': 1, 'start_pos': 0.297, 'time_sig': '4/4'}","[ 22.621  44.947  67.26   89.586 111.911 134.236 156.561 178.886 201.211
+ 223.536]",129.0,Electro / Dance
+966014342,Weekend,Biome,278,['Electro'],['9A'],"{'bpm': 125.0, 'init_beat': 1, 'start_pos': 0.024, 'time_sig': '4/4'}",[2.4000e-02 3.0744e+01 6.1464e+01],125.0,Electro / Dance
+82418198,Precursor (Mefjus Remix),Emperor,357,"['Drum & Bass' ""Drum'n'Bass""]",['4A' '4A'],"{'bpm': 129.0, 'init_beat': 1, 'start_pos': 0.014, 'time_sig': '4/4'}",[ 22.352  44.678 156.306 178.631 200.957],129.0,Electro / Dance
+1060563252,Unmoved Mover,thys,454,['Electro' 'Electronic'],['2A' '2A'],"{'bpm': 130.0, 'init_beat': 1, 'start_pos': 0.052000000000000005, 'time_sig': '4/4'}","[5.20000e-02 2.95900e+01 5.91290e+01 1.47744e+02 1.77282e+02 1.99436e+02
+ 2.28974e+02]",130.0,Electro / Dance
+1358180042,Savoy Affair,"Futurebound, Smooth",305,"[""Jungle/Drum'n'Bass"" ""Jungle/Drum'n'Bass""]",['2B' '2B'],"{'bpm': 130.5, 'init_beat': 2, 'start_pos': 0.203, 'time_sig': '4/4'}",[44.51  55.546 77.615],130.5,Electro / Dance
+1270757172,No Name Groove,"BAKEY, Kasia",263,['Electro'],['5A'],"{'bpm': 132.0, 'init_beat': 1, 'start_pos': 0.051000000000000004, 'time_sig': '4/4'}",[5.1000e-02 2.9142e+01 5.8233e+01],132.0,Electro / Dance
+2255152467,Astral Projection,Enrico Sangiuliano,483,['Techno'],['1A'],"{'bpm': 125.0, 'init_beat': 1, 'start_pos': 0.145, 'time_sig': '4/4'}",[ 30.865 138.385 387.986],125.0,Electro / Dance
+2254933047,In Love,"Adam Beyer, Pig&Dan",541,['Techno'],['1A'],"{'bpm': 126.0, 'init_beat': 4, 'start_pos': 0.028, 'time_sig': '4/4'}",[ 30.98  152.885],126.0,Electro / Dance
+36687371,Silo Pass (Sir Spyro Remix) (Sir Spyro),Bok Bok,339,['Dance'],['11A'],"{'bpm': 137.0, 'init_beat': 1, 'start_pos': 0.039, 'time_sig': '4/4'}",[3.9000e-02 2.8069e+01 5.6098e+01],137.0,Techno
+883297722,Find My Way Home,Sammy Virji,258,['UK Garage'],['2A'],"{'bpm': 136.0, 'init_beat': 1, 'start_pos': 0.07200000000000001, 'time_sig': '4/4'}",[7.20000e-02 2.83070e+01 5.65430e+01 8.47780e+01 1.13013e+02 1.41249e+02],136.0,Techno
+2444342285,Dresden Codex,Ivy Lab,197,['Bass / Club'],['9A'],"{'bpm': 133.0, 'init_beat': 1, 'start_pos': 0.234, 'time_sig': '4/4'}",[ 14.67   29.106  43.542  57.978  72.414  86.851 108.505 122.941],133.0,Techno
+2255330017,Flep,Mitekiss,176,['Alternative'],['6A'],"{'bpm': 135.0, 'init_beat': 2, 'start_pos': 0.053, 'time_sig': '4/4'}",[ 4.941 33.386],135.0,Techno
+124131224,Flatline,Flowdan,134,['Rap/Hip Hop'],['7A'],"{'bpm': 136.0, 'init_beat': 1, 'start_pos': 0.273, 'time_sig': '4/4'}",[ 0.273 28.507],136.0,Techno
+2028834737,Malware,Supertask,207,['Electro'],['12A'],"{'bpm': 135.0, 'init_beat': 1, 'start_pos': 0.025, 'time_sig': '4/4'}",[2.500e-02 2.847e+01],135.0,Techno
+2304427145,Slowly Rushing (Skeptical Remix),"Safire, QQQ Akane",337,['Electro'],['7A'],"{'bpm': 135.0, 'init_beat': 1, 'start_pos': 0.064, 'time_sig': '4/4'}",[ 0.064 28.508 56.952],135.0,Techno
+773606662,Pocosink (Commodo Remix),Las,215,['Electro'],['7A'],"{'bpm': 136.0, 'init_beat': 1, 'start_pos': 0.025, 'time_sig': '4/4'}",[2.500e-02 2.826e+01],136.0,Techno
+725590002,Frozen Bubble,Tobax,334,['Electronic'],['4A'],"{'bpm': 135.0, 'init_beat': 1, 'start_pos': 0.026000000000000002, 'time_sig': '4/4'}",[ 28.47   56.914 142.247 170.692 199.136],135.0,Techno
+894949402,Ends,"Alix Perez, Headland",282,['Drum & Bass'],['1A'],"{'bpm': 135.0, 'init_beat': 1, 'start_pos': 0.025, 'time_sig': '4/4'}",[2.5000e-02 2.8470e+01 5.6914e+01],135.0,Techno
+2213751377,My Way,"Drone, Emz",142,['Alternative'],['5B'],"{'bpm': 135.0, 'init_beat': 1, 'start_pos': 0.055, 'time_sig': '4/4'}",[0.055],135.0,Techno
+1253389612,BLU,"Lijah, Fonzo",169,['Electro'],['10A'],"{'bpm': 136.0, 'init_beat': 1, 'start_pos': 0.264, 'time_sig': '4/4'}",[14.382 42.617],136.0,Techno
+1868694157,Flying Nimbus,Jook,255,['Electro'],['7A'],"{'bpm': 137.0, 'init_beat': 1, 'start_pos': 0.11900000000000001, 'time_sig': '4/4'}",[ 0.119 28.148 56.178],137.0,Techno
+1707840907,You Break It When You Name It,Kimyan Law,288,['Electro'],['12A'],"{'bpm': 133.0, 'init_beat': 1, 'start_pos': 0.254, 'time_sig': '4/4'}",[ 0.254 14.69  43.563 72.435],133.0,Techno
+391369062,Modification,TMSV,259,[''],['12B'],"{'bpm': 140.0, 'init_beat': 1, 'start_pos': 0.089, 'time_sig': '4/4'}",[ 0.089 27.517],140.0,Trance / Progressive
+1868694147,SelfDestruct,"Boofy, Rocks FOE",202,['Rap/Hip Hop'],['11A'],"{'bpm': 138.0, 'init_beat': 1, 'start_pos': 0.041, 'time_sig': '4/4'}",[ 0.041 27.867],138.0,Trance / Progressive
+943343502,Blood Orange,Drone,229,['Drum & Bass'],['7A'],"{'bpm': 140.0, 'init_beat': 1, 'start_pos': 0.051000000000000004, 'time_sig': '4/4'}",[ 0.051 27.479],140.0,Trance / Progressive
+2234934267,PFTD,"Halogenix, Strategy",192,['Electro'],['4A'],"{'bpm': 140.0, 'init_beat': 1, 'start_pos': 0.052000000000000005, 'time_sig': '4/4'}",[ 0.052 27.481],140.0,Trance / Progressive
+849749402,(Having A Sick Time) In The Mansions Of Bliss,"Kahn, Neek",273,['Electro'],['4A'],"{'bpm': 138.0, 'init_beat': 1, 'start_pos': 0.10200000000000001, 'time_sig': '4/4'}",[ 0.102 27.928],138.0,Trance / Progressive
+436409832,Front Face (LVL 36),Levelz,290,['Rap/Hip Hop'],['9A'],"{'bpm': 140.0, 'init_beat': 1, 'start_pos': 0.029, 'time_sig': '4/4'}",[ 0.029 27.458],140.0,Trance / Progressive
+1453720192,Premium Grease,"Strategy, Fiend",219,['Rap/Hip Hop'],['7B'],"{'bpm': 140.0, 'init_beat': 1, 'start_pos': 0.128, 'time_sig': '4/4'}",[ 0.128 27.556],140.0,Trance / Progressive
+1614444022,Seen,"Jamakabi, Footsie",192,[''],['2B'],"{'bpm': 140.0, 'init_beat': 1, 'start_pos': 0.075, 'time_sig': '4/4'}",[ 0.075 27.504],140.0,Trance / Progressive
+547715182,Wayside,"Hebbe, Melle, Mr.k",291,[''],['9A'],"{'bpm': 140.0, 'init_beat': 1, 'start_pos': 0.053, 'time_sig': '4/4'}",[ 0.053 27.481],140.0,Trance / Progressive
+2210779657,Immortal,Hamdi,281,['Dance'],['9A'],"{'bpm': 140.0, 'init_beat': 1, 'start_pos': 0.043000000000000003, 'time_sig': '4/4'}",[4.3000e-02 2.7472e+01 5.4901e+01],140.0,Trance / Progressive
+678359642,Classic Edition,Chief Kaya,286,['Dance'],['2B'],"{'bpm': 140.0, 'init_beat': 1, 'start_pos': 0.029, 'time_sig': '4/4'}",[ 0.029 27.458],140.0,Trance / Progressive
+810191932,Hoodwinked (Original Mix),J:Kenzo,277,['Electro'],['9A'],"{'bpm': 142.0, 'init_beat': 1, 'start_pos': 0.024, 'time_sig': '4/4'}",[2.4000e-02 2.7066e+01 5.4109e+01],142.0,Trance / Progressive
+771161982,Seen (Original Mix),Headland,262,['Electro'],['4A'],"{'bpm': 140.0, 'init_beat': 1, 'start_pos': 0.025, 'time_sig': '4/4'}",[2.5000e-02 2.7453e+01],140.0,Trance / Progressive
+2348982025,Tremors,"Bleep Bloop, Tsuruda",226,['Electro'],['2A'],"{'bpm': 140.0, 'init_beat': 1, 'start_pos': 0.026000000000000002, 'time_sig': '4/4'}",[13.74  41.169],140.0,Trance / Progressive
+2206867437,Johnny '94 (Dillinja Remix),Johnny Jungle,388,[''],['11A'],"{'bpm': 159.84, 'init_beat': 1, 'start_pos': 0.079, 'time_sig': '4/4'}",[ 0.079 24.104 48.13  72.155],159.84,Dubstep / Bass
+1722180067,Kick Back,Coco Bryce,286,['Drum & Bass'],['9A'],"{'bpm': 158.0, 'init_beat': 1, 'start_pos': 0.029, 'time_sig': '4/4'}",[ 24.332  48.635 145.851 170.155 182.306],158.0,Dubstep / Bass
+2253272337,With Light,"IZCO, Novelist",235,['Electro'],['1A'],"{'bpm': 150.0, 'init_beat': 1, 'start_pos': 0.055, 'time_sig': '4/4'}",[ 0.055 25.655 51.255],150.0,Dubstep / Bass
+70759138,Beasts of Babylon,Eprom,164,[''],['9A'],"{'bpm': 152.0, 'init_beat': 3, 'start_pos': 0.083, 'time_sig': '4/4'}",[15.083 40.346],152.0,Dubstep / Bass
+1060563272,Unmoved Mover (Sinistarr Remix),thys,275,['Electronic'],['2A'],"{'bpm': 158.0, 'init_beat': 1, 'start_pos': 0.051000000000000004, 'time_sig': '4/4'}",[ 24.355 145.874 170.178],158.0,Dubstep / Bass
+1492994842,Press Play,Ivy Lab,174,['Trap / Wave'],['2A'],"{'bpm': 155.0, 'init_beat': 1, 'start_pos': 0.186, 'time_sig': '4/4'}","[ 12.573  24.96   37.347  49.734  62.121  74.508  86.895  99.283 111.67
+ 124.057]",155.0,Dubstep / Bass
+2255450507,Hiding,Bop,360,['Electro'],['4A'],"{'bpm': 155.0, 'init_beat': 1, 'start_pos': 0.08, 'time_sig': '4/4'}","[ 24.855  49.629  74.403  99.177 123.951 148.725 173.499 198.273 223.048
+ 247.822]",155.0,Dubstep / Bass
+1629651332,Daktari,Coco Bryce,337,['Dance'],['7A'],"{'bpm': 157.0, 'init_beat': 1, 'start_pos': 0.055, 'time_sig': '4/4'}",[12.284 36.743 61.201],157.0,Dubstep / Bass
+98905960,Basic Principles (Alex Reece Reprieve) [2015 Remaster],Alex Reece,313,[''],['8A'],"{'bpm': 159.83, 'init_beat': 1, 'start_pos': 0.055, 'time_sig': '4/4'}",[5.5000e-02 2.4080e+01 4.8105e+01 7.2130e+01],159.83,Dubstep / Bass
+2253272297,Road Runner,Watch the Ride,206,['Dance'],['1A'],"{'bpm': 150.0, 'init_beat': 1, 'start_pos': 0.053, 'time_sig': '4/4'}",[ 0.053 25.653],150.0,Dubstep / Bass
+2011990517,You Got Me (Pete Cannon Remix),Liquid Crystal,327,['Dance;Rap/Hip Hop'],['6A'],"{'bpm': 151.87, 'init_beat': 1, 'start_pos': 0.091, 'time_sig': '4/4'}","[ 50.661  25.376 113.873 139.158 164.443 218.174 192.889 243.459 268.743
+  75.946]",151.87,Dubstep / Bass
+512097422,Deep News,Halogenix,253,['Drum & Bass'],['6A'],"{'bpm': 158.0, 'init_beat': 2, 'start_pos': 0.034, 'time_sig': '4/4'}",[ 5.729 30.033 54.337],158.0,Dubstep / Bass
+1368647652,Dangerous Sound,Eprom,169,['Electro'],['2A'],"{'bpm': 150.0, 'init_beat': 1, 'start_pos': 0.051000000000000004, 'time_sig': '4/4'}",[ 0.051 25.651],150.0,Dubstep / Bass
+131039766,U Know,Arktkt,286,[''],['10A'],"{'bpm': 150.0, 'init_beat': 1, 'start_pos': 0.053, 'time_sig': '4/4'}",[12.853 38.452],150.0,Dubstep / Bass
+2260261707,Believe,Metrik,270,['Electronica'],['11A'],"{'bpm': 174.0, 'init_beat': 1, 'start_pos': 0.061, 'time_sig': '4/4'}",[22.13 44.2 ],174.0,Drum & Bass / Jungle
+2338145175,T.H.U.G.,Blade,373,['Electro'],['11A'],"{'bpm': 176.0, 'init_beat': 1, 'start_pos': 0.126, 'time_sig': '4/4'}","[ 21.944  43.763  65.581  87.399 109.217 131.036 152.854 174.672 196.49
+ 218.309]",176.0,Drum & Bass / Jungle
+2254646587,Memory Lane,Netsky,335,['LIQUID (CLASSICS)'],['12A'],"{'bpm': 175.0, 'init_beat': 1, 'start_pos': 0.20800000000000002, 'time_sig': '4/4'}",[66.037 44.094 22.151  0.208],175.0,Drum & Bass / Jungle
+773601712,Flash Mob (Original Mix),"Ulterior Motive, Future Cut",341,"[""Jungle/Drum'n'Bass""]",['9A'],"{'bpm': 174.0, 'init_beat': 1, 'start_pos': 0.171, 'time_sig': '4/4'}",[22.24  44.309],174.0,Drum & Bass / Jungle
+373276851,Clockwork,"Surreal, Surreal and Critical Event, Critical Event",274,['Drum & Bass'],['5A'],"{'bpm': 175.0, 'init_beat': 1, 'start_pos': 0.059000000000000004, 'time_sig': '4/4'}","[ 22.001  43.944  65.887  87.83  109.773 131.716 153.658 175.601 197.544
+ 219.487]",175.0,Drum & Bass / Jungle
+1733648417,Swag,DC Breaks,311,['Electronic'],['7B'],"{'bpm': 174.0, 'init_beat': 1, 'start_pos': 0.049, 'time_sig': '4/4'}",[ 22.118 132.463],174.0,Drum & Bass / Jungle
+88596807,The Base,Xtrah,295,['Electronic'],['4A'],"{'bpm': 172.0, 'init_beat': 1, 'start_pos': 0.039, 'time_sig': '4/4'}",[22.365],172.0,Drum & Bass / Jungle
+972043352,Warning (feat. Gappy Ranks) (Bou Remix),"SHY FX, Gappy Ranks",271,['Dance'],['6A'],"{'bpm': 175.0, 'init_beat': 1, 'start_pos': 0.052000000000000005, 'time_sig': '4/4'}",[ 0.052 21.995 43.938],175.0,Drum & Bass / Jungle
+773528412,Untitled Horn (Original Mix),SpectraSoul,319,['Dance'],['7B'],"{'bpm': 172.0, 'init_beat': 1, 'start_pos': 0.036000000000000004, 'time_sig': '4/4'}","[ 22.361  44.687  67.013  89.339 111.664 133.99  156.316 178.641 200.967
+ 223.293]",172.0,Drum & Bass / Jungle
+1107417312,Soon,"Sublimit, Phadix",388,[''],['3A'],"{'bpm': 175.0, 'init_beat': 1, 'start_pos': 0.101, 'time_sig': '4/4'}",[ 0.101 22.044 43.987 65.93 ],175.0,Drum & Bass / Jungle
+425701252,Stranded,Rameses B,297,['Drum & Bass'],['7A'],"{'bpm': 174.0, 'init_beat': 1, 'start_pos': 0.026000000000000002, 'time_sig': '4/4'}",[22.095],174.0,Drum & Bass / Jungle
+1082090622,Chess & Rollies (Napes Remix),"Napes, Elbi UK",245,['Dance'],['7B'],"{'bpm': 174.0, 'init_beat': 1, 'start_pos': 0.052000000000000005, 'time_sig': '4/4'}",[ 0.052 22.121 44.19 ],174.0,Drum & Bass / Jungle
+1785171347,Room Change,"Coza, Krash",265,['Drum & Bass'],['12B'],"{'bpm': 174.0, 'init_beat': 1, 'start_pos': 0.025, 'time_sig': '4/4'}",[22.094],174.0,Drum & Bass / Jungle
+2259920687,Hold Ya (VIP),"Whiney, Keeno",285,['Dance'],['1A'],"{'bpm': 175.0, 'init_beat': 1, 'start_pos': 0.05, 'time_sig': '4/4'}",[21.993 43.935 65.878],175.0,Drum & Bass / Jungle
