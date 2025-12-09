@@ -1,34 +1,74 @@
 from yt_dlp import YoutubeDL
 import pandas as pd
-
+import os
+import re
+from mutagen.easyid3 import EasyID3
+from mutagen.id3 import ID3, APIC, error
 
 CSV_PATH = "./samples/train_sample_100_seed2025_20251126-194143.csv"
 OUTPUT_DIR = "./songs"
 
-# Read CSV
+# ---- Make filenames safe ----
+def safe_filename(name: str) -> str:
+    return re.sub(r'[\\/*?:"<>|]', '', name)
+
+# ---- Load CSV ----
 df = pd.read_csv(CSV_PATH)
 
-# yt-dlp options
+# ---- yt-dlp options ----
 ydl_opts = {
-    'format': 'bestaudio/best',
-    'outtmpl': f'{OUTPUT_DIR}/%(artist)s - %(title)s.%(ext)s',  # filename template
-    'postprocessors': [{
-        'key': 'FFmpegExtractAudio',
-        'preferredcodec': 'mp3',
-        'preferredquality': '192',
-    }],
-    'quiet': False,
-    'noplaylist': True,
-    'ignoreerrors': True,  # continue on download errors
+    "format": "bestaudio/best",
+    "quiet": False,
+    "noplaylist": True,
+    "postprocessors": [
+        {
+            "key": "FFmpegExtractAudio",
+            "preferredcodec": "mp3",
+            "preferredquality": "192",
+        }
+    ],
 }
 
-with YoutubeDL(ydl_opts) as ydl:
-    for _, row in df.iterrows():
-        search_query = f"{row['title']} {row['artists']}"
-        print(f"Downloading: {search_query}")
-        try:
-            # ytsearch1: only download the first YouTube result
-            ydl.download([f"ytsearch1:{search_query}"])
-        except Exception as e:
-            print(f"Failed to download {search_query}: {e}")
+output_folder = OUTPUT_DIR
+os.makedirs(output_folder, exist_ok=True)
 
+# ---- Download Loop ----
+for _, row in df.iterrows():
+    title = str(row["title"])
+    artist = str(row["artists"])
+
+    query = f"{artist} {title} audio"
+
+    print(f"\n🔍 Searching & downloading: {title} – {artist}")
+
+    # Download audio
+    with YoutubeDL(ydl_opts) as ydl:
+        info = ydl.extract_info(f"ytsearch:{query}", download=True)
+        entry = info["entries"][0]
+        downloaded_path = ydl.prepare_filename(entry)
+        temp_file = os.path.splitext(downloaded_path)[0] + ".mp3"
+
+    # Rename to title.mp3
+    final_name = safe_filename(f"{title}.mp3")
+    final_path = os.path.join(output_folder, final_name)
+
+    if not os.path.exists(temp_file):
+        print(f"❌ Missing file: {temp_file}")
+        continue
+
+    os.rename(temp_file, final_path)
+    print(f"✅ Saved as: {final_path}")
+
+    # ---- Insert Metadata ----
+    try:
+        audio = EasyID3(final_path)
+    except error:
+        audio = ID3()
+
+    audio["title"] = title
+    audio["artist"] = artist
+    audio.save(final_path)
+
+    print(f"🎵 Added metadata → Title: {title}, Artist: {artist}")
+
+print("\n🎉 Done.")
