@@ -1,0 +1,55 @@
+[
+  {
+    "id": "2259920687",
+    "song": "Whiney, Keeno - Hold Ya (VIP)",
+    "file_path": "/Users/joelbae/Downloads/EDM-CUE_testing/songs/Hold Ya (VIP).mp3",
+    "duration": 285.0,
+    "sections": [
+      {
+        "start": 0.033,
+        "end": 43.918,
+        "label": "intro"
+      },
+      {
+        "start": 43.918,
+        "end": 65.861,
+        "label": "verse"
+      },
+      {
+        "start": 65.861,
+        "end": 86.433,
+        "label": "buildup"
+      },
+      {
+        "start": 86.433,
+        "end": 87.804,
+        "label": "silence"
+      },
+      {
+        "start": 87.804,
+        "end": 153.633,
+        "label": "chorus"
+      },
+      {
+        "start": 153.633,
+        "end": 175.576,
+        "label": "breakdown"
+      },
+      {
+        "start": 175.576,
+        "end": 197.518,
+        "label": "buildup"
+      },
+      {
+        "start": 197.518,
+        "end": 263.347,
+        "label": "chorus"
+      },
+      {
+        "start": 263.347,
+        "end": 285.0,
+        "label": "outro"
+      }
+    ]
+  }
+]
