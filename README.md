@@ -11,6 +11,15 @@ CLI tools for inspecting and sampling the EDM-CUE Hugging Face dataset. All comm
 
 All scripts fetch data on demand from Hugging Face and display figures via Matplotlib; close the window(s) to exit.
 
+## Project Layout (New)
+- `visualization/`: Core visualization module (`python -m visualization`).
+- `tools/sampling/`: Stratified sampling + sample viewer implementations.
+- `tools/audio/`: Download + Rekordbox XML extraction + fix script implementations.
+- `data/samples/`: Generated sample CSVs (symlinked as `samples/` for compatibility).
+- `data/songs/`: Downloaded audio (symlinked as `songs/` for compatibility).
+- `data/exports/`: JSON exports such as `dataset.json` (symlinked at repo root).
+- Top-level `sample_songs.py`, `view_sample.py`, `songdl.py`, `xml_extractor.py`, and `fix_tracks.sh` remain as compatibility wrappers.
+
 ## Visualization Module (`python -m visualization`)
 Plots BPM histograms and genre distributions for any split without mutating data.
 
@@ -49,6 +58,36 @@ Flags:
 - `--bins`, `--show_bpm`, `--show_genre`, `--debug`: Same semantics as above; at least one of the `--show_*` flags is required.
 
 Use this when you only need to inspect previously generated samples.
+
+## Audio Pipeline Utilities
+These utilities build on the sampled CSVs to download audio and extract labeled cue sections.
+
+### Song Downloader (`python songdl.py`)
+Downloads MP3s from YouTube search results based on the sample CSV.
+
+Flags:
+- `--csv <path>`: Sample CSV to download (default: `data/samples/train_sample_100_seed2025_20251126-194143.csv`).
+- `--output_dir <path>`: Destination for MP3s (default: `data/songs/`).
+- `--audio_quality <value>`: FFmpeg audio quality (default: `192`).
+
+Notes:
+- Requires `yt-dlp`, `ffmpeg`, and `deno` (for the JS runtime).
+- Uses the song title as the filename and writes ID3 metadata for title + artist.
+
+### Rekordbox XML Extractor (`python xml_extractor.py`)
+Parses `rekordbox.xml`, matches against the sample CSV, and emits a JSON dataset with labeled cue sections.
+
+Flags:
+- `--xml <path>`: Rekordbox XML path (default: `rekordbox.xml`).
+- `--csv <path>`: Sample CSV to match against (default: `data/samples/train_sample_100_seed2025_20251126-194143.csv`).
+- `--output <path>`: JSON export path (default: `data/exports/dataset.json`).
+
+### Fix Incorrect Downloads (`./fix_tracks.sh <input.txt>`)
+Downloads a corrected list of tracks from explicit URLs. Each entry is two lines:
+1) URL
+2) Desired filename (without extension)
+
+Default input lives at `data/inputs/songs_to_fix.txt`, but any path is accepted.
 
 ## Taxonomy Overview
 Genre normalization and bucketing are configured in `config/taxonomy.py`:
