@@ -9,8 +9,11 @@ CSV_PATH = "./samples/train_sample_100_seed2025_20251126-194143.csv"
 OUTPUT_DIR = "./songs"
 
 # ---- Make filenames safe ----
+
+
 def safe_filename(name: str) -> str:
     return re.sub(r'[\\/*?:"<>|]', '', name)
+
 
 # ---- Load CSV ----
 df = pd.read_csv(CSV_PATH)
@@ -20,6 +23,10 @@ ydl_opts = {
     "format": "bestaudio/best",
     "quiet": False,
     "noplaylist": True,
+
+    "remote_components": ["ejs:github"],
+
+    "js_runtimes": {"deno": {}},
     "postprocessors": [
         {
             "key": "FFmpegExtractAudio",
@@ -45,8 +52,8 @@ for _, row in df.iterrows():
     with YoutubeDL(ydl_opts) as ydl:
         info = ydl.extract_info(f"ytsearch:{query}", download=True)
         entry = info["entries"][0]
-        downloaded_path = ydl.prepare_filename(entry)
-        temp_file = os.path.splitext(downloaded_path)[0] + ".mp3"
+        files = ydl.prepare_filename(entry)
+        temp_file = os.path.splitext(files)[0] + ".mp3"
 
     # Rename to title.mp3
     final_name = safe_filename(f"{title}.mp3")

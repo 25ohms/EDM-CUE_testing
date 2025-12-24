@@ -7,6 +7,7 @@ CLI tools for inspecting and sampling the EDM-CUE Hugging Face dataset. All comm
 - Visualizations: `python -m visualization --show_bpm --show_genre`
 - Stratified sampling: `python sample_songs.py --show_bpm --show_genre`
 - View an existing sample CSV: `python view_sample.py --file <csv> --show_bpm --show_genre`
+- TO USE `songdl.py`, ensure you have [deno](https://deno.com/) installed.
 
 All scripts fetch data on demand from Hugging Face and display figures via Matplotlib; close the window(s) to exit.
 
