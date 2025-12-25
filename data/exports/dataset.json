@@ -1,54 +1,84 @@
 [
   {
-    "id": "2259920687",
-    "song": "Whiney, Keeno - Hold Ya (VIP)",
-    "file_path": "/Users/joelbae/Downloads/EDM-CUE_testing/songs/Hold Ya (VIP).mp3",
-    "duration": 285.0,
+    "id": "883297722",
+    "song": "Sammy Virji - Find My Way Home",
+    "file_path": "/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Find My Way Home.mp3",
+    "duration": 258.0,
     "sections": [
       {
-        "start": 0.033,
-        "end": 43.918,
-        "label": "intro"
+        "start": 0.023,
+        "end": 14.141,
+        "label": "Intro"
       },
       {
-        "start": 43.918,
-        "end": 65.861,
-        "label": "verse"
+        "start": 14.141,
+        "end": 28.258,
+        "label": "Build-Up"
       },
       {
-        "start": 65.861,
-        "end": 86.433,
-        "label": "buildup"
+        "start": 28.258,
+        "end": 56.493,
+        "label": "Chorus"
       },
       {
-        "start": 86.433,
-        "end": 87.804,
-        "label": "silence"
+        "start": 56.493,
+        "end": 84.729,
+        "label": "Verse"
       },
       {
-        "start": 87.804,
-        "end": 153.633,
-        "label": "chorus"
+        "start": 84.729,
+        "end": 112.964,
+        "label": "Chorus"
       },
       {
-        "start": 153.633,
-        "end": 175.576,
-        "label": "breakdown"
+        "start": 112.964,
+        "end": 127.082,
+        "label": "Breakdown"
       },
       {
-        "start": 175.576,
-        "end": 197.518,
-        "label": "buildup"
+        "start": 127.082,
+        "end": 141.199,
+        "label": "Build-up"
       },
       {
-        "start": 197.518,
-        "end": 263.347,
-        "label": "chorus"
+        "start": 141.199,
+        "end": 155.317,
+        "label": "Chorus"
       },
       {
-        "start": 263.347,
-        "end": 285.0,
-        "label": "outro"
+        "start": 155.317,
+        "end": 169.435,
+        "label": "Chorus"
+      },
+      {
+        "start": 169.435,
+        "end": 197.67,
+        "label": "Verse"
+      },
+      {
+        "start": 197.67,
+        "end": 211.788,
+        "label": "Chorus"
+      },
+      {
+        "start": 211.788,
+        "end": 225.905,
+        "label": "Chorus"
+      },
+      {
+        "start": 225.905,
+        "end": 240.023,
+        "label": "Breakdown"
+      },
+      {
+        "start": 240.023,
+        "end": 255.023,
+        "label": "Outro"
+      },
+      {
+        "start": 255.023,
+        "end": 258.0,
+        "label": "END"
       }
     ]
   }

@@ -8,7 +8,8 @@ from typing import Iterable, Optional, Tuple
 from urllib.parse import unquote, urlparse
 
 DEFAULT_XML_FILE = Path("rekordbox.xml")
-DEFAULT_CSV_FILE = Path("data/samples/train_sample_100_seed2025_20251126-194143.csv")
+DEFAULT_CSV_FILE = Path(
+    "data/samples/train_sample_100_seed2025_20251126-194143.csv")
 LEGACY_CSV_FILE = Path("samples/train_sample_100_seed2025_20251126-194143.csv")
 DEFAULT_OUTPUT_FILE = Path("data/exports/dataset.json")
 LEGACY_OUTPUT_FILE = Path("dataset.json")
@@ -59,16 +60,31 @@ def build_xml_index(xml_file: Path) -> dict[str, list[ET.Element]]:
     return xml_index
 
 
+def _track_has_labeled_cues(track: ET.Element) -> bool:
+    for mark in track.findall("POSITION_MARK"):
+        if mark.get("Name"):
+            return True
+    return False
+
+
 def find_exact_match(title_matches: Iterable[ET.Element], target_artist: str) -> ET.Element:
     target_artist = clean_text(target_artist)
     matches = list(title_matches)
 
-    for track in matches:
-        xml_artist = clean_text(track.get("Artist"))
-        if xml_artist == target_artist or target_artist in xml_artist or xml_artist in target_artist:
+    artist_matches: list[ET.Element] = []
+    if target_artist:
+        for track in matches:
+            xml_artist = clean_text(track.get("Artist"))
+            if xml_artist == target_artist or target_artist in xml_artist or xml_artist in target_artist:
+                artist_matches.append(track)
+
+    candidates = artist_matches if artist_matches else matches
+
+    for track in candidates:
+        if _track_has_labeled_cues(track):
             return track
 
-    return matches[0]
+    return candidates[0]
 
 
 def process_database_matches(
@@ -147,7 +163,8 @@ def process_database_matches(
             for i, cue in enumerate(cues):
                 start_time = cue["time"]
                 label = cue["label"]
-                end_time = cues[i + 1]["time"] if i < len(cues) - 1 else total_time
+                end_time = cues[i +
+                                1]["time"] if i < len(cues) - 1 else total_time
                 if end_time > start_time + 0.05:
                     sections.append(
                         {
@@ -171,10 +188,12 @@ def process_database_matches(
         output_file.parent.mkdir(parents=True, exist_ok=True)
         with output_file.open("w", encoding="utf-8") as handle:
             json.dump(processed_data, handle, indent=2)
-        print(f"\nSuccess! Exported {len(processed_data)} tracks to '{output_file}'.")
+        print(f"\nSuccess! Exported {
+              len(processed_data)} tracks to '{output_file}'.")
 
     if missing_tracks:
-        print(f"\nWarning: {len(missing_tracks)} songs from CSV were not found in XML.")
+        print(f"\nWarning: {len(missing_tracks)
+                            } songs from CSV were not found in XML.")
         for entry in missing_tracks[:5]:
             print(f" - {entry}")
 
@@ -182,9 +201,12 @@ def process_database_matches(
 
 
 def build_arg_parser() -> argparse.ArgumentParser:
-    parser = argparse.ArgumentParser(description="Extract labeled cue sections from Rekordbox XML.")
-    parser.add_argument("--xml", type=Path, default=DEFAULT_XML_FILE, help="Path to rekordbox.xml.")
-    parser.add_argument("--csv", type=Path, default=_default_csv_file(), help="Sample CSV used for lookup.")
+    parser = argparse.ArgumentParser(
+        description="Extract labeled cue sections from Rekordbox XML.")
+    parser.add_argument(
+        "--xml", type=Path, default=DEFAULT_XML_FILE, help="Path to rekordbox.xml.")
+    parser.add_argument("--csv", type=Path, default=_default_csv_file(),
+                        help="Sample CSV used for lookup.")
     parser.add_argument(
         "--output",
         type=Path,
@@ -198,7 +220,8 @@ def main(argv: Optional[Iterable[str]] = None) -> None:
     parser = build_arg_parser()
     args = parser.parse_args(args=None if argv is None else list(argv))
 
-    process_database_matches(xml_file=args.xml, csv_file=args.csv, output_file=args.output)
+    process_database_matches(
+        xml_file=args.xml, csv_file=args.csv, output_file=args.output)
 
 
 if __name__ == "__main__":

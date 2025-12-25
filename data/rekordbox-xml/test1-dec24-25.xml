@@ -1,0 +1,501 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DJ_PLAYLISTS Version="1.0.0">
+  <PRODUCT Name="rekordbox" Version="7.1.4" Company="AlphaTheta" />
+  <COLLECTION Entries="100">
+    <TRACK TrackID="65185894" Name="(Having A Sick Time) In The Mansions Of Bliss" Artist="Kahn, Neek" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="6459364" TotalTime="268" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="138.32" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/(Having%20A%20Sick%20Time)%20In%20The%20Mansions%20Of%20Bliss.mp3" Remixer="" Tonality="4A" Label="" Mix="">
+      <TEMPO Inizio="0.011" Bpm="138.32" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="213693307" Name="Aerodynamic" Artist="Daft Punk" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="5108988" TotalTime="212" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="122.88" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Aerodynamic.mp3" Remixer="" Tonality="7A" Label="" Mix="">
+      <TEMPO Inizio="0.323" Bpm="122.88" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="0.812" Bpm="122.88" Metro="4/4" Battito="2" />
+      <TEMPO Inizio="72.100" Bpm="122.88" Metro="4/4" Battito="4" />
+      <TEMPO Inizio="150.224" Bpm="122.88" Metro="4/4" Battito="4" />
+    </TRACK>
+    <TRACK TrackID="97696016" Name="Afterglow" Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="5449580" TotalTime="227" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="174.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Afterglow.mp3" Remixer="" Tonality="9B" Label="" Mix="">
+      <TEMPO Inizio="0.081" Bpm="174.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="51737842" Name="Airwalk" Artist="Oak" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="5938095" TotalTime="247" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="107.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Airwalk.mp3" Remixer="" Tonality="8A" Label="" Mix="">
+      <TEMPO Inizio="0.048" Bpm="107.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="93509657" Name="All I Need" Artist="Nexus &amp; Tight" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="7536376" TotalTime="313" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="174.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/All%20I%20Need.mp3" Remixer="" Tonality="12A" Label="" Mix="">
+      <TEMPO Inizio="0.022" Bpm="174.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="77972225" Name="Around the World" Artist="Daft Punk" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="10321240" TotalTime="429" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="121.29" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Around%20the%20World.mp3" Remixer="" Tonality="9B" Label="" Mix="">
+      <TEMPO Inizio="0.025" Bpm="121.29" Metro="4/4" Battito="4" />
+    </TRACK>
+    <TRACK TrackID="94354148" Name="Astral Projection" Artist="Enrico Sangiuliano" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="11646799" TotalTime="484" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="125.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Astral%20Projection.mp3" Remixer="" Tonality="1A" Label="" Mix="">
+      <TEMPO Inizio="0.467" Bpm="125.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="237525788" Name="Basic Principles (Alex Reece Reprieve) [2015 Remaster]" Artist="Alex Reece" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="7531228" TotalTime="313" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="159.86" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Basic%20Principles%20(Alex%20Reece%20Reprieve)%20%5b2015%20Remaster%5d.mp3" Remixer="" Tonality="8A" Label="" Mix="">
+      <TEMPO Inizio="0.029" Bpm="159.86" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="0.405" Bpm="159.86" Metro="4/4" Battito="2" />
+      <TEMPO Inizio="38.689" Bpm="159.86" Metro="4/4" Battito="4" />
+      <TEMPO Inizio="103.246" Bpm="159.86" Metro="4/4" Battito="4" />
+      <TEMPO Inizio="141.530" Bpm="159.86" Metro="4/4" Battito="2" />
+      <TEMPO Inizio="206.087" Bpm="159.86" Metro="4/4" Battito="2" />
+      <TEMPO Inizio="270.644" Bpm="159.86" Metro="4/4" Battito="2" />
+      <TEMPO Inizio="308.928" Bpm="159.86" Metro="4/4" Battito="4" />
+    </TRACK>
+    <TRACK TrackID="2859793" Name="Beasts of Babylon" Artist="Eprom" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="3946037" TotalTime="164" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="76.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Beasts%20of%20Babylon.mp3" Remixer="" Tonality="9A" Label="" Mix="">
+      <TEMPO Inizio="0.056" Bpm="76.00" Metro="4/4" Battito="2" />
+    </TRACK>
+    <TRACK TrackID="199287265" Name="Believe" Artist="Metrik" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="6563683" TotalTime="273" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="174.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Believe.mp3" Remixer="" Tonality="11A" Label="" Mix="">
+      <TEMPO Inizio="0.070" Bpm="174.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="167338821" Name="Black Heart Communion" Artist="Shades" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="4799374" TotalTime="199" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="120.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Black%20Heart%20Communion.mp3" Remixer="" Tonality="4A" Label="" Mix="">
+      <TEMPO Inizio="0.056" Bpm="120.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="227582465" Name="Blood Orange" Artist="Drone" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="5505670" TotalTime="229" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="140.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Blood%20Orange.mp3" Remixer="" Tonality="7B" Label="" Mix="">
+      <TEMPO Inizio="0.032" Bpm="140.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="121150641" Name="BLU" Artist="Lijah, Fonzo" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="4084984" TotalTime="169" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="136.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/BLU.mp3" Remixer="" Tonality="10A" Label="" Mix="">
+      <TEMPO Inizio="0.321" Bpm="136.00" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="6.498" Bpm="136.00" Metro="4/4" Battito="3" />
+    </TRACK>
+    <TRACK TrackID="225659671" Name="Broken" Artist="Terrence &amp; Phillip" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="5183371" TotalTime="215" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="174.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Broken.mp3" Remixer="" Tonality="4A" Label="" Mix="">
+      <TEMPO Inizio="0.023" Bpm="174.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="140225022" Name="Casin" Artist="glue70" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="2561090" TotalTime="106" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="104.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Casin.mp3" Remixer="" Tonality="7A" Label="" Mix="">
+      <TEMPO Inizio="0.117" Bpm="104.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="37640271" Name="Chess &amp; Rollies (Napes Remix)" Artist="Napes, Elbi UK" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="109510781" TotalTime="4558" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="176.03" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Chess%20%26%20Rollies%20(Napes%20Remix).mp3" Remixer="" Tonality="2A" Label="" Mix="">
+      <TEMPO Inizio="0.029" Bpm="176.03" Metro="4/4" Battito="4" />
+    </TRACK>
+    <TRACK TrackID="93483167" Name="Classic Edition" Artist="Chief Kaya" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="6895802" TotalTime="286" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="140.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Classic%20Edition.mp3" Remixer="" Tonality="6A" Label="" Mix="">
+      <TEMPO Inizio="0.024" Bpm="140.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="68302578" Name="Clockwork" Artist="Surreal, Surreal and Critical Event, Critical Event" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="6490896" TotalTime="270" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="175.00" DateAdded="2025-12-24" BitRate="192" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Clockwork.mp3" Remixer="" Tonality="5A" Label="" Mix="">
+      <TEMPO Inizio="0.145" Bpm="175.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="265569922" Name="Cyclone" Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="5175404" TotalTime="215" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="126.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Cyclone.mp3" Remixer="" Tonality="8B" Label="" Mix="">
+      <TEMPO Inizio="0.042" Bpm="126.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="84082426" Name="Daktari" Artist="Coco Bryce" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="8128514" TotalTime="338" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="157.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Daktari.mp3" Remixer="" Tonality="6A" Label="" Mix="">
+      <TEMPO Inizio="0.072" Bpm="157.00" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="0.455" Bpm="157.00" Metro="4/4" Battito="2" />
+    </TRACK>
+    <TRACK TrackID="248284285" Name="Dangerous Sound" Artist="Eprom" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="4075764" TotalTime="169" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="150.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Dangerous%20Sound.mp3" Remixer="" Tonality="2A" Label="" Mix="">
+      <TEMPO Inizio="0.055" Bpm="150.00" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="158.456" Bpm="150.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="53458567" Name="Deep News" Artist="Halogenix" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="7181200" TotalTime="298" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="172.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Deep%20News.mp3" Remixer="" Tonality="11A" Label="" Mix="">
+      <TEMPO Inizio="0.143" Bpm="172.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="208523830" Name="Digital Love" Artist="Daft Punk" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="7242897" TotalTime="301" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="124.75" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Digital%20Love.mp3" Remixer="" Tonality="11B" Label="" Mix="">
+      <TEMPO Inizio="0.162" Bpm="124.75" Metro="4/4" Battito="4" />
+    </TRACK>
+    <TRACK TrackID="150576813" Name="Dresden Codex" Artist="Ivy Lab" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="4741709" TotalTime="197" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="133.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Dresden%20Codex.mp3" Remixer="" Tonality="9A" Label="" Mix="">
+      <TEMPO Inizio="0.221" Bpm="133.00" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="114.808" Bpm="133.00" Metro="4/4" Battito="3" />
+    </TRACK>
+    <TRACK TrackID="108525282" Name="Ends" Artist="Alix Perez, Headland" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="6788558" TotalTime="282" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="135.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Ends.mp3" Remixer="" Tonality="4A" Label="" Mix="">
+      <TEMPO Inizio="0.118" Bpm="135.00" Metro="4/4" Battito="3" />
+      <TEMPO Inizio="0.563" Bpm="135.00" Metro="4/4" Battito="4" />
+    </TRACK>
+    <TRACK TrackID="190460206" Name="Face to Face" Artist="Daft Punk" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="5772052" TotalTime="240" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="117.88" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Face%20to%20Face.mp3" Remixer="" Tonality="12A" Label="" Mix="">
+      <TEMPO Inizio="0.109" Bpm="117.88" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="63087760" Name="Find My Way Home" Artist="Sammy Virji" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="6221210" TotalTime="258" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="136.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Find%20My%20Way%20Home.mp3" Remixer="" Tonality="2A" Label="" Mix="">
+      <TEMPO Inizio="0.023" Bpm="136.00" Metro="4/4" Battito="1" />
+      <POSITION_MARK Name="Intro" Type="0" Start="0.023" Num="0" Red="40" Green="226" Blue="20" />
+      <POSITION_MARK Name="Build-Up" Type="0" Start="14.141" Num="1" Red="40" Green="226" Blue="20" />
+      <POSITION_MARK Name="Chorus" Type="0" Start="28.258" Num="2" Red="40" Green="226" Blue="20" />
+      <POSITION_MARK Name="Verse" Type="0" Start="56.493" Num="3" Red="40" Green="226" Blue="20" />
+      <POSITION_MARK Name="Chorus" Type="0" Start="84.729" Num="4" Red="40" Green="226" Blue="20" />
+      <POSITION_MARK Name="Breakdown" Type="0" Start="112.964" Num="5" Red="40" Green="226" Blue="20" />
+      <POSITION_MARK Name="Build-up" Type="0" Start="127.082" Num="6" Red="40" Green="226" Blue="20" />
+      <POSITION_MARK Name="Chorus" Type="0" Start="141.199" Num="7" Red="40" Green="226" Blue="20" />
+      <POSITION_MARK Name="Chorus" Type="0" Start="155.317" Num="-1" />
+      <POSITION_MARK Name="Verse" Type="0" Start="169.435" Num="-1" />
+      <POSITION_MARK Name="Chorus" Type="0" Start="197.670" Num="-1" />
+      <POSITION_MARK Name="Chorus" Type="0" Start="211.788" Num="-1" />
+      <POSITION_MARK Name="Breakdown" Type="0" Start="225.905" Num="-1" />
+      <POSITION_MARK Name="Outro" Type="0" Start="240.023" Num="-1" />
+      <POSITION_MARK Name="END" Type="0" Start="255.023" Num="-1" />
+    </TRACK>
+    <TRACK TrackID="207139139" Name="Flash Mob (Original Mix)" Artist="Ulterior Motive, Future Cut" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="8200620" TotalTime="341" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="174.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Flash%20Mob%20(Original%20Mix).mp3" Remixer="" Tonality="9A" Label="" Mix="">
+      <TEMPO Inizio="0.147" Bpm="174.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="252507369" Name="Flatline" Artist="Flowdan" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="4011759" TotalTime="166" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="136.01" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Flatline.mp3" Remixer="" Tonality="7A" Label="" Mix="">
+      <TEMPO Inizio="0.432" Bpm="136.01" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="14.108" Bpm="136.01" Metro="4/4" Battito="4" />
+      <TEMPO Inizio="33.960" Bpm="136.01" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="53.812" Bpm="136.01" Metro="4/4" Battito="2" />
+      <TEMPO Inizio="70.576" Bpm="136.01" Metro="4/4" Battito="4" />
+      <TEMPO Inizio="90.428" Bpm="136.01" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="110.280" Bpm="136.01" Metro="4/4" Battito="2" />
+      <TEMPO Inizio="130.132" Bpm="136.01" Metro="4/4" Battito="3" />
+      <TEMPO Inizio="149.984" Bpm="136.01" Metro="4/4" Battito="4" />
+      <TEMPO Inizio="166.748" Bpm="136.01" Metro="4/4" Battito="2" />
+    </TRACK>
+    <TRACK TrackID="158956487" Name="Flep" Artist="Mitekiss" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="4250459" TotalTime="176" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="135.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Flep.mp3" Remixer="" Tonality="6A" Label="" Mix="">
+      <TEMPO Inizio="0.022" Bpm="135.00" Metro="4/4" Battito="4" />
+      <TEMPO Inizio="0.467" Bpm="135.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="149348957" Name="FleshNet" Artist="Eprom" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="4327144" TotalTime="180" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="120.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/FleshNet.mp3" Remixer="" Tonality="4A" Label="" Mix="">
+      <TEMPO Inizio="0.023" Bpm="120.00" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="19.022" Bpm="120.00" Metro="4/4" Battito="3" />
+      <TEMPO Inizio="83.021" Bpm="120.00" Metro="4/4" Battito="3" />
+      <TEMPO Inizio="147.020" Bpm="120.00" Metro="4/4" Battito="3" />
+    </TRACK>
+    <TRACK TrackID="241826843" Name="Flying Nimbus" Artist="Jook" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="6123759" TotalTime="254" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="137.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Flying%20Nimbus.mp3" Remixer="" Tonality="7A" Label="" Mix="">
+      <TEMPO Inizio="0.431" Bpm="137.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="74093383" Name="Front Face (LVL 36)" Artist="Levelz" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="6969604" TotalTime="290" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="140.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Front%20Face%20(LVL%2036).mp3" Remixer="" Tonality="9A" Label="" Mix="">
+      <TEMPO Inizio="0.051" Bpm="140.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="114148018" Name="Frozen Bubble" Artist="Tobax" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="8026461" TotalTime="334" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="135.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Frozen%20Bubble.mp3" Remixer="" Tonality="4A" Label="" Mix="">
+      <TEMPO Inizio="0.056" Bpm="135.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="69464481" Name="Generator" Artist="Dimension" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="3745384" TotalTime="155" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="113.03" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Generator.mp3" Remixer="" Tonality="4A" Label="" Mix="">
+      <TEMPO Inizio="0.074" Bpm="113.03" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="123869729" Name="Groundwork" Artist="Glaskin" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="9507107" TotalTime="395" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="128.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Groundwork.mp3" Remixer="" Tonality="4B" Label="" Mix="">
+      <TEMPO Inizio="0.022" Bpm="128.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="244941272" Name="Hardbody" Artist="Cyantific" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="7067614" TotalTime="294" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="174.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Hardbody.mp3" Remixer="" Tonality="4A" Label="" Mix="">
+      <TEMPO Inizio="0.106" Bpm="174.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="240622548" Name="Harder, Better, Faster, Stronger" Artist="Daft Punk" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="5400180" TotalTime="224" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="123.45" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Harder,%20Better,%20Faster,%20Stronger.mp3" Remixer="" Tonality="11A" Label="" Mix="">
+      <TEMPO Inizio="0.238" Bpm="123.45" Metro="4/4" Battito="2" />
+      <TEMPO Inizio="8.501" Bpm="123.45" Metro="4/4" Battito="3" />
+      <TEMPO Inizio="51.758" Bpm="123.45" Metro="4/4" Battito="4" />
+      <TEMPO Inizio="95.015" Bpm="123.45" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="138.272" Bpm="123.45" Metro="4/4" Battito="2" />
+      <TEMPO Inizio="182.015" Bpm="123.45" Metro="4/4" Battito="4" />
+    </TRACK>
+    <TRACK TrackID="131848626" Name="Hiding" Artist="Bop" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="8650884" TotalTime="360" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="155.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Hiding.mp3" Remixer="" Tonality="5A" Label="" Mix="">
+      <TEMPO Inizio="0.083" Bpm="155.00" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="1.245" Bpm="155.00" Metro="4/4" Battito="4" />
+    </TRACK>
+    <TRACK TrackID="17144579" Name="Hold Ya (VIP)" Artist="Whiney, Keeno" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="6855443" TotalTime="285" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Hold%20Ya%20(VIP).mp3" Remixer="" Tonality="11B" Label="" Mix="" />
+    <TRACK TrackID="168307634" Name="Hoodwinked (Original Mix)" Artist="J:Kenzo" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="6661719" TotalTime="277" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Hoodwinked%20(Original%20Mix).mp3" Remixer="" Tonality="11B" Label="" Mix="" />
+    <TRACK TrackID="214150447" Name="Immortal" Artist="Hamdi" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="6757412" TotalTime="281" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Immortal.mp3" Remixer="" Tonality="11B" Label="" Mix="" />
+    <TRACK TrackID="142540730" Name="In Love" Artist="Adam Beyer, Pig&amp;Dan" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="13009815" TotalTime="541" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="126.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/In%20Love.mp3" Remixer="" Tonality="1A" Label="" Mix="">
+      <TEMPO Inizio="0.058" Bpm="126.00" Metro="4/4" Battito="4" />
+      <TEMPO Inizio="1.011" Bpm="126.00" Metro="4/4" Battito="2" />
+    </TRACK>
+    <TRACK TrackID="88248103" Name="JEWELZ" Artist="Anderson Paak" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="4110934" TotalTime="171" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="108.57" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/JEWELZ.mp3" Remixer="" Tonality="10A" Label="" Mix="">
+      <TEMPO Inizio="0.300" Bpm="108.57" Metro="4/4" Battito="4" />
+    </TRACK>
+    <TRACK TrackID="2706656" Name="Johnny '94 (Dillinja Remix)" Artist="Johnny Jungle" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="9331851" TotalTime="388" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="159.83" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Johnny%20%2794%20(Dillinja%20Remix).mp3" Remixer="" Tonality="11A" Label="" Mix="">
+      <TEMPO Inizio="0.050" Bpm="159.83" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="165.226" Bpm="159.83" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="330.402" Bpm="159.83" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="262551371" Name="Kick Back" Artist="Coco Bryce" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="6875040" TotalTime="286" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="158.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Kick%20Back.mp3" Remixer="" Tonality="4A" Label="" Mix="">
+      <TEMPO Inizio="0.024" Bpm="158.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="35333269" Name="Live Another Day (M&amp;F's Smoke &amp; Mirrors Mix) (Club Master)" Artist="Matrix &amp; Futurebound, Alex Hepburn" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="5121168" TotalTime="213" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="140.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Live%20Another%20Day%20(M%26F%27s%20Smoke%20%26%20Mirrors%20Mix)%20(Club%20Master).mp3" Remixer="" Tonality="4A" Label="" Mix="">
+      <TEMPO Inizio="0.244" Bpm="140.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="48485199" Name="Malware" Artist="Supertask" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="848088" TotalTime="35" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="180.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Malware.mp3" Remixer="" Tonality="9A" Label="" Mix="">
+      <TEMPO Inizio="0.099" Bpm="180.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="179650825" Name="Memory Lane" Artist="Netsky" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="8017235" TotalTime="333" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="175.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Memory%20Lane.mp3" Remixer="" Tonality="12A" Label="" Mix="">
+      <TEMPO Inizio="0.063" Bpm="175.00" Metro="4/4" Battito="4" />
+    </TRACK>
+    <TRACK TrackID="171537369" Name="Modification" Artist="TMSV" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="3833598" TotalTime="159" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="142.66" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Modification.mp3" Remixer="" Tonality="7B" Label="" Mix="">
+      <TEMPO Inizio="0.289" Bpm="142.66" Metro="4/4" Battito="3" />
+    </TRACK>
+    <TRACK TrackID="255151966" Name="My Way" Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="3422636" TotalTime="142" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="135.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/My%20Way.mp3" Remixer="" Tonality="5B" Label="" Mix="">
+      <TEMPO Inizio="0.035" Bpm="135.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="76352438" Name="Nightvision" Artist="Daft Punk" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="2512667" TotalTime="104" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="119.99" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Nightvision.mp3" Remixer="" Tonality="8B" Label="" Mix="">
+      <TEMPO Inizio="0.267" Bpm="119.99" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="3.768" Bpm="119.99" Metro="4/4" Battito="4" />
+      <TEMPO Inizio="31.271" Bpm="119.99" Metro="4/4" Battito="3" />
+      <TEMPO Inizio="58.774" Bpm="119.99" Metro="4/4" Battito="2" />
+      <TEMPO Inizio="86.277" Bpm="119.99" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="190794842" Name="No Name Groove" Artist="BAKEY, Kasia" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="6326723" TotalTime="263" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="132.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/No%20Name%20Groove.mp3" Remixer="" Tonality="5A" Label="" Mix="">
+      <TEMPO Inizio="0.024" Bpm="132.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="15851012" Name="One More Time" Artist="Daft Punk" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="7699546" TotalTime="320" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="122.88" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/One%20More%20Time.mp3" Remixer="" Tonality="10B" Label="" Mix="">
+      <TEMPO Inizio="0.106" Bpm="122.88" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="25.009" Bpm="122.88" Metro="4/4" Battito="4" />
+      <TEMPO Inizio="51.865" Bpm="122.88" Metro="4/4" Battito="3" />
+      <TEMPO Inizio="78.721" Bpm="122.88" Metro="4/4" Battito="2" />
+      <TEMPO Inizio="103.624" Bpm="122.88" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="130.480" Bpm="122.88" Metro="4/4" Battito="4" />
+      <TEMPO Inizio="157.336" Bpm="122.88" Metro="4/4" Battito="3" />
+      <TEMPO Inizio="182.239" Bpm="122.88" Metro="4/4" Battito="2" />
+      <TEMPO Inizio="209.095" Bpm="122.88" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="235.951" Bpm="122.88" Metro="4/4" Battito="4" />
+      <TEMPO Inizio="260.854" Bpm="122.88" Metro="4/4" Battito="3" />
+      <TEMPO Inizio="287.710" Bpm="122.88" Metro="4/4" Battito="2" />
+      <TEMPO Inizio="314.566" Bpm="122.88" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="55231002" Name="Pay Off" Artist="Octo-Pi, Modify Perspective" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="8103738" TotalTime="337" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="174.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Pay%20Off.mp3" Remixer="" Tonality="4A" Label="" Mix="">
+      <TEMPO Inizio="0.102" Bpm="174.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="255453000" Name="PFTD" Artist="Halogenix, Strategy" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="4866253" TotalTime="202" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="139.99" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/PFTD.mp3" Remixer="" Tonality="5A" Label="" Mix="">
+      <TEMPO Inizio="0.374" Bpm="139.99" Metro="4/4" Battito="3" />
+    </TRACK>
+    <TRACK TrackID="78605113" Name="Pocosink (Commodo Remix)" Artist="Las" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="5172419" TotalTime="215" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="136.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Pocosink%20(Commodo%20Remix).mp3" Remixer="" Tonality="7A" Label="" Mix="">
+      <TEMPO Inizio="0.050" Bpm="136.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="74616708" Name="Precursor (Mefjus Remix)" Artist="Emperor" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="8584023" TotalTime="357" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="172.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Precursor%20(Mefjus%20Remix).mp3" Remixer="" Tonality="4A" Label="" Mix="">
+      <TEMPO Inizio="0.021" Bpm="172.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="65738601" Name="Premium Grease" Artist="Strategy, Fiend" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="5400168" TotalTime="224" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="140.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Premium%20Grease.mp3" Remixer="" Tonality="4A" Label="" Mix="">
+      <TEMPO Inizio="0.180" Bpm="140.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="249432383" Name="Press Play" Artist="Ivy Lab" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="4190500" TotalTime="174" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="155.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Press%20Play.mp3" Remixer="" Tonality="2A" Label="" Mix="">
+      <TEMPO Inizio="0.217" Bpm="155.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="223079100" Name="Promises" Artist="Itro" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="4389413" TotalTime="182" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="174.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Promises.mp3" Remixer="" Tonality="5A" Label="" Mix="">
+      <TEMPO Inizio="0.155" Bpm="174.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="233082585" Name="Protocol" Artist="Wehbba" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="9113879" TotalTime="379" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="128.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Protocol.mp3" Remixer="" Tonality="7B" Label="" Mix="">
+      <TEMPO Inizio="0.083" Bpm="128.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="150124734" Name="Pump" Artist="Tantrum Desire" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="3492844" TotalTime="145" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="174.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Pump.mp3" Remixer="" Tonality="1A" Label="" Mix="">
+      <TEMPO Inizio="0.164" Bpm="174.00" Metro="4/4" Battito="4" />
+    </TRACK>
+    <TRACK TrackID="145528607" Name="Remember" Artist="DC Breaks" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="7589992" TotalTime="315" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="174.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Remember.mp3" Remixer="" Tonality="5A" Label="" Mix="">
+      <TEMPO Inizio="0.200" Bpm="174.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="177069080" Name="Road Runner" Artist="Watch the Ride" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="4961390" TotalTime="206" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="150.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Road%20Runner.mp3" Remixer="" Tonality="2A" Label="" Mix="">
+      <TEMPO Inizio="0.025" Bpm="150.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="145890856" Name="Room Change" Artist="Coza, Krash" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="7253276" TotalTime="301" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="174.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Room%20Change.mp3" Remixer="" Tonality="1B" Label="" Mix="">
+      <TEMPO Inizio="0.022" Bpm="174.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="210144393" Name="Savoy Affair" Artist="Futurebound, Smooth" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="7356280" TotalTime="306" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="174.00" DateAdded="2025-12-24" BitRate="192" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Savoy%20Affair.mp3" Remixer="" Tonality="2B" Label="" Mix="">
+      <TEMPO Inizio="0.125" Bpm="174.00" Metro="4/4" Battito="4" />
+    </TRACK>
+    <TRACK TrackID="137903730" Name="Second Encounter" Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="5738732" TotalTime="239" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="172.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Second%20Encounter.mp3" Remixer="" Tonality="4A" Label="" Mix="">
+      <TEMPO Inizio="0.277" Bpm="172.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="229700419" Name="Seen (Original Mix)" Artist="Headland" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="5827986" TotalTime="242" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="142.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Seen%20(Original%20Mix).mp3" Remixer="" Tonality="4A" Label="" Mix="">
+      <TEMPO Inizio="0.015" Bpm="142.00" Metro="4/4" Battito="3" />
+    </TRACK>
+    <TRACK TrackID="208585444" Name="Seen" Artist="Jamakabi, Footsie" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="4659837" TotalTime="193" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="140.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Seen.mp3" Remixer="" Tonality="10A" Label="" Mix="">
+      <TEMPO Inizio="0.082" Bpm="140.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="62055657" Name="SelfDestruct" Artist="Boofy, Rocks FOE" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="4858186" TotalTime="202" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="138.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/SelfDestruct.mp3" Remixer="" Tonality="11A" Label="" Mix="">
+      <TEMPO Inizio="0.298" Bpm="138.00" Metro="4/4" Battito="2" />
+    </TRACK>
+    <TRACK TrackID="27370579" Name="Sentient" Artist="KOAN Sound" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="5956553" TotalTime="247" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="95.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Sentient.mp3" Remixer="" Tonality="3A" Label="" Mix="">
+      <TEMPO Inizio="0.119" Bpm="95.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="138952106" Name="Short Circuit" Artist="Daft Punk" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="4972918" TotalTime="206" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="109.67" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Short%20Circuit.mp3" Remixer="" Tonality="1A" Label="" Mix="">
+      <TEMPO Inizio="0.240" Bpm="109.67" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="20738518" Name="Silo Pass (Sir Spyro Remix) (Sir Spyro)" Artist="Bok Bok" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="4702320" TotalTime="195" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="137.00" DateAdded="2025-12-24" BitRate="192" SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Silo%20Pass%20(Sir%20Spyro%20Remix)%20(Sir%20Spyro).mp3" Remixer="" Tonality="11A" Label="" Mix="">
+      <TEMPO Inizio="0.432" Bpm="137.00" Metro="4/4" Battito="2" />
+      <TEMPO Inizio="50.360" Bpm="137.00" Metro="4/4" Battito="4" />
+    </TRACK>
+    <TRACK TrackID="215373083" Name="Slowly Rushing (Skeptical Remix)" Artist="Safire, QQQ Akane" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="8112402" TotalTime="337" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="135.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Slowly%20Rushing%20(Skeptical%20Remix).mp3" Remixer="" Tonality="7A" Label="" Mix="">
+      <TEMPO Inizio="0.040" Bpm="135.00" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="0.485" Bpm="135.00" Metro="4/4" Battito="2" />
+    </TRACK>
+    <TRACK TrackID="158419270" Name="Solar System" Artist="Sub Focus" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="6957492" TotalTime="289" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="174.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Solar%20System.mp3" Remixer="" Tonality="4A" Label="" Mix="">
+      <TEMPO Inizio="0.157" Bpm="174.00" Metro="4/4" Battito="4" />
+    </TRACK>
+    <TRACK TrackID="144837849" Name="Something About Us" Artist="Daft Punk" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="5592743" TotalTime="232" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="99.97" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Something%20About%20Us.mp3" Remixer="" Tonality="8A" Label="" Mix="">
+      <TEMPO Inizio="0.388" Bpm="99.97" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="21.995" Bpm="99.97" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="43.602" Bpm="99.97" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="65.209" Bpm="99.97" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="86.816" Bpm="99.97" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="108.423" Bpm="99.97" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="130.030" Bpm="99.97" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="151.637" Bpm="99.97" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="173.244" Bpm="99.97" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="194.851" Bpm="99.97" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="216.458" Bpm="99.97" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="203452693" Name="Soon" Artist="Sublimit, Phadix" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="9338173" TotalTime="388" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="175.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Soon.mp3" Remixer="" Tonality="2A" Label="" Mix="">
+      <TEMPO Inizio="0.123" Bpm="175.00" Metro="4/4" Battito="2" />
+    </TRACK>
+    <TRACK TrackID="165900293" Name="Stranded" Artist="Rameses B" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="7170245" TotalTime="298" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="174.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Stranded.mp3" Remixer="" Tonality="7A" Label="" Mix="">
+      <TEMPO Inizio="0.055" Bpm="174.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="250961610" Name="Swag" Artist="DC Breaks" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="7104511" TotalTime="295" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="174.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Swag.mp3" Remixer="" Tonality="7B" Label="" Mix="">
+      <TEMPO Inizio="0.080" Bpm="174.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="35776785" Name="T.H.U.G." Artist="Blade" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="5848152" TotalTime="243" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="146.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/T.H.U.G..mp3" Remixer="" Tonality="3A" Label="" Mix="">
+      <TEMPO Inizio="0.153" Bpm="146.00" Metro="4/4" Battito="4" />
+    </TRACK>
+    <TRACK TrackID="185657391" Name="Terrax" Artist="Pig&amp;Dan" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="9814995" TotalTime="408" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="127.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Terrax.mp3" Remixer="" Tonality="3B" Label="" Mix="">
+      <TEMPO Inizio="0.043" Bpm="127.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="162022244" Name="The Base" Artist="Xtrah" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="7103358" TotalTime="295" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="172.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/The%20Base.mp3" Remixer="" Tonality="7B" Label="" Mix="">
+      <TEMPO Inizio="0.106" Bpm="172.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="117981226" Name="Threatz" Artist="Denzel Curry, Yung Simmie, Robb Bank$" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="4448256" TotalTime="185" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="124.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Threatz.mp3" Remixer="" Tonality="5A" Label="" Mix="">
+      <TEMPO Inizio="0.089" Bpm="124.00" Metro="4/4" Battito="4" />
+    </TRACK>
+    <TRACK TrackID="55481363" Name="Tremors" Artist="Bleep Bloop, Tsuruda" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="5433608" TotalTime="226" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="140.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Tremors.mp3" Remixer="" Tonality="11A" Label="" Mix="">
+      <TEMPO Inizio="0.137" Bpm="140.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="62644553" Name="Two One Six" Artist="Shades" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="4951580" TotalTime="206" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="120.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Two%20One%20Six.mp3" Remixer="" Tonality="9A" Label="" Mix="">
+      <TEMPO Inizio="0.040" Bpm="120.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="149544728" Name="U Know" Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="6875180" TotalTime="286" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="114.12" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/U%20Know.mp3" Remixer="" Tonality="10A" Label="" Mix="">
+      <TEMPO Inizio="0.054" Bpm="114.12" Metro="4/4" Battito="4" />
+    </TRACK>
+    <TRACK TrackID="175254312" Name="Unknown" Artist="Mtwn, Fearful" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="7277491" TotalTime="302" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="116.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Unknown.mp3" Remixer="" Tonality="2A" Label="" Mix="">
+      <TEMPO Inizio="0.067" Bpm="116.00" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="271.102" Bpm="116.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="225198917" Name="Unmoved Mover (Sinistarr Remix)" Artist="thys" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="6657110" TotalTime="277" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="158.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Unmoved%20Mover%20(Sinistarr%20Remix).mp3" Remixer="" Tonality="2A" Label="" Mix="">
+      <TEMPO Inizio="0.122" Bpm="158.00" Metro="4/4" Battito="3" />
+    </TRACK>
+    <TRACK TrackID="84918469" Name="Unmoved Mover" Artist="thys" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="10909916" TotalTime="454" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="130.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Unmoved%20Mover.mp3" Remixer="" Tonality="2A" Label="" Mix="">
+      <TEMPO Inizio="0.141" Bpm="130.00" Metro="4/4" Battito="4" />
+    </TRACK>
+    <TRACK TrackID="173803484" Name="Untitled Horn (Original Mix)" Artist="SpectraSoul" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="7609617" TotalTime="316" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="173.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Untitled%20Horn%20(Original%20Mix).mp3" Remixer="" Tonality="4A" Label="" Mix="">
+      <TEMPO Inizio="0.120" Bpm="173.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="149217802" Name="Veridis Quo" Artist="Daft Punk" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="8295724" TotalTime="345" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="106.89" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Veridis%20Quo.mp3" Remixer="" Tonality="8A" Label="" Mix="">
+      <TEMPO Inizio="0.123" Bpm="106.89" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="54.009" Bpm="106.89" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="92.178" Bpm="106.89" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="130.347" Bpm="106.89" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="170.200" Bpm="106.89" Metro="4/4" Battito="4" />
+      <TEMPO Inizio="208.369" Bpm="106.89" Metro="4/4" Battito="4" />
+      <TEMPO Inizio="248.222" Bpm="106.89" Metro="4/4" Battito="3" />
+      <TEMPO Inizio="286.391" Bpm="106.89" Metro="4/4" Battito="3" />
+      <TEMPO Inizio="326.244" Bpm="106.89" Metro="4/4" Battito="2" />
+    </TRACK>
+    <TRACK TrackID="108021835" Name="Warning (feat. Gappy Ranks) (Bou Remix)" Artist="SHY FX, Gappy Ranks" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="6413241" TotalTime="266" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="175.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Warning%20(feat.%20Gappy%20Ranks)%20(Bou%20Remix).mp3" Remixer="" Tonality="5A" Label="" Mix="">
+      <TEMPO Inizio="0.056" Bpm="175.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="79766517" Name="Wayside" Artist="Hebbe, Melle, Mr.k" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="7006505" TotalTime="291" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="140.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Wayside.mp3" Remixer="" Tonality="9A" Label="" Mix="">
+      <TEMPO Inizio="0.114" Bpm="140.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="160381973" Name="We Are E" Artist="Adam Beyer, Pig&amp;Dan" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="11592592" TotalTime="482" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="124.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/We%20Are%20E.mp3" Remixer="" Tonality="4A" Label="" Mix="">
+      <TEMPO Inizio="0.059" Bpm="124.00" Metro="4/4" Battito="4" />
+    </TRACK>
+    <TRACK TrackID="99808533" Name="Weekend" Artist="Biome" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="4928512" TotalTime="205" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="119.98" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Weekend.mp3" Remixer="" Tonality="10A" Label="" Mix="">
+      <TEMPO Inizio="0.315" Bpm="119.98" Metro="4/4" Battito="3" />
+      <TEMPO Inizio="84.328" Bpm="119.98" Metro="4/4" Battito="3" />
+      <TEMPO Inizio="138.836" Bpm="119.98" Metro="4/4" Battito="4" />
+      <TEMPO Inizio="192.844" Bpm="119.98" Metro="4/4" Battito="4" />
+    </TRACK>
+    <TRACK TrackID="261415298" Name="With Light" Artist="IZCO, Novelist" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="5668271" TotalTime="235" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="150.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/With%20Light.mp3" Remixer="" Tonality="2A" Label="" Mix="">
+      <TEMPO Inizio="0.028" Bpm="150.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="737388" Name="Without Warning (Thomas Schumacher Remix)" Artist="Spektre" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="11210920" TotalTime="466" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="130.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/Without%20Warning%20(Thomas%20Schumacher%20Remix).mp3" Remixer="" Tonality="6A" Label="" Mix="">
+      <TEMPO Inizio="0.407" Bpm="130.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="175733229" Name="You Break It When You Name It" Artist="" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="6939116" TotalTime="289" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="133.00" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/You%20Break%20It%20When%20You%20Name%20It.mp3" Remixer="" Tonality="12A" Label="" Mix="">
+      <TEMPO Inizio="0.013" Bpm="133.00" Metro="4/4" Battito="1" />
+    </TRACK>
+    <TRACK TrackID="264323273" Name="You Got Me (Pete Cannon Remix)" Artist="Liquid Crystal" Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="7910019" TotalTime="329" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="151.87" DateAdded="2025-12-24" BitRate="192" SampleRate="48000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/sahal/Desktop/ohms/code/WATAI/EDM-CUE_testing/data/songs/You%20Got%20Me%20(Pete%20Cannon%20Remix).mp3" Remixer="" Tonality="6A" Label="" Mix="">
+      <TEMPO Inizio="0.072" Bpm="151.87" Metro="4/4" Battito="1" />
+      <TEMPO Inizio="0.468" Bpm="151.87" Metro="4/4" Battito="2" />
+      <TEMPO Inizio="150.992" Bpm="151.87" Metro="4/4" Battito="3" />
+      <TEMPO Inizio="312.183" Bpm="151.87" Metro="4/4" Battito="3" />
+    </TRACK>
+  </COLLECTION>
+  <PLAYLISTS>
+    <NODE Type="0" Name="ROOT" Count="56">
+      <NODE Name="EDM-CUE-11-26" Type="1" KeyType="0" Entries="100">
+        <TRACK Key="65185894" />
+        <TRACK Key="213693307" />
+        <TRACK Key="97696016" />
+        <TRACK Key="51737842" />
+        <TRACK Key="93509657" />
+        <TRACK Key="77972225" />
+        <TRACK Key="94354148" />
+        <TRACK Key="237525788" />
+        <TRACK Key="2859793" />
+        <TRACK Key="199287265" />
+        <TRACK Key="167338821" />
+        <TRACK Key="227582465" />
+        <TRACK Key="121150641" />
+        <TRACK Key="225659671" />
+        <TRACK Key="140225022" />
+        <TRACK Key="37640271" />
+        <TRACK Key="93483167" />
+        <TRACK Key="68302578" />
+        <TRACK Key="265569922" />
+        <TRACK Key="84082426" />
+        <TRACK Key="248284285" />
+        <TRACK Key="53458567" />
+        <TRACK Key="208523830" />
+        <TRACK Key="150576813" />
+        <TRACK Key="108525282" />
+        <TRACK Key="190460206" />
+        <TRACK Key="63087760" />
+        <TRACK Key="207139139" />
+        <TRACK Key="252507369" />
+        <TRACK Key="158956487" />
+        <TRACK Key="149348957" />
+        <TRACK Key="241826843" />
+        <TRACK Key="74093383" />
+        <TRACK Key="114148018" />
+        <TRACK Key="69464481" />
+        <TRACK Key="123869729" />
+        <TRACK Key="244941272" />
+        <TRACK Key="240622548" />
+        <TRACK Key="131848626" />
+        <TRACK Key="17144579" />
+        <TRACK Key="168307634" />
+        <TRACK Key="214150447" />
+        <TRACK Key="142540730" />
+        <TRACK Key="88248103" />
+        <TRACK Key="2706656" />
+        <TRACK Key="262551371" />
+        <TRACK Key="35333269" />
+        <TRACK Key="48485199" />
+        <TRACK Key="179650825" />
+        <TRACK Key="171537369" />
+        <TRACK Key="255151966" />
+        <TRACK Key="76352438" />
+        <TRACK Key="190794842" />
+        <TRACK Key="15851012" />
+        <TRACK Key="55231002" />
+        <TRACK Key="255453000" />
+        <TRACK Key="78605113" />
+        <TRACK Key="74616708" />
+        <TRACK Key="65738601" />
+        <TRACK Key="249432383" />
+        <TRACK Key="223079100" />
+        <TRACK Key="233082585" />
+        <TRACK Key="150124734" />
+        <TRACK Key="145528607" />
+        <TRACK Key="177069080" />
+        <TRACK Key="145890856" />
+        <TRACK Key="210144393" />
+        <TRACK Key="137903730" />
+        <TRACK Key="229700419" />
+        <TRACK Key="208585444" />
+        <TRACK Key="62055657" />
+        <TRACK Key="27370579" />
+        <TRACK Key="138952106" />
+        <TRACK Key="20738518" />
+        <TRACK Key="215373083" />
+        <TRACK Key="158419270" />
+        <TRACK Key="144837849" />
+        <TRACK Key="203452693" />
+        <TRACK Key="165900293" />
+        <TRACK Key="250961610" />
+        <TRACK Key="35776785" />
+        <TRACK Key="185657391" />
+        <TRACK Key="162022244" />
+        <TRACK Key="117981226" />
+        <TRACK Key="55481363" />
+        <TRACK Key="62644553" />
+        <TRACK Key="149544728" />
+        <TRACK Key="175254312" />
+        <TRACK Key="225198917" />
+        <TRACK Key="84918469" />
+        <TRACK Key="173803484" />
+        <TRACK Key="149217802" />
+        <TRACK Key="108021835" />
+        <TRACK Key="79766517" />
+        <TRACK Key="160381973" />
+        <TRACK Key="99808533" />
+        <TRACK Key="261415298" />
+        <TRACK Key="737388" />
+        <TRACK Key="175733229" />
+        <TRACK Key="264323273" />
+      </NODE>
+    </NODE>
+  </PLAYLISTS>
+</DJ_PLAYLISTS>
