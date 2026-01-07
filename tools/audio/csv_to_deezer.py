@@ -3,8 +3,8 @@ import requests
 
 # Configuration
 ARL_TOKEN = '63dfb5a220be452a02c9d8ce183f8c21e73532416f07c6c161dbde3112d77d416da1d9e01d4f4fc447f97a348c9dc3bef41719f50f3b998a0794c6ecbd42cf0de52ceb7283a28e85d077639e8116491862ce89b1d2c540b934db18decfe01802'
-CSV_FILE = 'data/samples/train_sample_100_seed42_20251224-185006.csv'
-PLAYLIST_NAME = 'WATAI'
+CSV_FILE = 'data/samples/Jan7-98-songs.csv'
+PLAYLIST_NAME = 'WATAI_2'
 
 def create_deezer_playlist():
     session = requests.Session()
