@@ -1,54 +1,764 @@
 [
   {
-    "id": "2259920687",
-    "song": "Whiney, Keeno - Hold Ya (VIP)",
-    "file_path": "/Users/joelbae/Downloads/EDM-CUE_testing/songs/Hold Ya (VIP).mp3",
-    "duration": 285.0,
+    "id": "1060564312",
+    "song": "Oak - Airwalk",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/01 - Oak - Airwalk.mp3",
+    "duration": 247.0,
     "sections": [
       {
-        "start": 0.033,
-        "end": 43.918,
-        "label": "intro"
+        "start": 0.054,
+        "end": 35.942,
+        "label": "Intro"
       },
       {
-        "start": 43.918,
-        "end": 65.861,
-        "label": "verse"
+        "start": 35.942,
+        "end": 56.129,
+        "label": "Buildup"
       },
       {
-        "start": 65.861,
-        "end": 86.433,
-        "label": "buildup"
+        "start": 56.129,
+        "end": 62.866,
+        "label": "Silence"
       },
       {
-        "start": 86.433,
-        "end": 87.804,
-        "label": "silence"
+        "start": 62.866,
+        "end": 80.802,
+        "label": "Verse"
       },
       {
-        "start": 87.804,
-        "end": 153.633,
-        "label": "chorus"
+        "start": 80.802,
+        "end": 118.941,
+        "label": "Chorus"
       },
       {
-        "start": 153.633,
-        "end": 175.576,
-        "label": "breakdown"
+        "start": 118.941,
+        "end": 152.586,
+        "label": "Breakdown"
       },
       {
-        "start": 175.576,
-        "end": 197.518,
-        "label": "buildup"
+        "start": 152.586,
+        "end": 170.53,
+        "label": "Verse"
       },
       {
-        "start": 197.518,
-        "end": 263.347,
-        "label": "chorus"
+        "start": 170.53,
+        "end": 188.474,
+        "label": "Buildup"
       },
       {
-        "start": 263.347,
-        "end": 285.0,
-        "label": "outro"
+        "start": 188.474,
+        "end": 224.361,
+        "label": "Chorus"
+      },
+      {
+        "start": 224.361,
+        "end": 242.306,
+        "label": "Outro"
+      },
+      {
+        "start": 242.306,
+        "end": 247.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "489645822",
+    "song": "Itro - Promises",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/07 - Itro - Promises.mp3",
+    "duration": 184.0,
+    "sections": [
+      {
+        "start": 0.027,
+        "end": 11.062,
+        "label": "Intro"
+      },
+      {
+        "start": 11.062,
+        "end": 38.648,
+        "label": "Verse"
+      },
+      {
+        "start": 38.648,
+        "end": 49.683,
+        "label": "Buildup"
+      },
+      {
+        "start": 49.683,
+        "end": 71.752,
+        "label": "Chorus"
+      },
+      {
+        "start": 71.752,
+        "end": 82.786,
+        "label": "Verse"
+      },
+      {
+        "start": 82.786,
+        "end": 115.89,
+        "label": "Breakdown"
+      },
+      {
+        "start": 115.89,
+        "end": 126.924,
+        "label": "Buildup"
+      },
+      {
+        "start": 126.924,
+        "end": 171.063,
+        "label": "Chorus"
+      },
+      {
+        "start": 171.063,
+        "end": 182.097,
+        "label": "Outro"
+      },
+      {
+        "start": 182.097,
+        "end": 184.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "489645852",
+    "song": "Nexus & Tight - All I Need",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/09 - Nexus & Tight - All I Need.mp3",
+    "duration": 313.0,
+    "sections": [
+      {
+        "start": 0.027,
+        "end": 22.096,
+        "label": "Intro"
+      },
+      {
+        "start": 22.096,
+        "end": 55.2,
+        "label": "Verse"
+      },
+      {
+        "start": 55.2,
+        "end": 66.234,
+        "label": "Buildup"
+      },
+      {
+        "start": 66.234,
+        "end": 110.372,
+        "label": "Chorus"
+      },
+      {
+        "start": 110.372,
+        "end": 132.441,
+        "label": "Chorus"
+      },
+      {
+        "start": 132.441,
+        "end": 148.993,
+        "label": "Verse"
+      },
+      {
+        "start": 148.993,
+        "end": 154.51,
+        "label": "Buildup"
+      },
+      {
+        "start": 154.51,
+        "end": 176.579,
+        "label": "Chorus"
+      },
+      {
+        "start": 176.579,
+        "end": 198.648,
+        "label": "Breakdown"
+      },
+      {
+        "start": 198.648,
+        "end": 209.682,
+        "label": "Verse"
+      },
+      {
+        "start": 209.682,
+        "end": 220.717,
+        "label": "Buildup"
+      },
+      {
+        "start": 220.717,
+        "end": 303.475,
+        "label": "Chorus"
+      },
+      {
+        "start": 303.475,
+        "end": 311.751,
+        "label": "Outro"
+      },
+      {
+        "start": 311.751,
+        "end": 313.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "1365318572",
+    "song": "Posij - The Dizziness",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/10 - Posij - The Dizziness.mp3",
+    "duration": 204.0,
+    "sections": [
+      {
+        "start": 0.261,
+        "end": 15.745,
+        "label": "Intro"
+      },
+      {
+        "start": 15.745,
+        "end": 31.228,
+        "label": "Buildup"
+      },
+      {
+        "start": 31.228,
+        "end": 46.712,
+        "label": "Chorus"
+      },
+      {
+        "start": 46.712,
+        "end": 62.196,
+        "label": "Verse"
+      },
+      {
+        "start": 62.196,
+        "end": 85.422,
+        "label": "Chorus"
+      },
+      {
+        "start": 85.422,
+        "end": 91.228,
+        "label": "Breakdown"
+      },
+      {
+        "start": 91.228,
+        "end": 93.164,
+        "label": "Silence"
+      },
+      {
+        "start": 93.164,
+        "end": 108.648,
+        "label": "Chorus"
+      },
+      {
+        "start": 108.648,
+        "end": 124.132,
+        "label": "Verse"
+      },
+      {
+        "start": 124.132,
+        "end": 139.615,
+        "label": "Chorus"
+      },
+      {
+        "start": 139.615,
+        "end": 149.293,
+        "label": "Breakdown"
+      },
+      {
+        "start": 149.293,
+        "end": 155.099,
+        "label": "Buildup"
+      },
+      {
+        "start": 155.099,
+        "end": 170.583,
+        "label": "Chorus"
+      },
+      {
+        "start": 170.583,
+        "end": 186.067,
+        "label": "Verse"
+      },
+      {
+        "start": 186.067,
+        "end": 203.486,
+        "label": "Outro"
+      },
+      {
+        "start": 203.486,
+        "end": 204.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "2266920127",
+    "song": "Subwave Bop - City Lights",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/12 - Subwave - City Lights.mp3",
+    "duration": 277.0,
+    "sections": [
+      {
+        "start": 0.165,
+        "end": 22.753,
+        "label": "Intro"
+      },
+      {
+        "start": 22.753,
+        "end": 45.341,
+        "label": "Buildup"
+      },
+      {
+        "start": 45.341,
+        "end": 90.518,
+        "label": "Chorus"
+      },
+      {
+        "start": 90.518,
+        "end": 113.106,
+        "label": "Chorus"
+      },
+      {
+        "start": 113.106,
+        "end": 141.341,
+        "label": "Verse"
+      },
+      {
+        "start": 141.341,
+        "end": 158.282,
+        "label": "Verse"
+      },
+      {
+        "start": 158.282,
+        "end": 175.224,
+        "label": "Breakdown"
+      },
+      {
+        "start": 175.224,
+        "end": 180.871,
+        "label": "Buildup"
+      },
+      {
+        "start": 180.871,
+        "end": 226.047,
+        "label": "Chorus"
+      },
+      {
+        "start": 226.047,
+        "end": 248.635,
+        "label": "Chorus"
+      },
+      {
+        "start": 248.635,
+        "end": 274.047,
+        "label": "Outro"
+      },
+      {
+        "start": 274.047,
+        "end": 277.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "1358765162",
+    "song": "Cyantific - Hardbody",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/13 - Cyantific - Hardbody.mp3",
+    "duration": 293.0,
+    "sections": [
+      {
+        "start": 0.053,
+        "end": 22.121,
+        "label": "Intro"
+      },
+      {
+        "start": 22.121,
+        "end": 44.19,
+        "label": "Buildup"
+      },
+      {
+        "start": 44.19,
+        "end": 66.259,
+        "label": "Chorus"
+      },
+      {
+        "start": 66.259,
+        "end": 110.397,
+        "label": "Verse"
+      },
+      {
+        "start": 110.397,
+        "end": 132.466,
+        "label": "Chorus"
+      },
+      {
+        "start": 132.466,
+        "end": 154.535,
+        "label": "Breakdown"
+      },
+      {
+        "start": 154.535,
+        "end": 176.604,
+        "label": "Buildup"
+      },
+      {
+        "start": 176.604,
+        "end": 198.672,
+        "label": "Chorus"
+      },
+      {
+        "start": 198.672,
+        "end": 220.741,
+        "label": "Verse"
+      },
+      {
+        "start": 220.741,
+        "end": 264.879,
+        "label": "Chorus"
+      },
+      {
+        "start": 264.879,
+        "end": 289.707,
+        "label": "Outro"
+      },
+      {
+        "start": 289.707,
+        "end": 293.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "1239826092",
+    "song": "Drone - Evil Sky",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/14 - Drone - Evil Sky.mp3",
+    "duration": 274.0,
+    "sections": [
+      {
+        "start": 0.063,
+        "end": 16.063,
+        "label": "Intro"
+      },
+      {
+        "start": 16.063,
+        "end": 32.063,
+        "label": "Buildup"
+      },
+      {
+        "start": 32.063,
+        "end": 95.063,
+        "label": "Chorus"
+      },
+      {
+        "start": 95.063,
+        "end": 96.063,
+        "label": "Silence"
+      },
+      {
+        "start": 96.063,
+        "end": 128.063,
+        "label": "Chorus"
+      },
+      {
+        "start": 128.063,
+        "end": 136.063,
+        "label": "Breakdown"
+      },
+      {
+        "start": 136.063,
+        "end": 144.063,
+        "label": "Buildup"
+      },
+      {
+        "start": 144.063,
+        "end": 208.063,
+        "label": "Chorus"
+      },
+      {
+        "start": 208.063,
+        "end": 224.063,
+        "label": "Breakdown"
+      },
+      {
+        "start": 224.063,
+        "end": 272.063,
+        "label": "Chorus"
+      },
+      {
+        "start": 272.063,
+        "end": 274.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "681681472",
+    "song": "Dimension - In Bleach",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/15 - Dimension - In Bleach.mp3",
+    "duration": 310.0,
+    "sections": [
+      {
+        "start": 0.038,
+        "end": 22.107,
+        "label": "Intro"
+      },
+      {
+        "start": 22.107,
+        "end": 44.176,
+        "label": "Verse"
+      },
+      {
+        "start": 44.176,
+        "end": 66.245,
+        "label": "Buildup"
+      },
+      {
+        "start": 66.245,
+        "end": 110.382,
+        "label": "Chorus"
+      },
+      {
+        "start": 110.382,
+        "end": 121.417,
+        "label": "Breakdown"
+      },
+      {
+        "start": 121.417,
+        "end": 132.451,
+        "label": "Buildup"
+      },
+      {
+        "start": 132.451,
+        "end": 176.589,
+        "label": "Chorus"
+      },
+      {
+        "start": 176.589,
+        "end": 198.658,
+        "label": "Breakdown"
+      },
+      {
+        "start": 198.658,
+        "end": 220.727,
+        "label": "Buildup"
+      },
+      {
+        "start": 220.727,
+        "end": 264.865,
+        "label": "Chorus"
+      },
+      {
+        "start": 264.865,
+        "end": 273.141,
+        "label": "Breakdown"
+      },
+      {
+        "start": 273.141,
+        "end": 309.003,
+        "label": "Outro"
+      },
+      {
+        "start": 309.003,
+        "end": 310.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "683669232",
+    "song": "Dimension - Generator",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/16 - Dimension - Generator.mp3",
+    "duration": 306.0,
+    "sections": [
+      {
+        "start": 0.021,
+        "end": 22.09,
+        "label": "Intro"
+      },
+      {
+        "start": 22.09,
+        "end": 44.159,
+        "label": "Verse"
+      },
+      {
+        "start": 44.159,
+        "end": 66.228,
+        "label": "Breakdown"
+      },
+      {
+        "start": 66.228,
+        "end": 88.297,
+        "label": "Buildup"
+      },
+      {
+        "start": 88.297,
+        "end": 110.366,
+        "label": "Chorus"
+      },
+      {
+        "start": 110.366,
+        "end": 151.745,
+        "label": "Verse"
+      },
+      {
+        "start": 151.745,
+        "end": 176.573,
+        "label": "Breakdown"
+      },
+      {
+        "start": 176.573,
+        "end": 198.642,
+        "label": "Verse"
+      },
+      {
+        "start": 198.642,
+        "end": 220.711,
+        "label": "Buildup"
+      },
+      {
+        "start": 220.711,
+        "end": 242.78,
+        "label": "Chorus"
+      },
+      {
+        "start": 242.78,
+        "end": 286.918,
+        "label": "Verse"
+      },
+      {
+        "start": 286.918,
+        "end": 300.711,
+        "label": "Outro"
+      },
+      {
+        "start": 300.711,
+        "end": 306.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "3135557",
+    "song": "Daft Punk - Crescendolls",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/17 - Daft Punk - Crescendolls.mp3",
+    "duration": 211.0,
+    "sections": [
+      {
+        "start": 0.193,
+        "end": 23.404,
+        "label": "Intro"
+      },
+      {
+        "start": 23.404,
+        "end": 38.879,
+        "label": "Verse"
+      },
+      {
+        "start": 38.879,
+        "end": 54.353,
+        "label": "Buildup"
+      },
+      {
+        "start": 54.353,
+        "end": 85.302,
+        "label": "Chorus"
+      },
+      {
+        "start": 85.302,
+        "end": 100.776,
+        "label": "Verse"
+      },
+      {
+        "start": 100.776,
+        "end": 131.725,
+        "label": "Chorus"
+      },
+      {
+        "start": 131.725,
+        "end": 145.265,
+        "label": "Breakdown"
+      },
+      {
+        "start": 145.265,
+        "end": 147.2,
+        "label": "Buildup"
+      },
+      {
+        "start": 147.2,
+        "end": 193.623,
+        "label": "Chorus"
+      },
+      {
+        "start": 193.623,
+        "end": 209.097,
+        "label": "Outro"
+      },
+      {
+        "start": 209.097,
+        "end": 211.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "3135553",
+    "song": "Daft Punk - One More Time",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/18 - Daft Punk - One More Time.mp3",
+    "duration": 320.0,
+    "sections": [
+      {
+        "start": 0.091,
+        "end": 31.342,
+        "label": "Intro"
+      },
+      {
+        "start": 31.342,
+        "end": 46.967,
+        "label": "Verse"
+      },
+      {
+        "start": 46.967,
+        "end": 62.592,
+        "label": "Buildup"
+      },
+      {
+        "start": 62.592,
+        "end": 93.843,
+        "label": "Verse"
+      },
+      {
+        "start": 93.843,
+        "end": 125.093,
+        "label": "Chorus"
+      },
+      {
+        "start": 125.093,
+        "end": 140.719,
+        "label": "Verse"
+      },
+      {
+        "start": 140.719,
+        "end": 242.283,
+        "label": "Breakdown"
+      },
+      {
+        "start": 242.283,
+        "end": 257.908,
+        "label": "Buildup"
+      },
+      {
+        "start": 257.908,
+        "end": 289.159,
+        "label": "Chorus"
+      },
+      {
+        "start": 289.159,
+        "end": 310.644,
+        "label": "Chorus"
+      },
+      {
+        "start": 310.644,
+        "end": 318.456,
+        "label": "Outro"
+      },
+      {
+        "start": 318.456,
+        "end": 320.0,
+        "label": "END"
       }
     ]
   }

@@ -7,9 +7,9 @@ from pathlib import Path
 from typing import Iterable, Optional, Tuple
 from urllib.parse import unquote, urlparse
 
-DEFAULT_XML_FILE = Path("rekordbox.xml")
-DEFAULT_CSV_FILE = Path("data/samples/train_sample_100_seed2025_20251126-194143.csv")
-LEGACY_CSV_FILE = Path("samples/train_sample_100_seed2025_20251126-194143.csv")
+DEFAULT_XML_FILE = Path("jan16.xml")
+DEFAULT_CSV_FILE = Path("data/samples/Jan7-98-songs.csv")
+LEGACY_CSV_FILE = Path("samples/data/samples/Jan7-98-songs.csv")
 DEFAULT_OUTPUT_FILE = Path("data/exports/dataset.json")
 LEGACY_OUTPUT_FILE = Path("dataset.json")
 
