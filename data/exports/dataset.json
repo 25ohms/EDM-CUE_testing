@@ -8,47 +8,47 @@
       {
         "start": 0.054,
         "end": 35.942,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 35.942,
         "end": 58.38,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 58.38,
         "end": 62.866,
-        "label": "Silence"
+        "label": "silence"
       },
       {
         "start": 62.866,
         "end": 118.941,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 118.941,
         "end": 170.53,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 170.53,
         "end": 188.474,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 188.474,
         "end": 224.361,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 224.361,
         "end": 242.306,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 242.306,
         "end": 247.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -61,32 +61,32 @@
       {
         "start": 0.026,
         "end": 4.642,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 4.642,
         "end": 41.565,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 41.565,
         "end": 42.142,
-        "label": "Silence"
+        "label": "silence"
       },
       {
         "start": 42.142,
         "end": 87.718,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 87.718,
         "end": 101.565,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 101.565,
         "end": 106.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -99,52 +99,52 @@
       {
         "start": 0.668,
         "end": 45.572,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 45.572,
         "end": 54.553,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 54.553,
         "end": 108.439,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 108.439,
         "end": 126.401,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 126.401,
         "end": 180.286,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 180.286,
         "end": 198.248,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 198.248,
         "end": 252.134,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 252.134,
         "end": 270.096,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 270.096,
         "end": 323.981,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 323.981,
         "end": 345.0,
-        "label": "Outro"
+        "label": "outro"
       }
     ]
   },
@@ -157,42 +157,42 @@
       {
         "start": 0.407,
         "end": 19.61,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 19.61,
         "end": 77.218,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 77.218,
         "end": 98.821,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 98.821,
         "end": 106.022,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 106.022,
         "end": 134.826,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 134.826,
         "end": 211.637,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 211.637,
         "end": 228.44,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 228.44,
         "end": 232.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -205,52 +205,52 @@
       {
         "start": 0.07,
         "end": 44.208,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 44.208,
         "end": 66.277,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 66.277,
         "end": 104.898,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 104.898,
         "end": 110.415,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 110.415,
         "end": 132.484,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 132.484,
         "end": 176.622,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 176.622,
         "end": 198.691,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 198.691,
         "end": 242.829,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 242.829,
         "end": 245.588,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 245.588,
         "end": 246.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -263,42 +263,42 @@
       {
         "start": 0.052,
         "end": 33.155,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 33.155,
         "end": 44.189,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 44.189,
         "end": 110.396,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 110.396,
         "end": 143.499,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 143.499,
         "end": 154.534,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 154.534,
         "end": 198.671,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 198.671,
         "end": 223.499,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 223.499,
         "end": 225.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -311,47 +311,47 @@
       {
         "start": 0.027,
         "end": 38.648,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 38.648,
         "end": 49.683,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 49.683,
         "end": 71.752,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 71.752,
         "end": 82.786,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 82.786,
         "end": 115.89,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 115.89,
         "end": 126.924,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 126.924,
         "end": 171.063,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 171.063,
         "end": 182.097,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 182.097,
         "end": 184.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -364,27 +364,27 @@
       {
         "start": 0.269,
         "end": 4.646,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 4.646,
         "end": 98.746,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 98.746,
         "end": 177.527,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 177.527,
         "end": 201.599,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 201.599,
         "end": 206.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -397,62 +397,62 @@
       {
         "start": 0.027,
         "end": 55.2,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 55.2,
         "end": 66.234,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 66.234,
         "end": 108.993,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 108.993,
         "end": 110.372,
-        "label": "Silence"
+        "label": "silence"
       },
       {
         "start": 110.372,
         "end": 148.993,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 148.993,
         "end": 154.51,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 154.51,
         "end": 176.579,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 176.579,
         "end": 209.682,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 209.682,
         "end": 220.717,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 220.717,
         "end": 303.475,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 303.475,
         "end": 311.751,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 311.751,
         "end": 313.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -465,57 +465,57 @@
       {
         "start": 0.261,
         "end": 15.745,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 15.745,
         "end": 31.228,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 31.228,
         "end": 85.422,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 85.422,
         "end": 91.228,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 91.228,
         "end": 93.164,
-        "label": "Silence"
+        "label": "silence"
       },
       {
         "start": 93.164,
         "end": 139.615,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 139.615,
         "end": 149.293,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 149.293,
         "end": 155.099,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 155.099,
         "end": 186.067,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 186.067,
         "end": 203.486,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 203.486,
         "end": 204.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -528,17 +528,17 @@
       {
         "start": 0.274,
         "end": 80.281,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 80.281,
         "end": 100.283,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 100.283,
         "end": 104.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -551,52 +551,52 @@
       {
         "start": 0.165,
         "end": 22.753,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 22.753,
         "end": 45.341,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 45.341,
         "end": 113.106,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 113.106,
         "end": 158.282,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 158.282,
         "end": 175.224,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 175.224,
         "end": 180.871,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 180.871,
         "end": 226.047,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 226.047,
         "end": 248.635,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 248.635,
         "end": 274.047,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 274.047,
         "end": 277.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -609,42 +609,42 @@
       {
         "start": 0.053,
         "end": 22.121,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 22.121,
         "end": 44.19,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 44.19,
         "end": 132.466,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 132.466,
         "end": 154.535,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 154.535,
         "end": 176.604,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 176.604,
         "end": 264.879,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 264.879,
         "end": 289.707,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 289.707,
         "end": 293.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -657,57 +657,57 @@
       {
         "start": 0.063,
         "end": 16.063,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 16.063,
         "end": 32.063,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 32.063,
         "end": 92.063,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 92.063,
         "end": 96.063,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 96.063,
         "end": 128.063,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 128.063,
         "end": 136.063,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 136.063,
         "end": 144.063,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 144.063,
         "end": 208.063,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 208.063,
         "end": 224.063,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 224.063,
         "end": 272.063,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 272.063,
         "end": 274.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -720,62 +720,62 @@
       {
         "start": 0.038,
         "end": 44.176,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 44.176,
         "end": 66.245,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 66.245,
         "end": 110.382,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 110.382,
         "end": 121.417,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 121.417,
         "end": 132.451,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 132.451,
         "end": 176.589,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 176.589,
         "end": 198.658,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 198.658,
         "end": 220.727,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 220.727,
         "end": 264.865,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 264.865,
         "end": 273.141,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 273.141,
         "end": 309.003,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 309.003,
         "end": 310.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -788,42 +788,42 @@
       {
         "start": 0.021,
         "end": 66.228,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 66.228,
         "end": 88.297,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 88.297,
         "end": 151.745,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 151.745,
         "end": 198.642,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 198.642,
         "end": 220.711,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 220.711,
         "end": 286.918,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 286.918,
         "end": 300.711,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 300.711,
         "end": 306.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -836,47 +836,47 @@
       {
         "start": 0.193,
         "end": 38.879,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 38.879,
         "end": 54.353,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 54.353,
         "end": 100.776,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 100.776,
         "end": 131.725,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 131.725,
         "end": 145.265,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 145.265,
         "end": 147.2,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 147.2,
         "end": 193.623,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 193.623,
         "end": 209.097,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 209.097,
         "end": 211.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -889,77 +889,77 @@
       {
         "start": 0.091,
         "end": 31.342,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 31.342,
         "end": 46.967,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 46.967,
         "end": 58.686,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 58.686,
         "end": 62.592,
-        "label": "Silence"
+        "label": "silence"
       },
       {
         "start": 62.592,
         "end": 89.936,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 89.936,
         "end": 93.843,
-        "label": "Silence"
+        "label": "silence"
       },
       {
         "start": 93.843,
         "end": 140.719,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 140.719,
         "end": 226.658,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 226.658,
         "end": 255.955,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 255.955,
         "end": 257.908,
-        "label": "Silence"
+        "label": "silence"
       },
       {
         "start": 257.908,
         "end": 285.252,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 285.252,
         "end": 289.159,
-        "label": "Silence"
+        "label": "silence"
       },
       {
         "start": 289.159,
         "end": 310.644,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 310.644,
         "end": 318.456,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 318.456,
         "end": 320.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -972,47 +972,47 @@
       {
         "start": 0.319,
         "end": 15.944,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 15.944,
         "end": 31.569,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 31.569,
         "end": 62.819,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 62.819,
         "end": 94.069,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 94.069,
         "end": 109.694,
-        "label": "Builduip"
+        "label": "buildup"
       },
       {
         "start": 109.694,
         "end": 140.944,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 140.944,
         "end": 172.194,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 172.194,
         "end": 209.303,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 209.303,
         "end": 212.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -1025,42 +1025,42 @@
       {
         "start": 0.55,
         "end": 32.209,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 32.209,
         "end": 182.594,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 182.594,
         "end": 214.254,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 214.254,
         "end": 325.063,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 325.063,
         "end": 340.893,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 340.893,
         "end": 416.085,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 416.085,
         "end": 424.0,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 424.0,
         "end": 429.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -1073,62 +1073,62 @@
       {
         "start": 0.124,
         "end": 16.124,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 16.124,
         "end": 32.124,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 32.124,
         "end": 60.124,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 60.124,
         "end": 64.124,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 64.124,
         "end": 94.124,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 94.124,
         "end": 96.124,
-        "label": "Silence"
+        "label": "silence"
       },
       {
         "start": 96.124,
         "end": 128.123,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 128.123,
         "end": 160.123,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 160.123,
         "end": 182.123,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 182.123,
         "end": 184.123,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 184.123,
         "end": 208.123,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 208.123,
         "end": 220.056,
-        "label": "Outro"
+        "label": "outro"
       }
     ]
   },
@@ -1141,57 +1141,57 @@
       {
         "start": 0.052,
         "end": 49.707,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 49.707,
         "end": 66.258,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 66.258,
         "end": 132.465,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 132.465,
         "end": 134.534,
-        "label": "Silence"
+        "label": "silence"
       },
       {
         "start": 134.534,
         "end": 165.569,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 165.569,
         "end": 194.534,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 194.534,
         "end": 198.672,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 198.672,
         "end": 260.741,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 260.741,
         "end": 264.879,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 264.879,
         "end": 297.982,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 297.982,
         "end": 302.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -1204,87 +1204,87 @@
       {
         "start": 0.053,
         "end": 77.294,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 77.294,
         "end": 88.329,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 88.329,
         "end": 104.88,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 104.88,
         "end": 110.398,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 110.398,
         "end": 126.949,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 126.949,
         "end": 132.467,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 132.467,
         "end": 151.777,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 151.777,
         "end": 154.535,
-        "label": "Silence"
+        "label": "silence"
       },
       {
         "start": 154.535,
         "end": 176.604,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 176.604,
         "end": 198.673,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 198.673,
         "end": 215.225,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 215.225,
         "end": 220.742,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 220.742,
         "end": 237.294,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 237.294,
         "end": 242.811,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 242.811,
         "end": 264.88,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 264.88,
         "end": 286.949,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 286.949,
         "end": 288.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -1297,42 +1297,42 @@
       {
         "start": 0.116,
         "end": 8.26,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 8.26,
         "end": 73.409,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 73.409,
         "end": 105.984,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 105.984,
         "end": 143.648,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 143.648,
         "end": 144.666,
-        "label": "Silence"
+        "label": "silence"
       },
       {
         "start": 144.666,
         "end": 236.282,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 236.282,
         "end": 238.318,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 238.318,
         "end": 240.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -1345,42 +1345,42 @@
       {
         "start": 0.487,
         "end": 44.625,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 44.625,
         "end": 66.694,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 66.694,
         "end": 132.901,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 132.901,
         "end": 166.004,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 166.004,
         "end": 177.039,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 177.039,
         "end": 265.314,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 265.314,
         "end": 273.59,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 273.59,
         "end": 278.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -1393,62 +1393,62 @@
       {
         "start": 0.011,
         "end": 55.184,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 55.184,
         "end": 66.218,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 66.218,
         "end": 107.598,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 107.598,
         "end": 110.356,
-        "label": "Silence"
+        "label": "silence"
       },
       {
         "start": 110.356,
         "end": 154.494,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 154.494,
         "end": 171.046,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 171.046,
         "end": 176.563,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 176.563,
         "end": 217.943,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 217.943,
         "end": 220.701,
-        "label": "Silence"
+        "label": "silence"
       },
       {
         "start": 220.701,
         "end": 264.839,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 264.839,
         "end": 267.598,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 267.598,
         "end": 270.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -1461,42 +1461,42 @@
       {
         "start": 1.013,
         "end": 21.419,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 21.419,
         "end": 95.269,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 95.269,
         "end": 99.156,
-        "label": "Silence"
+        "label": "silence"
       },
       {
         "start": 99.156,
         "end": 144.826,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 144.826,
         "end": 145.798,
-        "label": "Silence"
+        "label": "silence"
       },
       {
         "start": 145.798,
         "end": 161.345,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 161.345,
         "end": 223.535,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 223.535,
         "end": 226.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -1509,52 +1509,52 @@
       {
         "start": 0.311,
         "end": 8.054,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 8.054,
         "end": 32.04,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 32.04,
         "end": 96.04,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 96.04,
         "end": 112.04,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 112.04,
         "end": 144.04,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 144.04,
         "end": 148.04,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 148.04,
         "end": 152.04,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 152.04,
         "end": 184.04,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 184.04,
         "end": 194.04,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 194.04,
         "end": 200.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -1567,57 +1567,57 @@
       {
         "start": 0.154,
         "end": 33.754,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 33.754,
         "end": 44.726,
-        "label": "Silence"
+        "label": "silence"
       },
       {
         "start": 44.726,
         "end": 85.868,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 85.868,
         "end": 96.84,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 96.84,
         "end": 99.583,
-        "label": "Silence"
+        "label": "silence"
       },
       {
         "start": 99.583,
         "end": 143.469,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 143.469,
         "end": 168.154,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 168.154,
         "end": 176.383,
-        "label": "Silence"
+        "label": "silence"
       },
       {
         "start": 176.383,
         "end": 261.412,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 261.412,
         "end": 266.897,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 266.897,
         "end": 270.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -1630,42 +1630,42 @@
       {
         "start": 0.024,
         "end": 60.714,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 60.714,
         "end": 66.231,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 66.231,
         "end": 154.508,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 154.508,
         "end": 215.197,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 215.197,
         "end": 220.715,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 220.715,
         "end": 308.991,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 308.991,
         "end": 333.819,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 333.819,
         "end": 336.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -1678,62 +1678,62 @@
       {
         "start": 0.024,
         "end": 30.024,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 30.024,
         "end": 75.024,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 75.024,
         "end": 90.024,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 90.024,
         "end": 120.024,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 120.024,
         "end": 178.149,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 178.149,
         "end": 210.024,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 210.024,
         "end": 240.024,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 240.024,
         "end": 300.025,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 300.025,
         "end": 315.025,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 315.025,
         "end": 360.025,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 360.025,
         "end": 391.9,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 391.9,
         "end": 397.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -1746,57 +1746,57 @@
       {
         "start": 0.17,
         "end": 30.847,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 30.847,
         "end": 61.524,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 61.524,
         "end": 88.366,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 88.366,
         "end": 107.539,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 107.539,
         "end": 122.878,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 122.878,
         "end": 138.216,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 138.216,
         "end": 153.555,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 153.555,
         "end": 168.893,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 168.893,
         "end": 180.397,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 180.397,
         "end": 193.818,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 193.818,
         "end": 201.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -1809,47 +1809,47 @@
       {
         "start": 0.193,
         "end": 22.262,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 22.262,
         "end": 65.021,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 65.021,
         "end": 66.4,
-        "label": "Silence"
+        "label": "silence"
       },
       {
         "start": 66.4,
         "end": 154.676,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 154.676,
         "end": 173.986,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 173.986,
         "end": 176.745,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 176.745,
         "end": 287.09,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 287.09,
         "end": 300.883,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 300.883,
         "end": 302.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -1862,82 +1862,82 @@
       {
         "start": 0.055,
         "end": 30.775,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 30.775,
         "end": 61.495,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 61.495,
         "end": 92.215,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 92.215,
         "end": 122.935,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 122.935,
         "end": 153.655,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 153.655,
         "end": 184.375,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 184.375,
         "end": 211.255,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 211.255,
         "end": 245.815,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 245.815,
         "end": 276.535,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 276.535,
         "end": 307.255,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 307.255,
         "end": 368.695,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 368.695,
         "end": 399.415,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 399.415,
         "end": 430.135,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 430.135,
         "end": 460.855,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 460.855,
         "end": 497.335,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 497.335,
         "end": 522.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -1950,82 +1950,82 @@
       {
         "start": 0.458,
         "end": 46.504,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 46.504,
         "end": 68.83,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 68.83,
         "end": 113.481,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 113.481,
         "end": 124.643,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 124.643,
         "end": 135.806,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 135.806,
         "end": 146.969,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 146.969,
         "end": 217.666,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 217.666,
         "end": 228.829,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 228.829,
         "end": 284.643,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 284.643,
         "end": 328.829,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 328.829,
         "end": 329.294,
-        "label": "Silence"
+        "label": "silence"
       },
       {
         "start": 329.294,
         "end": 368.364,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 368.364,
         "end": 373.945,
-        "label": "Silence"
+        "label": "silence"
       },
       {
         "start": 373.945,
         "end": 478.131,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 478.131,
         "end": 522.782,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 522.782,
         "end": 533.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -2038,52 +2038,52 @@
       {
         "start": 0.025,
         "end": 11.059,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 11.059,
         "end": 22.094,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 22.094,
         "end": 64.852,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 64.852,
         "end": 66.232,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 66.232,
         "end": 154.508,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 154.508,
         "end": 176.577,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 176.577,
         "end": 198.646,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 198.646,
         "end": 286.921,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 286.921,
         "end": 311.749,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 311.749,
         "end": 312.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -2096,82 +2096,82 @@
       {
         "start": 0.178,
         "end": 73.479,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 73.479,
         "end": 98.07,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 98.07,
         "end": 249.4,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 249.4,
         "end": 275.883,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 275.883,
         "end": 309.933,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 309.933,
         "end": 370.465,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 370.465,
         "end": 385.598,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 385.598,
         "end": 400.731,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 400.731,
         "end": 430.997,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 430.997,
         "end": 440.455,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 440.455,
         "end": 453.696,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 453.696,
         "end": 483.962,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 483.962,
         "end": 499.096,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 499.096,
         "end": 574.761,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 574.761,
         "end": 595.569,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 595.569,
         "end": 600.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -2184,82 +2184,82 @@
       {
         "start": 0.054,
         "end": 22.123,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 22.123,
         "end": 44.192,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 44.192,
         "end": 60.744,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 60.744,
         "end": 66.261,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 66.261,
         "end": 99.364,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 99.364,
         "end": 110.399,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 110.399,
         "end": 132.468,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 132.468,
         "end": 154.537,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 154.537,
         "end": 176.606,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 176.606,
         "end": 193.157,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 193.157,
         "end": 198.674,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 198.674,
         "end": 231.778,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 231.778,
         "end": 242.812,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 242.812,
         "end": 264.881,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 264.881,
         "end": 277.295,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 277.295,
         "end": 281.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -2272,57 +2272,57 @@
       {
         "start": 0.452,
         "end": 15.108,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 15.108,
         "end": 117.704,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 117.704,
         "end": 147.017,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 147.017,
         "end": 189.154,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 189.154,
         "end": 196.482,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 196.482,
         "end": 234.955,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 234.955,
         "end": 242.284,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 242.284,
         "end": 249.612,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 249.612,
         "end": 322.894,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 322.894,
         "end": 354.039,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 354.039,
         "end": 355.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -2335,42 +2335,42 @@
       {
         "start": 0.195,
         "end": 111.767,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 111.767,
         "end": 132.928,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 132.928,
         "end": 232.958,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 232.958,
         "end": 236.805,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 236.805,
         "end": 296.439,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 296.439,
         "end": 329.141,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 329.141,
         "end": 383.003,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 383.003,
         "end": 405.395,
-        "label": "Outro"
+        "label": "outro"
       }
     ]
   },
@@ -2383,42 +2383,42 @@
       {
         "start": 0.39,
         "end": 58.949,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 58.949,
         "end": 67.314,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 67.314,
         "end": 134.239,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 134.239,
         "end": 150.97,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 150.97,
         "end": 156.547,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 156.547,
         "end": 201.164,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 201.164,
         "end": 229.746,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 229.746,
         "end": 239.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -2431,47 +2431,47 @@
       {
         "start": 0.054,
         "end": 14.71,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 14.71,
         "end": 29.367,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 29.367,
         "end": 60.512,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 60.512,
         "end": 62.344,
-        "label": "Silence"
+        "label": "silence"
       },
       {
         "start": 62.344,
         "end": 87.993,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 87.993,
         "end": 95.321,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 95.321,
         "end": 102.649,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 102.649,
         "end": 120.97,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 120.97,
         "end": 131.962,
-        "label": "Outro"
+        "label": "outro"
       }
     ]
   },
@@ -2484,47 +2484,47 @@
       {
         "start": 0.051,
         "end": 28.08,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 28.08,
         "end": 56.109,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 56.109,
         "end": 113.919,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 113.919,
         "end": 140.197,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 140.197,
         "end": 224.284,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 224.284,
         "end": 238.299,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 238.299,
         "end": 308.372,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 308.372,
         "end": 338.153,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 338.153,
         "end": 339.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -2537,47 +2537,47 @@
       {
         "start": 0.031,
         "end": 28.687,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 28.687,
         "end": 57.344,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 57.344,
         "end": 128.986,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 128.986,
         "end": 143.314,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 143.314,
         "end": 170.18,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 170.18,
         "end": 171.971,
-        "label": "Silence"
+        "label": "silence"
       },
       {
         "start": 171.971,
         "end": 214.956,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 214.956,
         "end": 231.075,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 231.075,
         "end": 233.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -2590,37 +2590,37 @@
       {
         "start": 0.073,
         "end": 14.296,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 14.296,
         "end": 42.74,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 42.74,
         "end": 56.962,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 56.962,
         "end": 85.407,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 85.407,
         "end": 99.629,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 99.629,
         "end": 128.074,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 128.074,
         "end": 142.74,
-        "label": "Outro"
+        "label": "outro"
       }
     ]
   },
@@ -2633,57 +2633,57 @@
       {
         "start": 0.055,
         "end": 42.722,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 42.722,
         "end": 56.944,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 56.944,
         "end": 113.833,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 113.833,
         "end": 135.166,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 135.166,
         "end": 142.277,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 142.277,
         "end": 199.166,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 199.166,
         "end": 220.5,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 220.5,
         "end": 227.611,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 227.611,
         "end": 270.278,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 270.278,
         "end": 298.722,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 298.722,
         "end": 304.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -2696,32 +2696,32 @@
       {
         "start": 1.139,
         "end": 15.159,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 15.159,
         "end": 29.179,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 29.179,
         "end": 99.277,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 99.277,
         "end": 113.297,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 113.297,
         "end": 197.416,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 197.416,
         "end": 226.332,
-        "label": "Outro"
+        "label": "outro"
       }
     ]
   },
@@ -2734,47 +2734,47 @@
       {
         "start": 0.051,
         "end": 19.162,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 19.162,
         "end": 33.385,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 33.385,
         "end": 44.051,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 44.051,
         "end": 47.607,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 47.607,
         "end": 90.274,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 90.274,
         "end": 100.94,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 100.94,
         "end": 104.496,
-        "label": "Silence"
+        "label": "silence"
       },
       {
         "start": 104.496,
         "end": 161.385,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 161.385,
         "end": 176.876,
-        "label": "Outro"
+        "label": "outro"
       }
     ]
   },
@@ -2787,67 +2787,67 @@
       {
         "start": 0.038,
         "end": 28.483,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 28.483,
         "end": 56.928,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 56.928,
         "end": 113.817,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 113.817,
         "end": 128.039,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 128.039,
         "end": 156.483,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 156.483,
         "end": 172.483,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 172.483,
         "end": 184.928,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 184.928,
         "end": 200.928,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 200.928,
         "end": 208.039,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 208.039,
         "end": 216.928,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 216.928,
         "end": 241.817,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 241.817,
         "end": 275.594,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 275.594,
         "end": 282.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -2860,57 +2860,57 @@
       {
         "start": 0.024,
         "end": 28.469,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 28.469,
         "end": 56.914,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 56.914,
         "end": 85.358,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 85.358,
         "end": 113.803,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 113.803,
         "end": 142.247,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 142.247,
         "end": 199.136,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 199.136,
         "end": 227.581,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 227.581,
         "end": 256.025,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 256.025,
         "end": 312.915,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 312.915,
         "end": 328.915,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 328.915,
         "end": 334.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -2923,57 +2923,57 @@
       {
         "start": 0.057,
         "end": 35.612,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 35.612,
         "end": 56.945,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 56.945,
         "end": 113.834,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 113.834,
         "end": 142.278,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 142.278,
         "end": 204.5,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 204.5,
         "end": 208.056,
-        "label": "Silence"
+        "label": "silence"
       },
       {
         "start": 208.056,
         "end": 248.945,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 248.945,
         "end": 259.611,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 259.611,
         "end": 311.167,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 311.167,
         "end": 336.056,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 336.056,
         "end": 337.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -2986,42 +2986,42 @@
       {
         "start": 0.228,
         "end": 61.581,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 61.581,
         "end": 72.408,
-        "label": "Silence"
+        "label": "silence"
       },
       {
         "start": 72.408,
         "end": 101.281,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 101.281,
         "end": 130.153,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 130.153,
         "end": 159.025,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 159.025,
         "end": 187.897,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 187.897,
         "end": 245.642,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 245.642,
         "end": 288.499,
-        "label": "Outro"
+        "label": "outro"
       }
     ]
   },
@@ -3034,57 +3034,57 @@
       {
         "start": 0.03,
         "end": 14.147,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 14.147,
         "end": 28.265,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 28.265,
         "end": 81.206,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 81.206,
         "end": 84.736,
-        "label": "Breakdoiwn"
+        "label": "breakdown"
       },
       {
         "start": 84.736,
         "end": 100.177,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 100.177,
         "end": 151.795,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 151.795,
         "end": 155.324,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 155.324,
         "end": 169.442,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 169.442,
         "end": 199.001,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 199.001,
         "end": 213.56,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 213.56,
         "end": 215.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -3097,42 +3097,42 @@
       {
         "start": 0.0,
         "end": 21.176,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 21.176,
         "end": 28.235,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 28.235,
         "end": 112.941,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 112.941,
         "end": 134.117,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 134.117,
         "end": 141.176,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 141.176,
         "end": 225.882,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 225.882,
         "end": 255.882,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 255.882,
         "end": 258.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -3145,27 +3145,27 @@
       {
         "start": 1.011,
         "end": 18.789,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 18.789,
         "end": 68.567,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 68.567,
         "end": 75.678,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 75.678,
         "end": 93.455,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 93.455,
         "end": 103.471,
-        "label": "Outro"
+        "label": "outro"
       }
     ]
   },
@@ -3178,37 +3178,37 @@
       {
         "start": 0.027,
         "end": 21.681,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 21.681,
         "end": 173.26,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 173.26,
         "end": 194.914,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 194.914,
         "end": 202.132,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 202.132,
         "end": 360.929,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 360.929,
         "end": 369.951,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 369.951,
         "end": 374.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -3221,37 +3221,37 @@
       {
         "start": 0.065,
         "end": 48.762,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 48.762,
         "end": 55.718,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 55.718,
         "end": 133.981,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 133.981,
         "end": 139.198,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 139.198,
         "end": 219.199,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 219.199,
         "end": 269.635,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 269.635,
         "end": 270.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -3264,57 +3264,57 @@
       {
         "start": 0.192,
         "end": 15.7,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 15.7,
         "end": 57.054,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 57.054,
         "end": 63.946,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 63.946,
         "end": 98.408,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 98.408,
         "end": 112.192,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 112.192,
         "end": 155.269,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 155.269,
         "end": 167.331,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 167.331,
         "end": 191.454,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 191.454,
         "end": 194.9,
-        "label": "Silence"
+        "label": "silence"
       },
       {
         "start": 194.9,
         "end": 222.469,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 222.469,
         "end": 223.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -3327,52 +3327,52 @@
       {
         "start": 0.006,
         "end": 13.721,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 13.721,
         "end": 27.435,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 27.435,
         "end": 75.435,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 75.435,
         "end": 82.292,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 82.292,
         "end": 137.149,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 137.149,
         "end": 140.578,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 140.578,
         "end": 177.863,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 177.863,
         "end": 192.006,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 192.006,
         "end": 221.149,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 221.149,
         "end": 222.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -3385,42 +3385,42 @@
       {
         "start": 0.05,
         "end": 41.192,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 41.192,
         "end": 54.906,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 54.906,
         "end": 137.192,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 137.192,
         "end": 192.049,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 192.049,
         "end": 219.478,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 219.478,
         "end": 246.906,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 246.906,
         "end": 281.192,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 281.192,
         "end": 291.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -3433,42 +3433,42 @@
       {
         "start": 0.053,
         "end": 13.767,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 13.767,
         "end": 27.481,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 27.481,
         "end": 137.196,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 137.196,
         "end": 150.91,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 150.91,
         "end": 164.624,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 164.624,
         "end": 274.339,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 274.339,
         "end": 281.196,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 281.196,
         "end": 285.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -3481,42 +3481,42 @@
       {
         "start": 0.073,
         "end": 15.502,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 15.502,
         "end": 42.93,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 42.93,
         "end": 125.216,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 125.216,
         "end": 145.788,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 145.788,
         "end": 152.645,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 152.645,
         "end": 221.216,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 221.216,
         "end": 233.645,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 233.645,
         "end": 240.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -3529,27 +3529,27 @@
       {
         "start": 0.333,
         "end": 41.255,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 41.255,
         "end": 121.846,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 121.846,
         "end": 150.995,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 150.995,
         "end": 263.737,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 263.737,
         "end": 264.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -3562,32 +3562,32 @@
       {
         "start": 0.025,
         "end": 54.882,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 54.882,
         "end": 137.168,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 137.168,
         "end": 189.454,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 189.454,
         "end": 192.025,
-        "label": "Silence"
+        "label": "silence"
       },
       {
         "start": 192.025,
         "end": 274.311,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 274.311,
         "end": 325.74,
-        "label": "Outro"
+        "label": "outro"
       }
     ]
   },
@@ -3600,32 +3600,32 @@
       {
         "start": 0.067,
         "end": 54.924,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 54.924,
         "end": 164.638,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 164.638,
         "end": 192.067,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 192.067,
         "end": 301.781,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 301.781,
         "end": 318.924,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 318.924,
         "end": 329.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -3638,42 +3638,42 @@
       {
         "start": 0.082,
         "end": 13.797,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 13.797,
         "end": 24.511,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 24.511,
         "end": 27.511,
-        "label": "Silence"
+        "label": "silence"
       },
       {
         "start": 27.511,
         "end": 54.939,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 54.939,
         "end": 82.368,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 82.368,
         "end": 96.082,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 96.082,
         "end": 109.796,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 109.796,
         "end": 114.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -3686,42 +3686,42 @@
       {
         "start": 0.052,
         "end": 41.195,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 41.195,
         "end": 54.909,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 54.909,
         "end": 137.195,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 137.195,
         "end": 178.338,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 178.338,
         "end": 192.052,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 192.052,
         "end": 274.338,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 274.338,
         "end": 278.624,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 278.624,
         "end": 286.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -3734,42 +3734,42 @@
       {
         "start": 0.359,
         "end": 28.22,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 28.22,
         "end": 55.645,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 55.645,
         "end": 62.501,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 62.501,
         "end": 158.485,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 158.485,
         "end": 165.342,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 165.342,
         "end": 220.19,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 220.19,
         "end": 250.185,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 250.185,
         "end": 256.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -3782,42 +3782,42 @@
       {
         "start": 0.012,
         "end": 54.096,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 54.096,
         "end": 108.181,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 108.181,
         "end": 135.224,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 135.224,
         "end": 216.351,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 216.351,
         "end": 243.393,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 243.393,
         "end": 268.745,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 268.745,
         "end": 270.435,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 270.435,
         "end": 277.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -3830,52 +3830,52 @@
       {
         "start": 0.205,
         "end": 13.92,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 13.92,
         "end": 27.635,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 27.635,
         "end": 41.349,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 41.349,
         "end": 96.208,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 96.208,
         "end": 106.493,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 106.493,
         "end": 109.922,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 109.922,
         "end": 113.351,
-        "label": "Fakedrop"
+        "label": "breakdown"
       },
       {
         "start": 113.351,
         "end": 137.351,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 137.351,
         "end": 172.923,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 172.923,
         "end": 240.21,
-        "label": "Outro"
+        "label": "outro"
       }
     ]
   },
@@ -3888,42 +3888,42 @@
       {
         "start": 0.037,
         "end": 48.079,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 48.079,
         "end": 72.101,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 72.101,
         "end": 156.175,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 156.175,
         "end": 168.186,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 168.186,
         "end": 234.244,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 234.244,
         "end": 264.271,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 264.271,
         "end": 312.689,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 312.689,
         "end": 313.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -3936,37 +3936,37 @@
       {
         "start": 0.055,
         "end": 25.655,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 25.655,
         "end": 38.455,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 38.455,
         "end": 89.655,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 89.655,
         "end": 140.855,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 140.855,
         "end": 153.655,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 153.655,
         "end": 179.255,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 179.255,
         "end": 206.056,
-        "label": "Outro"
+        "label": "outro"
       }
     ]
   },
@@ -3979,67 +3979,67 @@
       {
         "start": 0.137,
         "end": 24.16,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 24.16,
         "end": 36.171,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 36.171,
         "end": 120.251,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 120.251,
         "end": 132.262,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 132.262,
         "end": 168.296,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 168.296,
         "end": 180.307,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 180.307,
         "end": 204.33,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 204.33,
         "end": 216.341,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 216.341,
         "end": 240.364,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 240.364,
         "end": 252.375,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 252.375,
         "end": 264.387,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 264.387,
         "end": 280.902,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 280.902,
         "end": 281.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -4052,42 +4052,42 @@
       {
         "start": 0.025,
         "end": 12.825,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 12.825,
         "end": 38.425,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 38.425,
         "end": 102.425,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 102.425,
         "end": 115.225,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 115.225,
         "end": 140.825,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 140.825,
         "end": 192.025,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 192.025,
         "end": 217.625,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 217.625,
         "end": 218.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -4100,37 +4100,37 @@
       {
         "start": 0.077,
         "end": 43.431,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 43.431,
         "end": 62.012,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 62.012,
         "end": 136.334,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 136.334,
         "end": 161.108,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 161.108,
         "end": 210.656,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 210.656,
         "end": 227.688,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 227.688,
         "end": 229.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -4143,52 +4143,52 @@
       {
         "start": 0.026,
         "end": 48.121,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 48.121,
         "end": 72.168,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 72.168,
         "end": 120.263,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 120.263,
         "end": 168.358,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 168.358,
         "end": 240.501,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 240.501,
         "end": 264.548,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 264.548,
         "end": 288.596,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 288.596,
         "end": 360.738,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 360.738,
         "end": 387.791,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 387.791,
         "end": 388.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -4201,52 +4201,52 @@
       {
         "start": 0.066,
         "end": 12.867,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 12.867,
         "end": 25.667,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 25.667,
         "end": 51.267,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 51.267,
         "end": 64.067,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 64.067,
         "end": 92.867,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 92.867,
         "end": 99.267,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 99.267,
         "end": 111.032,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 111.032,
         "end": 143.068,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 143.068,
         "end": 163.822,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 163.822,
         "end": 169.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -4259,37 +4259,37 @@
       {
         "start": 0.098,
         "end": 24.832,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 24.832,
         "end": 182.79,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 182.79,
         "end": 201.37,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 201.37,
         "end": 247.822,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 247.822,
         "end": 343.822,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 343.822,
         "end": 350.015,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 350.015,
         "end": 360.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -4302,42 +4302,42 @@
       {
         "start": 0.066,
         "end": 25.638,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 25.638,
         "end": 38.425,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 38.425,
         "end": 63.998,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 63.998,
         "end": 83.177,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 83.177,
         "end": 95.963,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 95.963,
         "end": 121.536,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 121.536,
         "end": 148.707,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 148.707,
         "end": 153.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -4350,42 +4350,42 @@
       {
         "start": 0.038,
         "end": 12.838,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 12.838,
         "end": 38.438,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 38.438,
         "end": 140.838,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 140.838,
         "end": 166.438,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 166.438,
         "end": 217.638,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 217.638,
         "end": 230.438,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 230.438,
         "end": 283.238,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 283.238,
         "end": 286.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -4398,82 +4398,82 @@
       {
         "start": 0.097,
         "end": 12.739,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 12.739,
         "end": 38.024,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 38.024,
         "end": 50.667,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 50.667,
         "end": 75.952,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 75.952,
         "end": 101.237,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 101.237,
         "end": 113.879,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 113.879,
         "end": 139.164,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 139.164,
         "end": 167.61,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 167.61,
         "end": 192.895,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 192.895,
         "end": 218.18,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 218.18,
         "end": 243.465,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 243.465,
         "end": 256.107,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 256.107,
         "end": 268.75,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 268.75,
         "end": 306.677,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 306.677,
         "end": 322.876,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 322.876,
         "end": 327.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -4486,37 +4486,37 @@
       {
         "start": 0.139,
         "end": 12.939,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 12.939,
         "end": 64.138,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 64.138,
         "end": 76.938,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 76.938,
         "end": 89.738,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 89.738,
         "end": 140.937,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 140.937,
         "end": 158.137,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 158.137,
         "end": 164.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -4529,37 +4529,37 @@
       {
         "start": 0.051,
         "end": 32.051,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 32.051,
         "end": 51.251,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 51.251,
         "end": 153.651,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 153.651,
         "end": 166.452,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 166.452,
         "end": 179.252,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 179.252,
         "end": 233.652,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 233.652,
         "end": 235.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -4572,52 +4572,52 @@
       {
         "start": 0.368,
         "end": 23.638,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 23.638,
         "end": 47.658,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 47.658,
         "end": 170.762,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 170.762,
         "end": 191.78,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 191.78,
         "end": 230.812,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 230.812,
         "end": 239.82,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 239.82,
         "end": 305.876,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 305.876,
         "end": 317.886,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 317.886,
         "end": 367.428,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 367.428,
         "end": 371.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -4630,42 +4630,42 @@
       {
         "start": 0.025,
         "end": 44.163,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 44.163,
         "end": 66.232,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 66.232,
         "end": 160.025,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 160.025,
         "end": 176.577,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 176.577,
         "end": 198.646,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 198.646,
         "end": 264.853,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 264.853,
         "end": 295.198,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 295.198,
         "end": 307.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -4678,42 +4678,42 @@
       {
         "start": 0.056,
         "end": 22.382,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 22.382,
         "end": 44.707,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 44.707,
         "end": 134.009,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 134.009,
         "end": 153.544,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 153.544,
         "end": 156.335,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 156.335,
         "end": 245.637,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 245.637,
         "end": 270.753,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 270.753,
         "end": 273.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -4726,37 +4726,37 @@
       {
         "start": 0.395,
         "end": 55.567,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 55.567,
         "end": 66.601,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 66.601,
         "end": 132.808,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 132.808,
         "end": 165.912,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 165.912,
         "end": 176.946,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 176.946,
         "end": 247.636,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 247.636,
         "end": 254.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -4769,42 +4769,42 @@
       {
         "start": 0.236,
         "end": 22.305,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 22.305,
         "end": 44.374,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 44.374,
         "end": 110.581,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 110.581,
         "end": 127.132,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 127.132,
         "end": 132.65,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 132.65,
         "end": 198.856,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 198.856,
         "end": 245.753,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 245.753,
         "end": 249.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -4817,67 +4817,67 @@
       {
         "start": 0.051,
         "end": 22.12,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 22.12,
         "end": 44.189,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 44.189,
         "end": 55.223,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 55.223,
         "end": 66.258,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 66.258,
         "end": 104.879,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 104.879,
         "end": 110.396,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 110.396,
         "end": 132.465,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 132.465,
         "end": 154.534,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 154.534,
         "end": 165.569,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 165.569,
         "end": 176.603,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 176.603,
         "end": 215.224,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 215.224,
         "end": 230.741,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 230.741,
         "end": 237.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -4890,47 +4890,47 @@
       {
         "start": 0.121,
         "end": 22.063,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 22.063,
         "end": 54.978,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 54.978,
         "end": 65.949,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 65.949,
         "end": 153.72,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 153.72,
         "end": 186.634,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 186.634,
         "end": 197.606,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 197.606,
         "end": 285.377,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 285.377,
         "end": 316.92,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 316.92,
         "end": 318.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -4943,37 +4943,37 @@
       {
         "start": 0.027,
         "end": 44.165,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 44.165,
         "end": 88.303,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 88.303,
         "end": 132.441,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 132.441,
         "end": 176.579,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 176.579,
         "end": 220.716,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 220.716,
         "end": 264.854,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 264.854,
         "end": 288.654,
-        "label": "Outro"
+        "label": "outro"
       }
     ]
   },
@@ -4986,37 +4986,37 @@
       {
         "start": 0.027,
         "end": 2.785,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 2.785,
         "end": 22.096,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 22.096,
         "end": 132.441,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 132.441,
         "end": 143.475,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 143.475,
         "end": 154.51,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 154.51,
         "end": 200.027,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 200.027,
         "end": 202.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -5029,37 +5029,37 @@
       {
         "start": 0.051,
         "end": 38.672,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 38.672,
         "end": 44.189,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 44.189,
         "end": 129.706,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 129.706,
         "end": 132.464,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 132.464,
         "end": 217.981,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 217.981,
         "end": 220.74,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 220.74,
         "end": 223.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -5072,37 +5072,37 @@
       {
         "start": 0.118,
         "end": 55.29,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 55.29,
         "end": 66.325,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 66.325,
         "end": 154.6,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 154.6,
         "end": 165.635,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 165.635,
         "end": 176.669,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 176.669,
         "end": 267.703,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 267.703,
         "end": 270.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -5115,42 +5115,42 @@
       {
         "start": 0.027,
         "end": 22.096,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 22.096,
         "end": 44.165,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 44.165,
         "end": 176.579,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 176.579,
         "end": 215.2,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 215.2,
         "end": 220.717,
-        "label": "Silence"
+        "label": "silence"
       },
       {
         "start": 220.717,
         "end": 308.993,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 308.993,
         "end": 313.131,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 313.131,
         "end": 318.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -5163,42 +5163,42 @@
       {
         "start": 0.193,
         "end": 44.331,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 44.331,
         "end": 66.4,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 66.4,
         "end": 154.676,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 154.676,
         "end": 176.745,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 176.745,
         "end": 198.814,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 198.814,
         "end": 242.952,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 242.952,
         "end": 258.124,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 258.124,
         "end": 264.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -5211,42 +5211,42 @@
       {
         "start": 0.046,
         "end": 22.371,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 22.371,
         "end": 44.697,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 44.697,
         "end": 156.324,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 156.324,
         "end": 167.487,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 167.487,
         "end": 178.65,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 178.65,
         "end": 290.277,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 290.277,
         "end": 312.603,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 312.603,
         "end": 313.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   },
@@ -5259,62 +5259,62 @@
       {
         "start": 0.028,
         "end": 22.353,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 22.353,
         "end": 44.679,
-        "label": "Intro"
+        "label": "intro"
       },
       {
         "start": 44.679,
         "end": 78.167,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 78.167,
         "end": 89.33,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 89.33,
         "end": 111.656,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 111.656,
         "end": 133.981,
-        "label": "Breakdown"
+        "label": "breakdown"
       },
       {
         "start": 133.981,
         "end": 156.307,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 156.307,
         "end": 189.795,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 189.795,
         "end": 200.958,
-        "label": "Buildup"
+        "label": "buildup"
       },
       {
         "start": 200.958,
         "end": 223.283,
-        "label": "Drop"
+        "label": "drop"
       },
       {
         "start": 223.283,
         "end": 247.702,
-        "label": "Outro"
+        "label": "outro"
       },
       {
         "start": 247.702,
         "end": 249.0,
-        "label": "END"
+        "label": "end"
       }
     ]
   }
