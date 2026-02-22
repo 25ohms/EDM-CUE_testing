@@ -42,7 +42,7 @@ id,title,artists,duration,genre,key,beat_grid,cue_pts,bpm,bpm_bucket
 2276763157,Second Encounter,S.P.Y,239,['Drum & Bass' 'Dance' 'Dance' 'Dance'],['4A' '4A' '4A' '4A'],"{'bpm': 129.0, 'init_beat': 1, 'start_pos': 0.297, 'time_sig': '4/4'}","[ 22.621  44.947  67.26   89.586 111.911 134.236 156.561 178.886 201.211
  223.536]",129.0,Electro / Dance
 1854342567,Koummya,Eprom,131,['Electro'],['4A'],"{'bpm': 131.0, 'init_beat': 1, 'start_pos': 0.026000000000000002, 'time_sig': '4/4'}",[2.6000e-02 2.9339e+01],131.0,Electro / Dance
-36687371,Silo Pass (Sir Spyro Remix) (Sir Spyro),Bok Bok,339,['Dance'],['11A'],"{'bpm': 137.0, 'init_beat': 1, 'start_pos': 0.039, 'time_sig': '4/4'}",[3.9000e-02 2.8069e+01 5.6098e+01],137.0,Techno
+36687371,Silo Pass (Sir Spyro Remix),Bok Bok,339,['Dance'],['11A'],"{'bpm': 137.0, 'init_beat': 1, 'start_pos': 0.039, 'time_sig': '4/4'}",[3.9000e-02 2.8069e+01 5.6098e+01],137.0,Techno
 395710662,Bullseye,"Sully, Jamakabi",233,[''],['4B'],"{'bpm': 134.0, 'init_beat': 1, 'start_pos': 0.052000000000000005, 'time_sig': '4/4'}",[5.2000e-02 2.8709e+01 5.7365e+01],134.0,Techno
 2213751377,My Way,"Drone, Emz",142,['Alternative'],['5B'],"{'bpm': 135.0, 'init_beat': 1, 'start_pos': 0.055, 'time_sig': '4/4'}",[0.055],135.0,Techno
 1475309562,Melodrama (Sam Binga Under Water Garage Mix),"Sam Binga, Alix Perez",304,['Dance'],['4A'],"{'bpm': 135.0, 'init_beat': 1, 'start_pos': 0.052000000000000005, 'time_sig': '4/4'}",[5.2000e-02 2.8496e+01 5.6940e+01],135.0,Techno

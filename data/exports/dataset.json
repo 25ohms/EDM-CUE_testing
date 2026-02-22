@@ -12,33 +12,23 @@
       },
       {
         "start": 35.942,
-        "end": 56.129,
+        "end": 58.38,
         "label": "Buildup"
       },
       {
-        "start": 56.129,
+        "start": 58.38,
         "end": 62.866,
         "label": "Silence"
       },
       {
         "start": 62.866,
-        "end": 80.802,
-        "label": "Verse"
-      },
-      {
-        "start": 80.802,
         "end": 118.941,
-        "label": "Chorus"
+        "label": "Drop"
       },
       {
         "start": 118.941,
-        "end": 152.586,
-        "label": "Breakdown"
-      },
-      {
-        "start": 152.586,
         "end": 170.53,
-        "label": "Verse"
+        "label": "Breakdown"
       },
       {
         "start": 170.53,
@@ -48,7 +38,7 @@
       {
         "start": 188.474,
         "end": 224.361,
-        "label": "Chorus"
+        "label": "Drop"
       },
       {
         "start": 224.361,
@@ -63,6 +53,256 @@
     ]
   },
   {
+    "id": "1064533332",
+    "song": "glue70 - Casin",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/02 - glue70 - Casin.mp3",
+    "duration": 106.0,
+    "sections": [
+      {
+        "start": 0.026,
+        "end": 4.642,
+        "label": "Intro"
+      },
+      {
+        "start": 4.642,
+        "end": 41.565,
+        "label": "Drop"
+      },
+      {
+        "start": 41.565,
+        "end": 42.142,
+        "label": "Silence"
+      },
+      {
+        "start": 42.142,
+        "end": 87.718,
+        "label": "Drop"
+      },
+      {
+        "start": 87.718,
+        "end": 101.565,
+        "label": "Outro"
+      },
+      {
+        "start": 101.565,
+        "end": 106.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "3135563",
+    "song": "Daft Punk - Veridis Quo",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/03 - Daft Punk - Veridis Quo.mp3",
+    "duration": 345.0,
+    "sections": [
+      {
+        "start": 0.668,
+        "end": 45.572,
+        "label": "Intro"
+      },
+      {
+        "start": 45.572,
+        "end": 54.553,
+        "label": "Buildup"
+      },
+      {
+        "start": 54.553,
+        "end": 108.439,
+        "label": "Drop"
+      },
+      {
+        "start": 108.439,
+        "end": 126.401,
+        "label": "Buildup"
+      },
+      {
+        "start": 126.401,
+        "end": 180.286,
+        "label": "Drop"
+      },
+      {
+        "start": 180.286,
+        "end": 198.248,
+        "label": "Breakdown"
+      },
+      {
+        "start": 198.248,
+        "end": 252.134,
+        "label": "Drop"
+      },
+      {
+        "start": 252.134,
+        "end": 270.096,
+        "label": "Breakdown"
+      },
+      {
+        "start": 270.096,
+        "end": 323.981,
+        "label": "Drop"
+      },
+      {
+        "start": 323.981,
+        "end": 345.0,
+        "label": "Outro"
+      }
+    ]
+  },
+  {
+    "id": "3135561",
+    "song": "Daft Punk - Something About Us",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/04 - Daft Punk - Something About Us.mp3",
+    "duration": 232.0,
+    "sections": [
+      {
+        "start": 0.407,
+        "end": 19.61,
+        "label": "Intro"
+      },
+      {
+        "start": 19.61,
+        "end": 77.218,
+        "label": "Drop"
+      },
+      {
+        "start": 77.218,
+        "end": 98.821,
+        "label": "Drop"
+      },
+      {
+        "start": 98.821,
+        "end": 106.022,
+        "label": "Breakdown"
+      },
+      {
+        "start": 106.022,
+        "end": 134.826,
+        "label": "Drop"
+      },
+      {
+        "start": 134.826,
+        "end": 211.637,
+        "label": "Drop"
+      },
+      {
+        "start": 211.637,
+        "end": 228.44,
+        "label": "Outro"
+      },
+      {
+        "start": 228.44,
+        "end": 232.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "509568372",
+    "song": "Matrix & Futurebound Alex Hepburn - Live Another Day (M&F's Smoke & Mirrors Mix) (Club Master)",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/05 - Matrix & Futurebound - Live Another Day (M&F's Smoke & Mirrors Mix) (Club Master).mp3",
+    "duration": 246.0,
+    "sections": [
+      {
+        "start": 0.07,
+        "end": 44.208,
+        "label": "Intro"
+      },
+      {
+        "start": 44.208,
+        "end": 66.277,
+        "label": "Buildup"
+      },
+      {
+        "start": 66.277,
+        "end": 104.898,
+        "label": "Drop"
+      },
+      {
+        "start": 104.898,
+        "end": 110.415,
+        "label": "Buildup"
+      },
+      {
+        "start": 110.415,
+        "end": 132.484,
+        "label": "Drop"
+      },
+      {
+        "start": 132.484,
+        "end": 176.622,
+        "label": "Breakdown"
+      },
+      {
+        "start": 176.622,
+        "end": 198.691,
+        "label": "Buildup"
+      },
+      {
+        "start": 198.691,
+        "end": 242.829,
+        "label": "Drop"
+      },
+      {
+        "start": 242.829,
+        "end": 245.588,
+        "label": "Outro"
+      },
+      {
+        "start": 245.588,
+        "end": 246.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "88449443",
+    "song": "Wilkinson Becky Hill - Afterglow",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/06 - Wilkinson - Afterglow.mp3",
+    "duration": 225.0,
+    "sections": [
+      {
+        "start": 0.052,
+        "end": 33.155,
+        "label": "Intro"
+      },
+      {
+        "start": 33.155,
+        "end": 44.189,
+        "label": "Buildup"
+      },
+      {
+        "start": 44.189,
+        "end": 110.396,
+        "label": "Drop"
+      },
+      {
+        "start": 110.396,
+        "end": 143.499,
+        "label": "Breakdown"
+      },
+      {
+        "start": 143.499,
+        "end": 154.534,
+        "label": "Buildup"
+      },
+      {
+        "start": 154.534,
+        "end": 198.671,
+        "label": "Drop"
+      },
+      {
+        "start": 198.671,
+        "end": 223.499,
+        "label": "Outro"
+      },
+      {
+        "start": 223.499,
+        "end": 225.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
     "id": "489645822",
     "song": "Itro - Promises",
     "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/07 - Itro - Promises.mp3",
@@ -70,13 +310,8 @@
     "sections": [
       {
         "start": 0.027,
-        "end": 11.062,
-        "label": "Intro"
-      },
-      {
-        "start": 11.062,
         "end": 38.648,
-        "label": "Verse"
+        "label": "Intro"
       },
       {
         "start": 38.648,
@@ -86,12 +321,12 @@
       {
         "start": 49.683,
         "end": 71.752,
-        "label": "Chorus"
+        "label": "Drop"
       },
       {
         "start": 71.752,
         "end": 82.786,
-        "label": "Verse"
+        "label": "Breakdown"
       },
       {
         "start": 82.786,
@@ -106,7 +341,7 @@
       {
         "start": 126.924,
         "end": 171.063,
-        "label": "Chorus"
+        "label": "Drop"
       },
       {
         "start": 171.063,
@@ -121,6 +356,39 @@
     ]
   },
   {
+    "id": "3135564",
+    "song": "Daft Punk - Short Circuit",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/08 - Daft Punk - Short Circuit.mp3",
+    "duration": 206.0,
+    "sections": [
+      {
+        "start": 0.269,
+        "end": 4.646,
+        "label": "Intro"
+      },
+      {
+        "start": 4.646,
+        "end": 98.746,
+        "label": "Drop"
+      },
+      {
+        "start": 98.746,
+        "end": 177.527,
+        "label": "Breakdown"
+      },
+      {
+        "start": 177.527,
+        "end": 201.599,
+        "label": "Outro"
+      },
+      {
+        "start": 201.599,
+        "end": 206.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
     "id": "489645852",
     "song": "Nexus & Tight - All I Need",
     "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/09 - Nexus & Tight - All I Need.mp3",
@@ -128,13 +396,8 @@
     "sections": [
       {
         "start": 0.027,
-        "end": 22.096,
-        "label": "Intro"
-      },
-      {
-        "start": 22.096,
         "end": 55.2,
-        "label": "Verse"
+        "label": "Intro"
       },
       {
         "start": 55.2,
@@ -143,18 +406,18 @@
       },
       {
         "start": 66.234,
+        "end": 108.993,
+        "label": "Drop"
+      },
+      {
+        "start": 108.993,
         "end": 110.372,
-        "label": "Chorus"
+        "label": "Silence"
       },
       {
         "start": 110.372,
-        "end": 132.441,
-        "label": "Chorus"
-      },
-      {
-        "start": 132.441,
         "end": 148.993,
-        "label": "Verse"
+        "label": "Drop"
       },
       {
         "start": 148.993,
@@ -164,17 +427,12 @@
       {
         "start": 154.51,
         "end": 176.579,
-        "label": "Chorus"
+        "label": "Drop"
       },
       {
         "start": 176.579,
-        "end": 198.648,
-        "label": "Breakdown"
-      },
-      {
-        "start": 198.648,
         "end": 209.682,
-        "label": "Verse"
+        "label": "Breakdown"
       },
       {
         "start": 209.682,
@@ -184,7 +442,7 @@
       {
         "start": 220.717,
         "end": 303.475,
-        "label": "Chorus"
+        "label": "Drop"
       },
       {
         "start": 303.475,
@@ -216,18 +474,8 @@
       },
       {
         "start": 31.228,
-        "end": 46.712,
-        "label": "Chorus"
-      },
-      {
-        "start": 46.712,
-        "end": 62.196,
-        "label": "Verse"
-      },
-      {
-        "start": 62.196,
         "end": 85.422,
-        "label": "Chorus"
+        "label": "Drop"
       },
       {
         "start": 85.422,
@@ -241,18 +489,8 @@
       },
       {
         "start": 93.164,
-        "end": 108.648,
-        "label": "Chorus"
-      },
-      {
-        "start": 108.648,
-        "end": 124.132,
-        "label": "Verse"
-      },
-      {
-        "start": 124.132,
         "end": 139.615,
-        "label": "Chorus"
+        "label": "Drop"
       },
       {
         "start": 139.615,
@@ -266,13 +504,8 @@
       },
       {
         "start": 155.099,
-        "end": 170.583,
-        "label": "Chorus"
-      },
-      {
-        "start": 170.583,
         "end": 186.067,
-        "label": "Verse"
+        "label": "Drop"
       },
       {
         "start": 186.067,
@@ -282,6 +515,29 @@
       {
         "start": 203.486,
         "end": 204.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "3135558",
+    "song": "Daft Punk - Nightvision",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/11 - Daft Punk - Nightvision.mp3",
+    "duration": 104.0,
+    "sections": [
+      {
+        "start": 0.274,
+        "end": 80.281,
+        "label": "Drop"
+      },
+      {
+        "start": 80.281,
+        "end": 100.283,
+        "label": "Outro"
+      },
+      {
+        "start": 100.283,
+        "end": 104.0,
         "label": "END"
       }
     ]
@@ -304,23 +560,13 @@
       },
       {
         "start": 45.341,
-        "end": 90.518,
-        "label": "Chorus"
-      },
-      {
-        "start": 90.518,
         "end": 113.106,
-        "label": "Chorus"
+        "label": "Drop"
       },
       {
         "start": 113.106,
-        "end": 141.341,
-        "label": "Verse"
-      },
-      {
-        "start": 141.341,
         "end": 158.282,
-        "label": "Verse"
+        "label": "Drop"
       },
       {
         "start": 158.282,
@@ -335,12 +581,12 @@
       {
         "start": 180.871,
         "end": 226.047,
-        "label": "Chorus"
+        "label": "Drop"
       },
       {
         "start": 226.047,
         "end": 248.635,
-        "label": "Chorus"
+        "label": "Drop"
       },
       {
         "start": 248.635,
@@ -372,18 +618,8 @@
       },
       {
         "start": 44.19,
-        "end": 66.259,
-        "label": "Chorus"
-      },
-      {
-        "start": 66.259,
-        "end": 110.397,
-        "label": "Verse"
-      },
-      {
-        "start": 110.397,
         "end": 132.466,
-        "label": "Chorus"
+        "label": "Drop"
       },
       {
         "start": 132.466,
@@ -397,18 +633,8 @@
       },
       {
         "start": 176.604,
-        "end": 198.672,
-        "label": "Chorus"
-      },
-      {
-        "start": 198.672,
-        "end": 220.741,
-        "label": "Verse"
-      },
-      {
-        "start": 220.741,
         "end": 264.879,
-        "label": "Chorus"
+        "label": "Drop"
       },
       {
         "start": 264.879,
@@ -440,18 +666,18 @@
       },
       {
         "start": 32.063,
-        "end": 95.063,
-        "label": "Chorus"
+        "end": 92.063,
+        "label": "Drop"
       },
       {
-        "start": 95.063,
+        "start": 92.063,
         "end": 96.063,
-        "label": "Silence"
+        "label": "Buildup"
       },
       {
         "start": 96.063,
         "end": 128.063,
-        "label": "Chorus"
+        "label": "Drop"
       },
       {
         "start": 128.063,
@@ -466,7 +692,7 @@
       {
         "start": 144.063,
         "end": 208.063,
-        "label": "Chorus"
+        "label": "Drop"
       },
       {
         "start": 208.063,
@@ -476,7 +702,7 @@
       {
         "start": 224.063,
         "end": 272.063,
-        "label": "Chorus"
+        "label": "Drop"
       },
       {
         "start": 272.063,
@@ -493,13 +719,8 @@
     "sections": [
       {
         "start": 0.038,
-        "end": 22.107,
-        "label": "Intro"
-      },
-      {
-        "start": 22.107,
         "end": 44.176,
-        "label": "Verse"
+        "label": "Intro"
       },
       {
         "start": 44.176,
@@ -509,7 +730,7 @@
       {
         "start": 66.245,
         "end": 110.382,
-        "label": "Chorus"
+        "label": "Drop"
       },
       {
         "start": 110.382,
@@ -524,7 +745,7 @@
       {
         "start": 132.451,
         "end": 176.589,
-        "label": "Chorus"
+        "label": "Drop"
       },
       {
         "start": 176.589,
@@ -539,7 +760,7 @@
       {
         "start": 220.727,
         "end": 264.865,
-        "label": "Chorus"
+        "label": "Drop"
       },
       {
         "start": 264.865,
@@ -566,18 +787,8 @@
     "sections": [
       {
         "start": 0.021,
-        "end": 22.09,
-        "label": "Intro"
-      },
-      {
-        "start": 22.09,
-        "end": 44.159,
-        "label": "Verse"
-      },
-      {
-        "start": 44.159,
         "end": 66.228,
-        "label": "Breakdown"
+        "label": "Intro"
       },
       {
         "start": 66.228,
@@ -586,23 +797,13 @@
       },
       {
         "start": 88.297,
-        "end": 110.366,
-        "label": "Chorus"
-      },
-      {
-        "start": 110.366,
         "end": 151.745,
-        "label": "Verse"
+        "label": "Drop"
       },
       {
         "start": 151.745,
-        "end": 176.573,
-        "label": "Breakdown"
-      },
-      {
-        "start": 176.573,
         "end": 198.642,
-        "label": "Verse"
+        "label": "Breakdown"
       },
       {
         "start": 198.642,
@@ -611,13 +812,8 @@
       },
       {
         "start": 220.711,
-        "end": 242.78,
-        "label": "Chorus"
-      },
-      {
-        "start": 242.78,
         "end": 286.918,
-        "label": "Verse"
+        "label": "Drop"
       },
       {
         "start": 286.918,
@@ -639,13 +835,8 @@
     "sections": [
       {
         "start": 0.193,
-        "end": 23.404,
-        "label": "Intro"
-      },
-      {
-        "start": 23.404,
         "end": 38.879,
-        "label": "Verse"
+        "label": "Intro"
       },
       {
         "start": 38.879,
@@ -654,18 +845,13 @@
       },
       {
         "start": 54.353,
-        "end": 85.302,
-        "label": "Chorus"
-      },
-      {
-        "start": 85.302,
         "end": 100.776,
-        "label": "Verse"
+        "label": "Drop"
       },
       {
         "start": 100.776,
         "end": 131.725,
-        "label": "Chorus"
+        "label": "Drop"
       },
       {
         "start": 131.725,
@@ -680,7 +866,7 @@
       {
         "start": 147.2,
         "end": 193.623,
-        "label": "Chorus"
+        "label": "Drop"
       },
       {
         "start": 193.623,
@@ -708,47 +894,62 @@
       {
         "start": 31.342,
         "end": 46.967,
-        "label": "Verse"
+        "label": "Buildup"
       },
       {
         "start": 46.967,
+        "end": 58.686,
+        "label": "Drop"
+      },
+      {
+        "start": 58.686,
         "end": 62.592,
-        "label": "Buildup"
+        "label": "Silence"
       },
       {
         "start": 62.592,
+        "end": 89.936,
+        "label": "Drop"
+      },
+      {
+        "start": 89.936,
         "end": 93.843,
-        "label": "Verse"
+        "label": "Silence"
       },
       {
         "start": 93.843,
-        "end": 125.093,
-        "label": "Chorus"
-      },
-      {
-        "start": 125.093,
         "end": 140.719,
-        "label": "Verse"
+        "label": "Drop"
       },
       {
         "start": 140.719,
-        "end": 242.283,
+        "end": 226.658,
         "label": "Breakdown"
       },
       {
-        "start": 242.283,
-        "end": 257.908,
+        "start": 226.658,
+        "end": 255.955,
         "label": "Buildup"
       },
       {
+        "start": 255.955,
+        "end": 257.908,
+        "label": "Silence"
+      },
+      {
         "start": 257.908,
+        "end": 285.252,
+        "label": "Drop"
+      },
+      {
+        "start": 285.252,
         "end": 289.159,
-        "label": "Chorus"
+        "label": "Silence"
       },
       {
         "start": 289.159,
         "end": 310.644,
-        "label": "Chorus"
+        "label": "Drop"
       },
       {
         "start": 310.644,
@@ -758,6 +959,4361 @@
       {
         "start": 318.456,
         "end": 320.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "3135554",
+    "song": "Daft Punk - Aerodynamic",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/19 - Daft Punk - Aerodynamic.mp3",
+    "duration": 212.0,
+    "sections": [
+      {
+        "start": 0.319,
+        "end": 15.944,
+        "label": "Intro"
+      },
+      {
+        "start": 15.944,
+        "end": 31.569,
+        "label": "Buildup"
+      },
+      {
+        "start": 31.569,
+        "end": 62.819,
+        "label": "Drop"
+      },
+      {
+        "start": 62.819,
+        "end": 94.069,
+        "label": "Breakdown"
+      },
+      {
+        "start": 94.069,
+        "end": 109.694,
+        "label": "Builduip"
+      },
+      {
+        "start": 109.694,
+        "end": 140.944,
+        "label": "Drop"
+      },
+      {
+        "start": 140.944,
+        "end": 172.194,
+        "label": "Breakdown"
+      },
+      {
+        "start": 172.194,
+        "end": 209.303,
+        "label": "Outro"
+      },
+      {
+        "start": 209.303,
+        "end": 212.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "3129775",
+    "song": "Daft Punk - Around the World",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/20 - Daft Punk - Around the World.mp3",
+    "duration": 429.0,
+    "sections": [
+      {
+        "start": 0.55,
+        "end": 32.209,
+        "label": "Intro"
+      },
+      {
+        "start": 32.209,
+        "end": 182.594,
+        "label": "Drop"
+      },
+      {
+        "start": 182.594,
+        "end": 214.254,
+        "label": "Breakdown"
+      },
+      {
+        "start": 214.254,
+        "end": 325.063,
+        "label": "Drop"
+      },
+      {
+        "start": 325.063,
+        "end": 340.893,
+        "label": "Breakdown"
+      },
+      {
+        "start": 340.893,
+        "end": 416.085,
+        "label": "Drop"
+      },
+      {
+        "start": 416.085,
+        "end": 424.0,
+        "label": "Outro"
+      },
+      {
+        "start": 424.0,
+        "end": 429.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "2350359795",
+    "song": "Tsuruda Alix Perez - Heat Wave",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/21 - Tsuruda - Heat Wave.mp3",
+    "duration": 220.0,
+    "sections": [
+      {
+        "start": 0.124,
+        "end": 16.124,
+        "label": "Intro"
+      },
+      {
+        "start": 16.124,
+        "end": 32.124,
+        "label": "Buildup"
+      },
+      {
+        "start": 32.124,
+        "end": 60.124,
+        "label": "Drop"
+      },
+      {
+        "start": 60.124,
+        "end": 64.124,
+        "label": "Buildup"
+      },
+      {
+        "start": 64.124,
+        "end": 94.124,
+        "label": "Drop"
+      },
+      {
+        "start": 94.124,
+        "end": 96.124,
+        "label": "Silence"
+      },
+      {
+        "start": 96.124,
+        "end": 128.123,
+        "label": "Drop"
+      },
+      {
+        "start": 128.123,
+        "end": 160.123,
+        "label": "Breakdown"
+      },
+      {
+        "start": 160.123,
+        "end": 182.123,
+        "label": "Drop"
+      },
+      {
+        "start": 182.123,
+        "end": 184.123,
+        "label": "Buildup"
+      },
+      {
+        "start": 184.123,
+        "end": 208.123,
+        "label": "Drop"
+      },
+      {
+        "start": 208.123,
+        "end": 220.056,
+        "label": "Outro"
+      }
+    ]
+  },
+  {
+    "id": "1117818682",
+    "song": "Mtwn Fearful - Unknown",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/22 - Mtwn - Unknown.mp3",
+    "duration": 302.0,
+    "sections": [
+      {
+        "start": 0.052,
+        "end": 49.707,
+        "label": "Intro"
+      },
+      {
+        "start": 49.707,
+        "end": 66.258,
+        "label": "Buildup"
+      },
+      {
+        "start": 66.258,
+        "end": 132.465,
+        "label": "Drop"
+      },
+      {
+        "start": 132.465,
+        "end": 134.534,
+        "label": "Silence"
+      },
+      {
+        "start": 134.534,
+        "end": 165.569,
+        "label": "Drop"
+      },
+      {
+        "start": 165.569,
+        "end": 194.534,
+        "label": "Breakdown"
+      },
+      {
+        "start": 194.534,
+        "end": 198.672,
+        "label": "Buildup"
+      },
+      {
+        "start": 198.672,
+        "end": 260.741,
+        "label": "Drop"
+      },
+      {
+        "start": 260.741,
+        "end": 264.879,
+        "label": "Buildup"
+      },
+      {
+        "start": 264.879,
+        "end": 297.982,
+        "label": "Drop"
+      },
+      {
+        "start": 297.982,
+        "end": 302.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "716493872",
+    "song": "Sub Focus - Solar System",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/23 - Sub Focus - Solar System.mp3",
+    "duration": 288.0,
+    "sections": [
+      {
+        "start": 0.053,
+        "end": 77.294,
+        "label": "Intro"
+      },
+      {
+        "start": 77.294,
+        "end": 88.329,
+        "label": "Buildup"
+      },
+      {
+        "start": 88.329,
+        "end": 104.88,
+        "label": "Drop"
+      },
+      {
+        "start": 104.88,
+        "end": 110.398,
+        "label": "Buildup"
+      },
+      {
+        "start": 110.398,
+        "end": 126.949,
+        "label": "Drop"
+      },
+      {
+        "start": 126.949,
+        "end": 132.467,
+        "label": "Buildup"
+      },
+      {
+        "start": 132.467,
+        "end": 151.777,
+        "label": "Drop"
+      },
+      {
+        "start": 151.777,
+        "end": 154.535,
+        "label": "Silence"
+      },
+      {
+        "start": 154.535,
+        "end": 176.604,
+        "label": "Breakdown"
+      },
+      {
+        "start": 176.604,
+        "end": 198.673,
+        "label": "Buildup"
+      },
+      {
+        "start": 198.673,
+        "end": 215.225,
+        "label": "Drop"
+      },
+      {
+        "start": 215.225,
+        "end": 220.742,
+        "label": "Buildup"
+      },
+      {
+        "start": 220.742,
+        "end": 237.294,
+        "label": "Drop"
+      },
+      {
+        "start": 237.294,
+        "end": 242.811,
+        "label": "Buildup"
+      },
+      {
+        "start": 242.811,
+        "end": 264.88,
+        "label": "Drop"
+      },
+      {
+        "start": 264.88,
+        "end": 286.949,
+        "label": "Outro"
+      },
+      {
+        "start": 286.949,
+        "end": 288.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "3135565",
+    "song": "Daft Punk - Face to Face",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/24 - Daft Punk - Face to Face.mp3",
+    "duration": 240.0,
+    "sections": [
+      {
+        "start": 0.116,
+        "end": 8.26,
+        "label": "Intro"
+      },
+      {
+        "start": 8.26,
+        "end": 73.409,
+        "label": "Drop"
+      },
+      {
+        "start": 73.409,
+        "end": 105.984,
+        "label": "Breakdown"
+      },
+      {
+        "start": 105.984,
+        "end": 143.648,
+        "label": "Drop"
+      },
+      {
+        "start": 143.648,
+        "end": 144.666,
+        "label": "Silence"
+      },
+      {
+        "start": 144.666,
+        "end": 236.282,
+        "label": "Drop"
+      },
+      {
+        "start": 236.282,
+        "end": 238.318,
+        "label": "Outro"
+      },
+      {
+        "start": 238.318,
+        "end": 240.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "408221052",
+    "song": "Tantrum Desire - Pump",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/25 - Tantrum Desire - Pump.mp3",
+    "duration": 278.0,
+    "sections": [
+      {
+        "start": 0.487,
+        "end": 44.625,
+        "label": "Intro"
+      },
+      {
+        "start": 44.625,
+        "end": 66.694,
+        "label": "Buildup"
+      },
+      {
+        "start": 66.694,
+        "end": 132.901,
+        "label": "Drop"
+      },
+      {
+        "start": 132.901,
+        "end": 166.004,
+        "label": "Breakdown"
+      },
+      {
+        "start": 166.004,
+        "end": 177.039,
+        "label": "Buildup"
+      },
+      {
+        "start": 177.039,
+        "end": 265.314,
+        "label": "Drop"
+      },
+      {
+        "start": 265.314,
+        "end": 273.59,
+        "label": "Outro"
+      },
+      {
+        "start": 273.59,
+        "end": 278.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "925091332",
+    "song": "Break - Tubes",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/26 - Break - Tubes.mp3",
+    "duration": 270.0,
+    "sections": [
+      {
+        "start": 0.011,
+        "end": 55.184,
+        "label": "Intro"
+      },
+      {
+        "start": 55.184,
+        "end": 66.218,
+        "label": "Buildup"
+      },
+      {
+        "start": 66.218,
+        "end": 107.598,
+        "label": "Drop"
+      },
+      {
+        "start": 107.598,
+        "end": 110.356,
+        "label": "Silence"
+      },
+      {
+        "start": 110.356,
+        "end": 154.494,
+        "label": "Drop"
+      },
+      {
+        "start": 154.494,
+        "end": 171.046,
+        "label": "Breakdown"
+      },
+      {
+        "start": 171.046,
+        "end": 176.563,
+        "label": "Buildup"
+      },
+      {
+        "start": 176.563,
+        "end": 217.943,
+        "label": "Drop"
+      },
+      {
+        "start": 217.943,
+        "end": 220.701,
+        "label": "Silence"
+      },
+      {
+        "start": 220.701,
+        "end": 264.839,
+        "label": "Drop"
+      },
+      {
+        "start": 264.839,
+        "end": 267.598,
+        "label": "Outro"
+      },
+      {
+        "start": 267.598,
+        "end": 270.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "3135556",
+    "song": "Daft Punk - Harder, Better, Faster, Stronger",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/27 - Daft Punk - Harder, Better, Faster, Stronger.mp3",
+    "duration": 226.0,
+    "sections": [
+      {
+        "start": 1.013,
+        "end": 21.419,
+        "label": "Intro"
+      },
+      {
+        "start": 21.419,
+        "end": 95.269,
+        "label": "Drop"
+      },
+      {
+        "start": 95.269,
+        "end": 99.156,
+        "label": "Silence"
+      },
+      {
+        "start": 99.156,
+        "end": 144.826,
+        "label": "Drop"
+      },
+      {
+        "start": 144.826,
+        "end": 145.798,
+        "label": "Silence"
+      },
+      {
+        "start": 145.798,
+        "end": 161.345,
+        "label": "Drop"
+      },
+      {
+        "start": 161.345,
+        "end": 223.535,
+        "label": "Breakdown"
+      },
+      {
+        "start": 223.535,
+        "end": 226.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "653769112",
+    "song": "Shades - Black Heart Communion",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/28 - Shades - Black Heart Communion.mp3",
+    "duration": 200.0,
+    "sections": [
+      {
+        "start": 0.311,
+        "end": 8.054,
+        "label": "Intro"
+      },
+      {
+        "start": 8.054,
+        "end": 32.04,
+        "label": "Buildup"
+      },
+      {
+        "start": 32.04,
+        "end": 96.04,
+        "label": "Drop"
+      },
+      {
+        "start": 96.04,
+        "end": 112.04,
+        "label": "Buildup"
+      },
+      {
+        "start": 112.04,
+        "end": 144.04,
+        "label": "Drop"
+      },
+      {
+        "start": 144.04,
+        "end": 148.04,
+        "label": "Breakdown"
+      },
+      {
+        "start": 148.04,
+        "end": 152.04,
+        "label": "Buildup"
+      },
+      {
+        "start": 152.04,
+        "end": 184.04,
+        "label": "Drop"
+      },
+      {
+        "start": 184.04,
+        "end": 194.04,
+        "label": "Outro"
+      },
+      {
+        "start": 194.04,
+        "end": 200.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "2272340067",
+    "song": "Mafia Fluxy Whiney Inja - Down The Line Dub (Whiney & Inja Remix)",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/29 - Mafia - Down The Line Dub (Whiney & Inja Remix).mp3",
+    "duration": 270.0,
+    "sections": [
+      {
+        "start": 0.154,
+        "end": 33.754,
+        "label": "Intro"
+      },
+      {
+        "start": 33.754,
+        "end": 44.726,
+        "label": "Silence"
+      },
+      {
+        "start": 44.726,
+        "end": 85.868,
+        "label": "Drop"
+      },
+      {
+        "start": 85.868,
+        "end": 96.84,
+        "label": "Breakdown"
+      },
+      {
+        "start": 96.84,
+        "end": 99.583,
+        "label": "Silence"
+      },
+      {
+        "start": 99.583,
+        "end": 143.469,
+        "label": "Drop"
+      },
+      {
+        "start": 143.469,
+        "end": 168.154,
+        "label": "Breakdown"
+      },
+      {
+        "start": 168.154,
+        "end": 176.383,
+        "label": "Silence"
+      },
+      {
+        "start": 176.383,
+        "end": 261.412,
+        "label": "Drop"
+      },
+      {
+        "start": 261.412,
+        "end": 266.897,
+        "label": "Outro"
+      },
+      {
+        "start": 266.897,
+        "end": 270.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "1358388652",
+    "song": "Octo-Pi Modify Perspective - Pay Off",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/30 - Octo-Pi - Pay Off.mp3",
+    "duration": 336.0,
+    "sections": [
+      {
+        "start": 0.024,
+        "end": 60.714,
+        "label": "Intro"
+      },
+      {
+        "start": 60.714,
+        "end": 66.231,
+        "label": "Buildup"
+      },
+      {
+        "start": 66.231,
+        "end": 154.508,
+        "label": "Drop"
+      },
+      {
+        "start": 154.508,
+        "end": 215.197,
+        "label": "Breakdown"
+      },
+      {
+        "start": 215.197,
+        "end": 220.715,
+        "label": "Buildup"
+      },
+      {
+        "start": 220.715,
+        "end": 308.991,
+        "label": "Drop"
+      },
+      {
+        "start": 308.991,
+        "end": 333.819,
+        "label": "Outro"
+      },
+      {
+        "start": 333.819,
+        "end": 336.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "398815652",
+    "song": "Charlotte De Witte - Nothing (Original Mix)",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/31 - Charlotte De Witte - Nothing (Original Mix).mp3",
+    "duration": 397.0,
+    "sections": [
+      {
+        "start": 0.024,
+        "end": 30.024,
+        "label": "Intro"
+      },
+      {
+        "start": 30.024,
+        "end": 75.024,
+        "label": "Drop"
+      },
+      {
+        "start": 75.024,
+        "end": 90.024,
+        "label": "Breakdown"
+      },
+      {
+        "start": 90.024,
+        "end": 120.024,
+        "label": "Buildup"
+      },
+      {
+        "start": 120.024,
+        "end": 178.149,
+        "label": "Drop"
+      },
+      {
+        "start": 178.149,
+        "end": 210.024,
+        "label": "Breakdown"
+      },
+      {
+        "start": 210.024,
+        "end": 240.024,
+        "label": "Buildup"
+      },
+      {
+        "start": 240.024,
+        "end": 300.025,
+        "label": "Drop"
+      },
+      {
+        "start": 300.025,
+        "end": 315.025,
+        "label": "Breakdown"
+      },
+      {
+        "start": 315.025,
+        "end": 360.025,
+        "label": "Drop"
+      },
+      {
+        "start": 360.025,
+        "end": 391.9,
+        "label": "Outro"
+      },
+      {
+        "start": 391.9,
+        "end": 397.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "3135560",
+    "song": "Daft Punk - High Life",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/32 - Daft Punk - High Life.mp3",
+    "duration": 201.0,
+    "sections": [
+      {
+        "start": 0.17,
+        "end": 30.847,
+        "label": "Intro"
+      },
+      {
+        "start": 30.847,
+        "end": 61.524,
+        "label": "Drop"
+      },
+      {
+        "start": 61.524,
+        "end": 88.366,
+        "label": "Breakdown"
+      },
+      {
+        "start": 88.366,
+        "end": 107.539,
+        "label": "Buildup"
+      },
+      {
+        "start": 107.539,
+        "end": 122.878,
+        "label": "Drop"
+      },
+      {
+        "start": 122.878,
+        "end": 138.216,
+        "label": "Breakdown"
+      },
+      {
+        "start": 138.216,
+        "end": 153.555,
+        "label": "Drop"
+      },
+      {
+        "start": 153.555,
+        "end": 168.893,
+        "label": "Breakdown"
+      },
+      {
+        "start": 168.893,
+        "end": 180.397,
+        "label": "Drop"
+      },
+      {
+        "start": 180.397,
+        "end": 193.818,
+        "label": "Outro"
+      },
+      {
+        "start": 193.818,
+        "end": 201.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "2270252077",
+    "song": "Impish - Hive",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/33 - Impish - Hive.mp3",
+    "duration": 302.0,
+    "sections": [
+      {
+        "start": 0.193,
+        "end": 22.262,
+        "label": "Intro"
+      },
+      {
+        "start": 22.262,
+        "end": 65.021,
+        "label": "Drop"
+      },
+      {
+        "start": 65.021,
+        "end": 66.4,
+        "label": "Silence"
+      },
+      {
+        "start": 66.4,
+        "end": 154.676,
+        "label": "Drop"
+      },
+      {
+        "start": 154.676,
+        "end": 173.986,
+        "label": "Breakdown"
+      },
+      {
+        "start": 173.986,
+        "end": 176.745,
+        "label": "Buildup"
+      },
+      {
+        "start": 176.745,
+        "end": 287.09,
+        "label": "Drop"
+      },
+      {
+        "start": 287.09,
+        "end": 300.883,
+        "label": "Outro"
+      },
+      {
+        "start": 300.883,
+        "end": 302.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "398815662",
+    "song": "Charlotte De Witte - Motion (Original Mix)",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/34 - Charlotte De Witte - Motion (Original Mix).mp3",
+    "duration": 522.0,
+    "sections": [
+      {
+        "start": 0.055,
+        "end": 30.775,
+        "label": "Intro"
+      },
+      {
+        "start": 30.775,
+        "end": 61.495,
+        "label": "Drop"
+      },
+      {
+        "start": 61.495,
+        "end": 92.215,
+        "label": "Drop"
+      },
+      {
+        "start": 92.215,
+        "end": 122.935,
+        "label": "Drop"
+      },
+      {
+        "start": 122.935,
+        "end": 153.655,
+        "label": "Breakdown"
+      },
+      {
+        "start": 153.655,
+        "end": 184.375,
+        "label": "Drop"
+      },
+      {
+        "start": 184.375,
+        "end": 211.255,
+        "label": "Breakdown"
+      },
+      {
+        "start": 211.255,
+        "end": 245.815,
+        "label": "Buildup"
+      },
+      {
+        "start": 245.815,
+        "end": 276.535,
+        "label": "Drop"
+      },
+      {
+        "start": 276.535,
+        "end": 307.255,
+        "label": "Drop"
+      },
+      {
+        "start": 307.255,
+        "end": 368.695,
+        "label": "Drop"
+      },
+      {
+        "start": 368.695,
+        "end": 399.415,
+        "label": "Breakdown"
+      },
+      {
+        "start": 399.415,
+        "end": 430.135,
+        "label": "Drop"
+      },
+      {
+        "start": 430.135,
+        "end": 460.855,
+        "label": "Breakdown"
+      },
+      {
+        "start": 460.855,
+        "end": 497.335,
+        "label": "Outro"
+      },
+      {
+        "start": 497.335,
+        "end": 522.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "2255128547",
+    "song": "Enrico Sangiuliano - Symbiosis",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/35 - Enrico Sangiuliano - Symbiosis.mp3",
+    "duration": 533.0,
+    "sections": [
+      {
+        "start": 0.458,
+        "end": 46.504,
+        "label": "Intro"
+      },
+      {
+        "start": 46.504,
+        "end": 68.83,
+        "label": "Drop"
+      },
+      {
+        "start": 68.83,
+        "end": 113.481,
+        "label": "Drop"
+      },
+      {
+        "start": 113.481,
+        "end": 124.643,
+        "label": "Breakdown"
+      },
+      {
+        "start": 124.643,
+        "end": 135.806,
+        "label": "Buildup"
+      },
+      {
+        "start": 135.806,
+        "end": 146.969,
+        "label": "Breakdown"
+      },
+      {
+        "start": 146.969,
+        "end": 217.666,
+        "label": "Drop"
+      },
+      {
+        "start": 217.666,
+        "end": 228.829,
+        "label": "Breakdown"
+      },
+      {
+        "start": 228.829,
+        "end": 284.643,
+        "label": "Buildup"
+      },
+      {
+        "start": 284.643,
+        "end": 328.829,
+        "label": "Drop"
+      },
+      {
+        "start": 328.829,
+        "end": 329.294,
+        "label": "Silence"
+      },
+      {
+        "start": 329.294,
+        "end": 368.364,
+        "label": "Drop"
+      },
+      {
+        "start": 368.364,
+        "end": 373.945,
+        "label": "Silence"
+      },
+      {
+        "start": 373.945,
+        "end": 478.131,
+        "label": "Drop"
+      },
+      {
+        "start": 478.131,
+        "end": 522.782,
+        "label": "Outro"
+      },
+      {
+        "start": 522.782,
+        "end": 533.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "78343259",
+    "song": "Friction Fourward Jakes - Battle Scars",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/36 - Friction - Battle Scars.mp3",
+    "duration": 312.0,
+    "sections": [
+      {
+        "start": 0.025,
+        "end": 11.059,
+        "label": "Intro"
+      },
+      {
+        "start": 11.059,
+        "end": 22.094,
+        "label": "Buildup"
+      },
+      {
+        "start": 22.094,
+        "end": 64.852,
+        "label": "Drop"
+      },
+      {
+        "start": 64.852,
+        "end": 66.232,
+        "label": "Buildup"
+      },
+      {
+        "start": 66.232,
+        "end": 154.508,
+        "label": "Drop"
+      },
+      {
+        "start": 154.508,
+        "end": 176.577,
+        "label": "Breakdown"
+      },
+      {
+        "start": 176.577,
+        "end": 198.646,
+        "label": "Buildup"
+      },
+      {
+        "start": 198.646,
+        "end": 286.921,
+        "label": "Drop"
+      },
+      {
+        "start": 286.921,
+        "end": 311.749,
+        "label": "Outro"
+      },
+      {
+        "start": 311.749,
+        "end": 312.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "3135566",
+    "song": "Daft Punk - Too Long",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/37 - Daft Punk - Too Long.mp3",
+    "duration": 600.0,
+    "sections": [
+      {
+        "start": 0.178,
+        "end": 73.479,
+        "label": "Intro"
+      },
+      {
+        "start": 73.479,
+        "end": 98.07,
+        "label": "Buildup"
+      },
+      {
+        "start": 98.07,
+        "end": 249.4,
+        "label": "Drop"
+      },
+      {
+        "start": 249.4,
+        "end": 275.883,
+        "label": "Breakdown"
+      },
+      {
+        "start": 275.883,
+        "end": 309.933,
+        "label": "Buildup"
+      },
+      {
+        "start": 309.933,
+        "end": 370.465,
+        "label": "Drop"
+      },
+      {
+        "start": 370.465,
+        "end": 385.598,
+        "label": "Breakdown"
+      },
+      {
+        "start": 385.598,
+        "end": 400.731,
+        "label": "Buildup"
+      },
+      {
+        "start": 400.731,
+        "end": 430.997,
+        "label": "Drop"
+      },
+      {
+        "start": 430.997,
+        "end": 440.455,
+        "label": "Breakdown"
+      },
+      {
+        "start": 440.455,
+        "end": 453.696,
+        "label": "Buildup"
+      },
+      {
+        "start": 453.696,
+        "end": 483.962,
+        "label": "Drop"
+      },
+      {
+        "start": 483.962,
+        "end": 499.096,
+        "label": "Breakdown"
+      },
+      {
+        "start": 499.096,
+        "end": 574.761,
+        "label": "Drop"
+      },
+      {
+        "start": 574.761,
+        "end": 595.569,
+        "label": "Outro"
+      },
+      {
+        "start": 595.569,
+        "end": 600.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "1838514577",
+    "song": "Culture Shock - Neighbourhood",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/38 - Culture Shock - Neighbourhood.mp3",
+    "duration": 281.0,
+    "sections": [
+      {
+        "start": 0.054,
+        "end": 22.123,
+        "label": "Intro"
+      },
+      {
+        "start": 22.123,
+        "end": 44.192,
+        "label": "Buildup"
+      },
+      {
+        "start": 44.192,
+        "end": 60.744,
+        "label": "Drop"
+      },
+      {
+        "start": 60.744,
+        "end": 66.261,
+        "label": "Buildup"
+      },
+      {
+        "start": 66.261,
+        "end": 99.364,
+        "label": "Drop"
+      },
+      {
+        "start": 99.364,
+        "end": 110.399,
+        "label": "Buildup"
+      },
+      {
+        "start": 110.399,
+        "end": 132.468,
+        "label": "Drop"
+      },
+      {
+        "start": 132.468,
+        "end": 154.537,
+        "label": "Breakdown"
+      },
+      {
+        "start": 154.537,
+        "end": 176.606,
+        "label": "Buildup"
+      },
+      {
+        "start": 176.606,
+        "end": 193.157,
+        "label": "Drop"
+      },
+      {
+        "start": 193.157,
+        "end": 198.674,
+        "label": "Buildup"
+      },
+      {
+        "start": 198.674,
+        "end": 231.778,
+        "label": "Drop"
+      },
+      {
+        "start": 231.778,
+        "end": 242.812,
+        "label": "Buildup"
+      },
+      {
+        "start": 242.812,
+        "end": 264.881,
+        "label": "Drop"
+      },
+      {
+        "start": 264.881,
+        "end": 277.295,
+        "label": "Outro"
+      },
+      {
+        "start": 277.295,
+        "end": 281.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "569659692",
+    "song": "Amelie Lens - Energize",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/39 - Amelie Lens - Energize.mp3",
+    "duration": 355.0,
+    "sections": [
+      {
+        "start": 0.452,
+        "end": 15.108,
+        "label": "Intro"
+      },
+      {
+        "start": 15.108,
+        "end": 117.704,
+        "label": "Drop"
+      },
+      {
+        "start": 117.704,
+        "end": 147.017,
+        "label": "Buildup"
+      },
+      {
+        "start": 147.017,
+        "end": 189.154,
+        "label": "Drop"
+      },
+      {
+        "start": 189.154,
+        "end": 196.482,
+        "label": "Buildup"
+      },
+      {
+        "start": 196.482,
+        "end": 234.955,
+        "label": "Drop"
+      },
+      {
+        "start": 234.955,
+        "end": 242.284,
+        "label": "Breakdown"
+      },
+      {
+        "start": 242.284,
+        "end": 249.612,
+        "label": "Buildup"
+      },
+      {
+        "start": 249.612,
+        "end": 322.894,
+        "label": "Drop"
+      },
+      {
+        "start": 322.894,
+        "end": 354.039,
+        "label": "Outro"
+      },
+      {
+        "start": 354.039,
+        "end": 355.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "4313998",
+    "song": "The Future Sound Of London - Papua New Guinea",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/40 - The Future Sound Of London - Papua New Guinea.mp3",
+    "duration": 405.0,
+    "sections": [
+      {
+        "start": 0.195,
+        "end": 111.767,
+        "label": "Intro"
+      },
+      {
+        "start": 111.767,
+        "end": 132.928,
+        "label": "Buildup"
+      },
+      {
+        "start": 132.928,
+        "end": 232.958,
+        "label": "Drop"
+      },
+      {
+        "start": 232.958,
+        "end": 236.805,
+        "label": "Buildup"
+      },
+      {
+        "start": 236.805,
+        "end": 296.439,
+        "label": "Drop"
+      },
+      {
+        "start": 296.439,
+        "end": 329.141,
+        "label": "Breakdown"
+      },
+      {
+        "start": 329.141,
+        "end": 383.003,
+        "label": "Drop"
+      },
+      {
+        "start": 383.003,
+        "end": 405.395,
+        "label": "Outro"
+      }
+    ]
+  },
+  {
+    "id": "2276763157",
+    "song": "S.P.Y - Second Encounter",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/41 - S.P.Y - Second Encounter.mp3",
+    "duration": 239.0,
+    "sections": [
+      {
+        "start": 0.39,
+        "end": 58.949,
+        "label": "Intro"
+      },
+      {
+        "start": 58.949,
+        "end": 67.314,
+        "label": "Buildup"
+      },
+      {
+        "start": 67.314,
+        "end": 134.239,
+        "label": "Drop"
+      },
+      {
+        "start": 134.239,
+        "end": 150.97,
+        "label": "Breakdown"
+      },
+      {
+        "start": 150.97,
+        "end": 156.547,
+        "label": "Buildup"
+      },
+      {
+        "start": 156.547,
+        "end": 201.164,
+        "label": "Drop"
+      },
+      {
+        "start": 201.164,
+        "end": 229.746,
+        "label": "Outro"
+      },
+      {
+        "start": 229.746,
+        "end": 239.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "1854342567",
+    "song": "Eprom - Koummya",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/42 - Eprom - Koummya.mp3",
+    "duration": 131.0,
+    "sections": [
+      {
+        "start": 0.054,
+        "end": 14.71,
+        "label": "Intro"
+      },
+      {
+        "start": 14.71,
+        "end": 29.367,
+        "label": "Buildup"
+      },
+      {
+        "start": 29.367,
+        "end": 60.512,
+        "label": "Drop"
+      },
+      {
+        "start": 60.512,
+        "end": 62.344,
+        "label": "Silence"
+      },
+      {
+        "start": 62.344,
+        "end": 87.993,
+        "label": "Drop"
+      },
+      {
+        "start": 87.993,
+        "end": 95.321,
+        "label": "Breakdown"
+      },
+      {
+        "start": 95.321,
+        "end": 102.649,
+        "label": "Buildup"
+      },
+      {
+        "start": 102.649,
+        "end": 120.97,
+        "label": "Drop"
+      },
+      {
+        "start": 120.97,
+        "end": 131.962,
+        "label": "Outro"
+      }
+    ]
+  },
+  {
+    "id": "36687371",
+    "song": "Bok Bok - Silo Pass (Sir Spyro Remix)",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/43 - Bok Bok - Silo Pass (Sir Spyro Remix).mp3",
+    "duration": 339.0,
+    "sections": [
+      {
+        "start": 0.051,
+        "end": 28.08,
+        "label": "Intro"
+      },
+      {
+        "start": 28.08,
+        "end": 56.109,
+        "label": "Buildup"
+      },
+      {
+        "start": 56.109,
+        "end": 113.919,
+        "label": "Drop"
+      },
+      {
+        "start": 113.919,
+        "end": 140.197,
+        "label": "Breakdown"
+      },
+      {
+        "start": 140.197,
+        "end": 224.284,
+        "label": "Drop"
+      },
+      {
+        "start": 224.284,
+        "end": 238.299,
+        "label": "Breakdown"
+      },
+      {
+        "start": 238.299,
+        "end": 308.372,
+        "label": "Drop"
+      },
+      {
+        "start": 308.372,
+        "end": 338.153,
+        "label": "Outro"
+      },
+      {
+        "start": 338.153,
+        "end": 339.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "395710662",
+    "song": "Sully Jamakabi - Bullseye",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/44 - Sully - Bullseye.mp3",
+    "duration": 233.0,
+    "sections": [
+      {
+        "start": 0.031,
+        "end": 28.687,
+        "label": "Intro"
+      },
+      {
+        "start": 28.687,
+        "end": 57.344,
+        "label": "Buildup"
+      },
+      {
+        "start": 57.344,
+        "end": 128.986,
+        "label": "Drop"
+      },
+      {
+        "start": 128.986,
+        "end": 143.314,
+        "label": "Breakdown"
+      },
+      {
+        "start": 143.314,
+        "end": 170.18,
+        "label": "Drop"
+      },
+      {
+        "start": 170.18,
+        "end": 171.971,
+        "label": "Silence"
+      },
+      {
+        "start": 171.971,
+        "end": 214.956,
+        "label": "Drop"
+      },
+      {
+        "start": 214.956,
+        "end": 231.075,
+        "label": "Outro"
+      },
+      {
+        "start": 231.075,
+        "end": 233.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "2213751377",
+    "song": "Drone Emz - My Way",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/45 - Drone - My Way.mp3",
+    "duration": 142.0,
+    "sections": [
+      {
+        "start": 0.073,
+        "end": 14.296,
+        "label": "Intro"
+      },
+      {
+        "start": 14.296,
+        "end": 42.74,
+        "label": "Drop"
+      },
+      {
+        "start": 42.74,
+        "end": 56.962,
+        "label": "Breakdown"
+      },
+      {
+        "start": 56.962,
+        "end": 85.407,
+        "label": "Drop"
+      },
+      {
+        "start": 85.407,
+        "end": 99.629,
+        "label": "Breakdown"
+      },
+      {
+        "start": 99.629,
+        "end": 128.074,
+        "label": "Drop"
+      },
+      {
+        "start": 128.074,
+        "end": 142.74,
+        "label": "Outro"
+      }
+    ]
+  },
+  {
+    "id": "1475309562",
+    "song": "Sam Binga Alix Perez - Melodrama (Sam Binga Under Water Garage Mix)",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/46 - Sam Binga - Melodrama (Sam Binga Under Water Garage Mix).mp3",
+    "duration": 304.0,
+    "sections": [
+      {
+        "start": 0.055,
+        "end": 42.722,
+        "label": "Intro"
+      },
+      {
+        "start": 42.722,
+        "end": 56.944,
+        "label": "Buildup"
+      },
+      {
+        "start": 56.944,
+        "end": 113.833,
+        "label": "Drop"
+      },
+      {
+        "start": 113.833,
+        "end": 135.166,
+        "label": "Breakdown"
+      },
+      {
+        "start": 135.166,
+        "end": 142.277,
+        "label": "Buildup"
+      },
+      {
+        "start": 142.277,
+        "end": 199.166,
+        "label": "Drop"
+      },
+      {
+        "start": 199.166,
+        "end": 220.5,
+        "label": "Breakdown"
+      },
+      {
+        "start": 220.5,
+        "end": 227.611,
+        "label": "Buildup"
+      },
+      {
+        "start": 227.611,
+        "end": 270.278,
+        "label": "Drop"
+      },
+      {
+        "start": 270.278,
+        "end": 298.722,
+        "label": "Outro"
+      },
+      {
+        "start": 298.722,
+        "end": 304.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "1369217322",
+    "song": "Ourman - Nam\u00e1ri\u00eb",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/47 - Ourman - Nam\u00e1ri\u00eb.mp3",
+    "duration": 226.0,
+    "sections": [
+      {
+        "start": 1.139,
+        "end": 15.159,
+        "label": "Intro"
+      },
+      {
+        "start": 15.159,
+        "end": 29.179,
+        "label": "Buildup"
+      },
+      {
+        "start": 29.179,
+        "end": 99.277,
+        "label": "Drop"
+      },
+      {
+        "start": 99.277,
+        "end": 113.297,
+        "label": "Breakdown"
+      },
+      {
+        "start": 113.297,
+        "end": 197.416,
+        "label": "Drop"
+      },
+      {
+        "start": 197.416,
+        "end": 226.332,
+        "label": "Outro"
+      }
+    ]
+  },
+  {
+    "id": "2255330017",
+    "song": "Mitekiss - Flep",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/48 - Mitekiss - Flep.mp3",
+    "duration": 176.0,
+    "sections": [
+      {
+        "start": 0.051,
+        "end": 19.162,
+        "label": "Intro"
+      },
+      {
+        "start": 19.162,
+        "end": 33.385,
+        "label": "Buildup"
+      },
+      {
+        "start": 33.385,
+        "end": 44.051,
+        "label": "Drop"
+      },
+      {
+        "start": 44.051,
+        "end": 47.607,
+        "label": "Breakdown"
+      },
+      {
+        "start": 47.607,
+        "end": 90.274,
+        "label": "Drop"
+      },
+      {
+        "start": 90.274,
+        "end": 100.94,
+        "label": "Breakdown"
+      },
+      {
+        "start": 100.94,
+        "end": 104.496,
+        "label": "Silence"
+      },
+      {
+        "start": 104.496,
+        "end": 161.385,
+        "label": "Drop"
+      },
+      {
+        "start": 161.385,
+        "end": 176.876,
+        "label": "Outro"
+      }
+    ]
+  },
+  {
+    "id": "894949402",
+    "song": "Alix Perez Headland - Ends",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/49 - Alix Perez - Ends.mp3",
+    "duration": 282.0,
+    "sections": [
+      {
+        "start": 0.038,
+        "end": 28.483,
+        "label": "Intro"
+      },
+      {
+        "start": 28.483,
+        "end": 56.928,
+        "label": "Buildup"
+      },
+      {
+        "start": 56.928,
+        "end": 113.817,
+        "label": "Drop"
+      },
+      {
+        "start": 113.817,
+        "end": 128.039,
+        "label": "Buildup"
+      },
+      {
+        "start": 128.039,
+        "end": 156.483,
+        "label": "Drop"
+      },
+      {
+        "start": 156.483,
+        "end": 172.483,
+        "label": "Breakdown"
+      },
+      {
+        "start": 172.483,
+        "end": 184.928,
+        "label": "Buildup"
+      },
+      {
+        "start": 184.928,
+        "end": 200.928,
+        "label": "Drop"
+      },
+      {
+        "start": 200.928,
+        "end": 208.039,
+        "label": "Breakdown"
+      },
+      {
+        "start": 208.039,
+        "end": 216.928,
+        "label": "Buildup"
+      },
+      {
+        "start": 216.928,
+        "end": 241.817,
+        "label": "Drop"
+      },
+      {
+        "start": 241.817,
+        "end": 275.594,
+        "label": "Outro"
+      },
+      {
+        "start": 275.594,
+        "end": 282.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "725590002",
+    "song": "Tobax - Frozen Bubble",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/50 - Tobax - Frozen Bubble.mp3",
+    "duration": 334.0,
+    "sections": [
+      {
+        "start": 0.024,
+        "end": 28.469,
+        "label": "Intro"
+      },
+      {
+        "start": 28.469,
+        "end": 56.914,
+        "label": "Drop"
+      },
+      {
+        "start": 56.914,
+        "end": 85.358,
+        "label": "Drop"
+      },
+      {
+        "start": 85.358,
+        "end": 113.803,
+        "label": "Buildup"
+      },
+      {
+        "start": 113.803,
+        "end": 142.247,
+        "label": "Drop"
+      },
+      {
+        "start": 142.247,
+        "end": 199.136,
+        "label": "Breakdown"
+      },
+      {
+        "start": 199.136,
+        "end": 227.581,
+        "label": "Drop"
+      },
+      {
+        "start": 227.581,
+        "end": 256.025,
+        "label": "Buildup"
+      },
+      {
+        "start": 256.025,
+        "end": 312.915,
+        "label": "Drop"
+      },
+      {
+        "start": 312.915,
+        "end": 328.915,
+        "label": "Outro"
+      },
+      {
+        "start": 328.915,
+        "end": 334.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "2304427145",
+    "song": "Safire QQQ Akane Skeptical - Slowly Rushing (Skeptical Remix)",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/51 - Safire - Slowly Rushing (Skeptical Remix).mp3",
+    "duration": 337.0,
+    "sections": [
+      {
+        "start": 0.057,
+        "end": 35.612,
+        "label": "Intro"
+      },
+      {
+        "start": 35.612,
+        "end": 56.945,
+        "label": "Buildup"
+      },
+      {
+        "start": 56.945,
+        "end": 113.834,
+        "label": "Drop"
+      },
+      {
+        "start": 113.834,
+        "end": 142.278,
+        "label": "Breakdown"
+      },
+      {
+        "start": 142.278,
+        "end": 204.5,
+        "label": "Drop"
+      },
+      {
+        "start": 204.5,
+        "end": 208.056,
+        "label": "Silence"
+      },
+      {
+        "start": 208.056,
+        "end": 248.945,
+        "label": "Drop"
+      },
+      {
+        "start": 248.945,
+        "end": 259.611,
+        "label": "Breakdown"
+      },
+      {
+        "start": 259.611,
+        "end": 311.167,
+        "label": "Drop"
+      },
+      {
+        "start": 311.167,
+        "end": 336.056,
+        "label": "Outro"
+      },
+      {
+        "start": 336.056,
+        "end": 337.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "1707840907",
+    "song": "Kimyan Law - You Break It When You Name It",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/52 - Kimyan Law - You Break It When You Name It.mp3",
+    "duration": 288.0,
+    "sections": [
+      {
+        "start": 0.228,
+        "end": 61.581,
+        "label": "Intro"
+      },
+      {
+        "start": 61.581,
+        "end": 72.408,
+        "label": "Silence"
+      },
+      {
+        "start": 72.408,
+        "end": 101.281,
+        "label": "Drop"
+      },
+      {
+        "start": 101.281,
+        "end": 130.153,
+        "label": "Drop"
+      },
+      {
+        "start": 130.153,
+        "end": 159.025,
+        "label": "Drop"
+      },
+      {
+        "start": 159.025,
+        "end": 187.897,
+        "label": "Breakdown"
+      },
+      {
+        "start": 187.897,
+        "end": 245.642,
+        "label": "Drop"
+      },
+      {
+        "start": 245.642,
+        "end": 288.499,
+        "label": "Outro"
+      }
+    ]
+  },
+  {
+    "id": "773606662",
+    "song": "LAS - Pocosink (Commodo Remix)",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/53 - LAS - Pocosink (Commodo Remix).mp3",
+    "duration": 215.0,
+    "sections": [
+      {
+        "start": 0.03,
+        "end": 14.147,
+        "label": "Intro"
+      },
+      {
+        "start": 14.147,
+        "end": 28.265,
+        "label": "Buildup"
+      },
+      {
+        "start": 28.265,
+        "end": 81.206,
+        "label": "Drop"
+      },
+      {
+        "start": 81.206,
+        "end": 84.736,
+        "label": "Breakdoiwn"
+      },
+      {
+        "start": 84.736,
+        "end": 100.177,
+        "label": "Buildup"
+      },
+      {
+        "start": 100.177,
+        "end": 151.795,
+        "label": "Drop"
+      },
+      {
+        "start": 151.795,
+        "end": 155.324,
+        "label": "Breakdown"
+      },
+      {
+        "start": 155.324,
+        "end": 169.442,
+        "label": "Buildup"
+      },
+      {
+        "start": 169.442,
+        "end": 199.001,
+        "label": "Drop"
+      },
+      {
+        "start": 199.001,
+        "end": 213.56,
+        "label": "Outro"
+      },
+      {
+        "start": 213.56,
+        "end": 215.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "883297722",
+    "song": "Sammy Virji - Find My Way Home",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/54 - Sammy Virji - Find My Way Home.mp3",
+    "duration": 258.0,
+    "sections": [
+      {
+        "start": 0.0,
+        "end": 21.176,
+        "label": "Intro"
+      },
+      {
+        "start": 21.176,
+        "end": 28.235,
+        "label": "Buildup"
+      },
+      {
+        "start": 28.235,
+        "end": 112.941,
+        "label": "Drop"
+      },
+      {
+        "start": 112.941,
+        "end": 134.117,
+        "label": "Breakdown"
+      },
+      {
+        "start": 134.117,
+        "end": 141.176,
+        "label": "Buildup"
+      },
+      {
+        "start": 141.176,
+        "end": 225.882,
+        "label": "Drop"
+      },
+      {
+        "start": 225.882,
+        "end": 255.882,
+        "label": "Outro"
+      },
+      {
+        "start": 255.882,
+        "end": 258.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "881716012",
+    "song": "Laylow - AKANIZER",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/55 - Laylow - AKANIZER.mp3",
+    "duration": 103.0,
+    "sections": [
+      {
+        "start": 1.011,
+        "end": 18.789,
+        "label": "Intro"
+      },
+      {
+        "start": 18.789,
+        "end": 68.567,
+        "label": "Drop"
+      },
+      {
+        "start": 68.567,
+        "end": 75.678,
+        "label": "Breakdown"
+      },
+      {
+        "start": 75.678,
+        "end": 93.455,
+        "label": "Drop"
+      },
+      {
+        "start": 93.455,
+        "end": 103.471,
+        "label": "Outro"
+      }
+    ]
+  },
+  {
+    "id": "359506831",
+    "song": "Glaskin - Structure",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/56 - Glaskin - Structure.mp3",
+    "duration": 374.0,
+    "sections": [
+      {
+        "start": 0.027,
+        "end": 21.681,
+        "label": "Intro"
+      },
+      {
+        "start": 21.681,
+        "end": 173.26,
+        "label": "Drop"
+      },
+      {
+        "start": 173.26,
+        "end": 194.914,
+        "label": "Breakdown"
+      },
+      {
+        "start": 194.914,
+        "end": 202.132,
+        "label": "Buildup"
+      },
+      {
+        "start": 202.132,
+        "end": 360.929,
+        "label": "Drop"
+      },
+      {
+        "start": 360.929,
+        "end": 369.951,
+        "label": "Outro"
+      },
+      {
+        "start": 369.951,
+        "end": 374.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "1973220897",
+    "song": "Visages Alix Perez - Black Katana",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/57 - Visages - Black Katana.mp3",
+    "duration": 270.0,
+    "sections": [
+      {
+        "start": 0.065,
+        "end": 48.762,
+        "label": "Intro"
+      },
+      {
+        "start": 48.762,
+        "end": 55.718,
+        "label": "Buildup"
+      },
+      {
+        "start": 55.718,
+        "end": 133.981,
+        "label": "Drop"
+      },
+      {
+        "start": 133.981,
+        "end": 139.198,
+        "label": "Buildup"
+      },
+      {
+        "start": 139.198,
+        "end": 219.199,
+        "label": "Drop"
+      },
+      {
+        "start": 219.199,
+        "end": 269.635,
+        "label": "Outro"
+      },
+      {
+        "start": 269.635,
+        "end": 270.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "10239515",
+    "song": "The Bug Flowdan - Jah War (Loefah Remix)",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/58 - The Bug - Jah War (Loefah Remix).mp3",
+    "duration": 223.0,
+    "sections": [
+      {
+        "start": 0.192,
+        "end": 15.7,
+        "label": "Intro"
+      },
+      {
+        "start": 15.7,
+        "end": 57.054,
+        "label": "Drop"
+      },
+      {
+        "start": 57.054,
+        "end": 63.946,
+        "label": "Breakdown"
+      },
+      {
+        "start": 63.946,
+        "end": 98.408,
+        "label": "Drop"
+      },
+      {
+        "start": 98.408,
+        "end": 112.192,
+        "label": "Breakdown"
+      },
+      {
+        "start": 112.192,
+        "end": 155.269,
+        "label": "Drop"
+      },
+      {
+        "start": 155.269,
+        "end": 167.331,
+        "label": "Breakdown"
+      },
+      {
+        "start": 167.331,
+        "end": 191.454,
+        "label": "Drop"
+      },
+      {
+        "start": 191.454,
+        "end": 194.9,
+        "label": "Silence"
+      },
+      {
+        "start": 194.9,
+        "end": 222.469,
+        "label": "Outro"
+      },
+      {
+        "start": 222.469,
+        "end": 223.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "1744494167",
+    "song": "Strategy - Carbon Footprint",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/59 - Strategy - Carbon Footprint.mp3",
+    "duration": 222.0,
+    "sections": [
+      {
+        "start": 0.006,
+        "end": 13.721,
+        "label": "Intro"
+      },
+      {
+        "start": 13.721,
+        "end": 27.435,
+        "label": "Buildup"
+      },
+      {
+        "start": 27.435,
+        "end": 75.435,
+        "label": "Drop"
+      },
+      {
+        "start": 75.435,
+        "end": 82.292,
+        "label": "Breakdown"
+      },
+      {
+        "start": 82.292,
+        "end": 137.149,
+        "label": "Drop"
+      },
+      {
+        "start": 137.149,
+        "end": 140.578,
+        "label": "Breakdown"
+      },
+      {
+        "start": 140.578,
+        "end": 177.863,
+        "label": "Drop"
+      },
+      {
+        "start": 177.863,
+        "end": 192.006,
+        "label": "Breakdown"
+      },
+      {
+        "start": 192.006,
+        "end": 221.149,
+        "label": "Outro"
+      },
+      {
+        "start": 221.149,
+        "end": 222.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "852314002",
+    "song": "Reso - Coral",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/60 - Reso - Coral.mp3",
+    "duration": 291.0,
+    "sections": [
+      {
+        "start": 0.05,
+        "end": 41.192,
+        "label": "Intro"
+      },
+      {
+        "start": 41.192,
+        "end": 54.906,
+        "label": "Buildup"
+      },
+      {
+        "start": 54.906,
+        "end": 137.192,
+        "label": "Drop"
+      },
+      {
+        "start": 137.192,
+        "end": 192.049,
+        "label": "Drop"
+      },
+      {
+        "start": 192.049,
+        "end": 219.478,
+        "label": "Breakdown"
+      },
+      {
+        "start": 219.478,
+        "end": 246.906,
+        "label": "Drop"
+      },
+      {
+        "start": 246.906,
+        "end": 281.192,
+        "label": "Outro"
+      },
+      {
+        "start": 281.192,
+        "end": 291.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "1807439787",
+    "song": "Chef Boyarbeatz - Steady Slurkin'",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/61 - Chef Boyarbeatz - Steady Slurkin'.mp3",
+    "duration": 285.0,
+    "sections": [
+      {
+        "start": 0.053,
+        "end": 13.767,
+        "label": "Intro"
+      },
+      {
+        "start": 13.767,
+        "end": 27.481,
+        "label": "Buildup"
+      },
+      {
+        "start": 27.481,
+        "end": 137.196,
+        "label": "Drop"
+      },
+      {
+        "start": 137.196,
+        "end": 150.91,
+        "label": "Breakdown"
+      },
+      {
+        "start": 150.91,
+        "end": 164.624,
+        "label": "Buildup"
+      },
+      {
+        "start": 164.624,
+        "end": 274.339,
+        "label": "Drop"
+      },
+      {
+        "start": 274.339,
+        "end": 281.196,
+        "label": "Outro"
+      },
+      {
+        "start": 281.196,
+        "end": 285.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "1516829502",
+    "song": "Commodo - Space Cash",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/62 - Commodo - Space Cash.mp3",
+    "duration": 240.0,
+    "sections": [
+      {
+        "start": 0.073,
+        "end": 15.502,
+        "label": "Intro"
+      },
+      {
+        "start": 15.502,
+        "end": 42.93,
+        "label": "Buildup"
+      },
+      {
+        "start": 42.93,
+        "end": 125.216,
+        "label": "Drop"
+      },
+      {
+        "start": 125.216,
+        "end": 145.788,
+        "label": "Breakdown"
+      },
+      {
+        "start": 145.788,
+        "end": 152.645,
+        "label": "Buildup"
+      },
+      {
+        "start": 152.645,
+        "end": 221.216,
+        "label": "Drop"
+      },
+      {
+        "start": 221.216,
+        "end": 233.645,
+        "label": "Outro"
+      },
+      {
+        "start": 233.645,
+        "end": 240.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "1791104517",
+    "song": "TMSV - Complex Flashback",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/63 - TMSV - Complex Flashback.mp3",
+    "duration": 264.0,
+    "sections": [
+      {
+        "start": 0.333,
+        "end": 41.255,
+        "label": "Intro"
+      },
+      {
+        "start": 41.255,
+        "end": 121.846,
+        "label": "Drop"
+      },
+      {
+        "start": 121.846,
+        "end": 150.995,
+        "label": "Breakdown"
+      },
+      {
+        "start": 150.995,
+        "end": 263.737,
+        "label": "Drop"
+      },
+      {
+        "start": 263.737,
+        "end": 264.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "397268392",
+    "song": "Cubiqle - Expire (Original Mix)",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/64 - Cubiqle - Expire (Original Mix).mp3",
+    "duration": 325.0,
+    "sections": [
+      {
+        "start": 0.025,
+        "end": 54.882,
+        "label": "Intro"
+      },
+      {
+        "start": 54.882,
+        "end": 137.168,
+        "label": "Drop"
+      },
+      {
+        "start": 137.168,
+        "end": 189.454,
+        "label": "Breakdown"
+      },
+      {
+        "start": 189.454,
+        "end": 192.025,
+        "label": "Silence"
+      },
+      {
+        "start": 192.025,
+        "end": 274.311,
+        "label": "Drop"
+      },
+      {
+        "start": 274.311,
+        "end": 325.74,
+        "label": "Outro"
+      }
+    ]
+  },
+  {
+    "id": "1881521187",
+    "song": "Ternion Sound - Clutch",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/65 - Ternion Sound - Clutch.mp3",
+    "duration": 329.0,
+    "sections": [
+      {
+        "start": 0.067,
+        "end": 54.924,
+        "label": "Intro"
+      },
+      {
+        "start": 54.924,
+        "end": 164.638,
+        "label": "Drop"
+      },
+      {
+        "start": 164.638,
+        "end": 192.067,
+        "label": "Breakdown"
+      },
+      {
+        "start": 192.067,
+        "end": 301.781,
+        "label": "Drop"
+      },
+      {
+        "start": 301.781,
+        "end": 318.924,
+        "label": "Outro"
+      },
+      {
+        "start": 318.924,
+        "end": 329.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "491744962",
+    "song": "Macca - Filthy Gears Freestyle",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/66 - Macca - Filthy Gears Freestyle.mp3",
+    "duration": 114.0,
+    "sections": [
+      {
+        "start": 0.082,
+        "end": 13.797,
+        "label": "Intro"
+      },
+      {
+        "start": 13.797,
+        "end": 24.511,
+        "label": "Drop"
+      },
+      {
+        "start": 24.511,
+        "end": 27.511,
+        "label": "Silence"
+      },
+      {
+        "start": 27.511,
+        "end": 54.939,
+        "label": "Drop"
+      },
+      {
+        "start": 54.939,
+        "end": 82.368,
+        "label": "Breakdown"
+      },
+      {
+        "start": 82.368,
+        "end": 96.082,
+        "label": "Drop"
+      },
+      {
+        "start": 96.082,
+        "end": 109.796,
+        "label": "Outro"
+      },
+      {
+        "start": 109.796,
+        "end": 114.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "1262513462",
+    "song": "Yoofee - Seek & Move",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/67 - Yoofee - Seek & Move.mp3",
+    "duration": 286.0,
+    "sections": [
+      {
+        "start": 0.052,
+        "end": 41.195,
+        "label": "Intro"
+      },
+      {
+        "start": 41.195,
+        "end": 54.909,
+        "label": "Buildup"
+      },
+      {
+        "start": 54.909,
+        "end": 137.195,
+        "label": "Drop"
+      },
+      {
+        "start": 137.195,
+        "end": 178.338,
+        "label": "Breakdown"
+      },
+      {
+        "start": 178.338,
+        "end": 192.052,
+        "label": "Buildup"
+      },
+      {
+        "start": 192.052,
+        "end": 274.338,
+        "label": "Drop"
+      },
+      {
+        "start": 274.338,
+        "end": 278.624,
+        "label": "Outro"
+      },
+      {
+        "start": 278.624,
+        "end": 286.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "1686389827",
+    "song": "Bop - Fragile Moments",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/68 - Bop - Fragile Moments.mp3",
+    "duration": 256.0,
+    "sections": [
+      {
+        "start": 0.359,
+        "end": 28.22,
+        "label": "Intro"
+      },
+      {
+        "start": 28.22,
+        "end": 55.645,
+        "label": "Drop"
+      },
+      {
+        "start": 55.645,
+        "end": 62.501,
+        "label": "Breakdown"
+      },
+      {
+        "start": 62.501,
+        "end": 158.485,
+        "label": "Drop"
+      },
+      {
+        "start": 158.485,
+        "end": 165.342,
+        "label": "Buildup"
+      },
+      {
+        "start": 165.342,
+        "end": 220.19,
+        "label": "Drop"
+      },
+      {
+        "start": 220.19,
+        "end": 250.185,
+        "label": "Outro"
+      },
+      {
+        "start": 250.185,
+        "end": 256.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "810191932",
+    "song": "J:Kenzo - Hoodwinked (Original Mix)",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/69 - J_Kenzo - Hoodwinked (Original Mix).mp3",
+    "duration": 277.0,
+    "sections": [
+      {
+        "start": 0.012,
+        "end": 54.096,
+        "label": "Intro"
+      },
+      {
+        "start": 54.096,
+        "end": 108.181,
+        "label": "Drop"
+      },
+      {
+        "start": 108.181,
+        "end": 135.224,
+        "label": "Buildup"
+      },
+      {
+        "start": 135.224,
+        "end": 216.351,
+        "label": "Drop"
+      },
+      {
+        "start": 216.351,
+        "end": 243.393,
+        "label": "Breakdown"
+      },
+      {
+        "start": 243.393,
+        "end": 268.745,
+        "label": "Drop"
+      },
+      {
+        "start": 268.745,
+        "end": 270.435,
+        "label": "Outro"
+      },
+      {
+        "start": 270.435,
+        "end": 277.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "1419461542",
+    "song": "Tsuruda - Migi",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/70 - Tsuruda - Migi.mp3",
+    "duration": 240.0,
+    "sections": [
+      {
+        "start": 0.205,
+        "end": 13.92,
+        "label": "Intro"
+      },
+      {
+        "start": 13.92,
+        "end": 27.635,
+        "label": "Buildup"
+      },
+      {
+        "start": 27.635,
+        "end": 41.349,
+        "label": "Breakdown"
+      },
+      {
+        "start": 41.349,
+        "end": 96.208,
+        "label": "Drop"
+      },
+      {
+        "start": 96.208,
+        "end": 106.493,
+        "label": "Breakdown"
+      },
+      {
+        "start": 106.493,
+        "end": 109.922,
+        "label": "Buildup"
+      },
+      {
+        "start": 109.922,
+        "end": 113.351,
+        "label": "Fakedrop"
+      },
+      {
+        "start": 113.351,
+        "end": 137.351,
+        "label": "Drop"
+      },
+      {
+        "start": 137.351,
+        "end": 172.923,
+        "label": "Breakdown"
+      },
+      {
+        "start": 172.923,
+        "end": 240.21,
+        "label": "Outro"
+      }
+    ]
+  },
+  {
+    "id": "98905960",
+    "song": "Alex Reece - Basic Principles (Alex Reece Reprieve) [2015 Remaster]",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/71 - Alex Reece - Basic Principles (Alex Reece Reprieve) [2015 Remaster].mp3",
+    "duration": 313.0,
+    "sections": [
+      {
+        "start": 0.037,
+        "end": 48.079,
+        "label": "Intro"
+      },
+      {
+        "start": 48.079,
+        "end": 72.101,
+        "label": "Buildup"
+      },
+      {
+        "start": 72.101,
+        "end": 156.175,
+        "label": "Drop"
+      },
+      {
+        "start": 156.175,
+        "end": 168.186,
+        "label": "Breakdown"
+      },
+      {
+        "start": 168.186,
+        "end": 234.244,
+        "label": "Drop"
+      },
+      {
+        "start": 234.244,
+        "end": 264.271,
+        "label": "Breakdown"
+      },
+      {
+        "start": 264.271,
+        "end": 312.689,
+        "label": "Outro"
+      },
+      {
+        "start": 312.689,
+        "end": 313.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "2253272297",
+    "song": "Watch The Ride - Road Runner",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/72 - Watch The Ride - Road Runner.mp3",
+    "duration": 206.0,
+    "sections": [
+      {
+        "start": 0.055,
+        "end": 25.655,
+        "label": "Intro"
+      },
+      {
+        "start": 25.655,
+        "end": 38.455,
+        "label": "Buildup"
+      },
+      {
+        "start": 38.455,
+        "end": 89.655,
+        "label": "Drop"
+      },
+      {
+        "start": 89.655,
+        "end": 140.855,
+        "label": "Drop"
+      },
+      {
+        "start": 140.855,
+        "end": 153.655,
+        "label": "Buildup"
+      },
+      {
+        "start": 153.655,
+        "end": 179.255,
+        "label": "Drop"
+      },
+      {
+        "start": 179.255,
+        "end": 206.056,
+        "label": "Outro"
+      }
+    ]
+  },
+  {
+    "id": "1838789907",
+    "song": "Origin Unknown - Valley Of The Shadows",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/73 - Origin Unknown - Valley Of The Shadows.mp3",
+    "duration": 281.0,
+    "sections": [
+      {
+        "start": 0.137,
+        "end": 24.16,
+        "label": "Intro"
+      },
+      {
+        "start": 24.16,
+        "end": 36.171,
+        "label": "Buildup"
+      },
+      {
+        "start": 36.171,
+        "end": 120.251,
+        "label": "Drop"
+      },
+      {
+        "start": 120.251,
+        "end": 132.262,
+        "label": "Buildup"
+      },
+      {
+        "start": 132.262,
+        "end": 168.296,
+        "label": "Drop"
+      },
+      {
+        "start": 168.296,
+        "end": 180.307,
+        "label": "Breakdown"
+      },
+      {
+        "start": 180.307,
+        "end": 204.33,
+        "label": "Drop"
+      },
+      {
+        "start": 204.33,
+        "end": 216.341,
+        "label": "Breakdown"
+      },
+      {
+        "start": 216.341,
+        "end": 240.364,
+        "label": "Drop"
+      },
+      {
+        "start": 240.364,
+        "end": 252.375,
+        "label": "Breakdown"
+      },
+      {
+        "start": 252.375,
+        "end": 264.387,
+        "label": "Drop"
+      },
+      {
+        "start": 264.387,
+        "end": 280.902,
+        "label": "Outro"
+      },
+      {
+        "start": 280.902,
+        "end": 281.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "824951532",
+    "song": "Former - Fogweaver",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/74 - Former - Fogweaver.mp3",
+    "duration": 218.0,
+    "sections": [
+      {
+        "start": 0.025,
+        "end": 12.825,
+        "label": "Intro"
+      },
+      {
+        "start": 12.825,
+        "end": 38.425,
+        "label": "Buildup"
+      },
+      {
+        "start": 38.425,
+        "end": 102.425,
+        "label": "Drop"
+      },
+      {
+        "start": 102.425,
+        "end": 115.225,
+        "label": "Breakdown"
+      },
+      {
+        "start": 115.225,
+        "end": 140.825,
+        "label": "Buildup"
+      },
+      {
+        "start": 140.825,
+        "end": 192.025,
+        "label": "Drop"
+      },
+      {
+        "start": 192.025,
+        "end": 217.625,
+        "label": "Outro"
+      },
+      {
+        "start": 217.625,
+        "end": 218.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "1048395102",
+    "song": "p-rallel Greentea Peng - soulboy (IZCO Remix)",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/75 - p-rallel - soulboy (IZCO Remix).mp3",
+    "duration": 229.0,
+    "sections": [
+      {
+        "start": 0.077,
+        "end": 43.431,
+        "label": "Intro"
+      },
+      {
+        "start": 43.431,
+        "end": 62.012,
+        "label": "Buildup"
+      },
+      {
+        "start": 62.012,
+        "end": 136.334,
+        "label": "Drop"
+      },
+      {
+        "start": 136.334,
+        "end": 161.108,
+        "label": "Breakdown"
+      },
+      {
+        "start": 161.108,
+        "end": 210.656,
+        "label": "Drop"
+      },
+      {
+        "start": 210.656,
+        "end": 227.688,
+        "label": "Outro"
+      },
+      {
+        "start": 227.688,
+        "end": 229.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "2206867437",
+    "song": "Johnny Jungle - Johnny '94 (Dillinja Remix)",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/76 - Johnny Jungle - Johnny '94 (Dillinja Remix).mp3",
+    "duration": 388.0,
+    "sections": [
+      {
+        "start": 0.026,
+        "end": 48.121,
+        "label": "Intro"
+      },
+      {
+        "start": 48.121,
+        "end": 72.168,
+        "label": "Buildup"
+      },
+      {
+        "start": 72.168,
+        "end": 120.263,
+        "label": "Drop"
+      },
+      {
+        "start": 120.263,
+        "end": 168.358,
+        "label": "Breakdown"
+      },
+      {
+        "start": 168.358,
+        "end": 240.501,
+        "label": "Drop"
+      },
+      {
+        "start": 240.501,
+        "end": 264.548,
+        "label": "Breakdown"
+      },
+      {
+        "start": 264.548,
+        "end": 288.596,
+        "label": "Buildup"
+      },
+      {
+        "start": 288.596,
+        "end": 360.738,
+        "label": "Drop"
+      },
+      {
+        "start": 360.738,
+        "end": 387.791,
+        "label": "Outro"
+      },
+      {
+        "start": 387.791,
+        "end": 388.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "1368647652",
+    "song": "Eprom - Dangerous Sound",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/77 - Eprom - Dangerous Sound.mp3",
+    "duration": 169.0,
+    "sections": [
+      {
+        "start": 0.066,
+        "end": 12.867,
+        "label": "Intro"
+      },
+      {
+        "start": 12.867,
+        "end": 25.667,
+        "label": "Buildup"
+      },
+      {
+        "start": 25.667,
+        "end": 51.267,
+        "label": "Drop"
+      },
+      {
+        "start": 51.267,
+        "end": 64.067,
+        "label": "Buildup"
+      },
+      {
+        "start": 64.067,
+        "end": 92.867,
+        "label": "Drop"
+      },
+      {
+        "start": 92.867,
+        "end": 99.267,
+        "label": "Breakdown"
+      },
+      {
+        "start": 99.267,
+        "end": 111.032,
+        "label": "Buildup"
+      },
+      {
+        "start": 111.032,
+        "end": 143.068,
+        "label": "Drop"
+      },
+      {
+        "start": 143.068,
+        "end": 163.822,
+        "label": "Outro"
+      },
+      {
+        "start": 163.822,
+        "end": 169.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "2255450507",
+    "song": "Bop - Hiding",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/78 - Bop - Hiding.mp3",
+    "duration": 360.0,
+    "sections": [
+      {
+        "start": 0.098,
+        "end": 24.832,
+        "label": "Intro"
+      },
+      {
+        "start": 24.832,
+        "end": 182.79,
+        "label": "Drop"
+      },
+      {
+        "start": 182.79,
+        "end": 201.37,
+        "label": "Buildup"
+      },
+      {
+        "start": 201.37,
+        "end": 247.822,
+        "label": "Breakdown"
+      },
+      {
+        "start": 247.822,
+        "end": 343.822,
+        "label": "Drop"
+      },
+      {
+        "start": 343.822,
+        "end": 350.015,
+        "label": "Outro"
+      },
+      {
+        "start": 350.015,
+        "end": 360.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "1906347947",
+    "song": "IMANU Ku\u010dka - It's Our Destiny",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/79 - IMANU - It's Our Destiny.mp3",
+    "duration": 153.0,
+    "sections": [
+      {
+        "start": 0.066,
+        "end": 25.638,
+        "label": "Intro"
+      },
+      {
+        "start": 25.638,
+        "end": 38.425,
+        "label": "Buildup"
+      },
+      {
+        "start": 38.425,
+        "end": 63.998,
+        "label": "Drop"
+      },
+      {
+        "start": 63.998,
+        "end": 83.177,
+        "label": "Breakdown"
+      },
+      {
+        "start": 83.177,
+        "end": 95.963,
+        "label": "Buildup"
+      },
+      {
+        "start": 95.963,
+        "end": 121.536,
+        "label": "Drop"
+      },
+      {
+        "start": 121.536,
+        "end": 148.707,
+        "label": "Outro"
+      },
+      {
+        "start": 148.707,
+        "end": 153.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "131039766",
+    "song": "Arktkt - U Know",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/80 - Arktkt - U Know.mp3",
+    "duration": 286.0,
+    "sections": [
+      {
+        "start": 0.038,
+        "end": 12.838,
+        "label": "Intro"
+      },
+      {
+        "start": 12.838,
+        "end": 38.438,
+        "label": "Buildup"
+      },
+      {
+        "start": 38.438,
+        "end": 140.838,
+        "label": "Drop"
+      },
+      {
+        "start": 140.838,
+        "end": 166.438,
+        "label": "Buildup"
+      },
+      {
+        "start": 166.438,
+        "end": 217.638,
+        "label": "Drop"
+      },
+      {
+        "start": 217.638,
+        "end": 230.438,
+        "label": "Breakdown"
+      },
+      {
+        "start": 230.438,
+        "end": 283.238,
+        "label": "Outro"
+      },
+      {
+        "start": 283.238,
+        "end": 286.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "2011990517",
+    "song": "Liquid Crystal Pete Cannon - You Got Me (Pete Cannon Remix)",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/81 - Liquid Crystal - You Got Me (Pete Cannon Remix).mp3",
+    "duration": 327.0,
+    "sections": [
+      {
+        "start": 0.097,
+        "end": 12.739,
+        "label": "Intro"
+      },
+      {
+        "start": 12.739,
+        "end": 38.024,
+        "label": "Buildup"
+      },
+      {
+        "start": 38.024,
+        "end": 50.667,
+        "label": "Breakdown"
+      },
+      {
+        "start": 50.667,
+        "end": 75.952,
+        "label": "Buildup"
+      },
+      {
+        "start": 75.952,
+        "end": 101.237,
+        "label": "Drop"
+      },
+      {
+        "start": 101.237,
+        "end": 113.879,
+        "label": "Buildup"
+      },
+      {
+        "start": 113.879,
+        "end": 139.164,
+        "label": "Drop"
+      },
+      {
+        "start": 139.164,
+        "end": 167.61,
+        "label": "Buildup"
+      },
+      {
+        "start": 167.61,
+        "end": 192.895,
+        "label": "Drop"
+      },
+      {
+        "start": 192.895,
+        "end": 218.18,
+        "label": "Breakdown"
+      },
+      {
+        "start": 218.18,
+        "end": 243.465,
+        "label": "Drop"
+      },
+      {
+        "start": 243.465,
+        "end": 256.107,
+        "label": "Buildup"
+      },
+      {
+        "start": 256.107,
+        "end": 268.75,
+        "label": "Breakdown"
+      },
+      {
+        "start": 268.75,
+        "end": 306.677,
+        "label": "Drop"
+      },
+      {
+        "start": 306.677,
+        "end": 322.876,
+        "label": "Outro"
+      },
+      {
+        "start": 322.876,
+        "end": 327.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "1206007562",
+    "song": "Echo Brown Abnormal Sleepz - Tug O War",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/82 - Echo Brown - Tug O War.mp3",
+    "duration": 164.0,
+    "sections": [
+      {
+        "start": 0.139,
+        "end": 12.939,
+        "label": "Intro"
+      },
+      {
+        "start": 12.939,
+        "end": 64.138,
+        "label": "Drop"
+      },
+      {
+        "start": 64.138,
+        "end": 76.938,
+        "label": "Breakdown"
+      },
+      {
+        "start": 76.938,
+        "end": 89.738,
+        "label": "Buildup"
+      },
+      {
+        "start": 89.738,
+        "end": 140.937,
+        "label": "Drop"
+      },
+      {
+        "start": 140.937,
+        "end": 158.137,
+        "label": "Outro"
+      },
+      {
+        "start": 158.137,
+        "end": 164.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "2253272337",
+    "song": "IZCO Novelist - With Light",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/83 - IZCO - With Light.mp3",
+    "duration": 235.0,
+    "sections": [
+      {
+        "start": 0.051,
+        "end": 32.051,
+        "label": "Intro"
+      },
+      {
+        "start": 32.051,
+        "end": 51.251,
+        "label": "Buildup"
+      },
+      {
+        "start": 51.251,
+        "end": 153.651,
+        "label": "Drop"
+      },
+      {
+        "start": 153.651,
+        "end": 166.452,
+        "label": "Breakdown"
+      },
+      {
+        "start": 166.452,
+        "end": 179.252,
+        "label": "Buildup"
+      },
+      {
+        "start": 179.252,
+        "end": 233.652,
+        "label": "Drop"
+      },
+      {
+        "start": 233.652,
+        "end": 235.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "754013572",
+    "song": "Alex Reece - Pulp Fiction",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/84 - Alex Reece - Pulp Fiction.mp3",
+    "duration": 371.0,
+    "sections": [
+      {
+        "start": 0.368,
+        "end": 23.638,
+        "label": "Intro"
+      },
+      {
+        "start": 23.638,
+        "end": 47.658,
+        "label": "Buildup"
+      },
+      {
+        "start": 47.658,
+        "end": 170.762,
+        "label": "Drop"
+      },
+      {
+        "start": 170.762,
+        "end": 191.78,
+        "label": "Breakdown"
+      },
+      {
+        "start": 191.78,
+        "end": 230.812,
+        "label": "Drop"
+      },
+      {
+        "start": 230.812,
+        "end": 239.82,
+        "label": "Buildup"
+      },
+      {
+        "start": 239.82,
+        "end": 305.876,
+        "label": "Drop"
+      },
+      {
+        "start": 305.876,
+        "end": 317.886,
+        "label": "Breakdown"
+      },
+      {
+        "start": 317.886,
+        "end": 367.428,
+        "label": "Outro"
+      },
+      {
+        "start": 367.428,
+        "end": 371.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "945914512",
+    "song": "Phaction Charli Brix - Chemistry",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/85 - Phaction - Chemistry.mp3",
+    "duration": 307.0,
+    "sections": [
+      {
+        "start": 0.025,
+        "end": 44.163,
+        "label": "Intro"
+      },
+      {
+        "start": 44.163,
+        "end": 66.232,
+        "label": "Buildup"
+      },
+      {
+        "start": 66.232,
+        "end": 160.025,
+        "label": "Drop"
+      },
+      {
+        "start": 160.025,
+        "end": 176.577,
+        "label": "Breakdown"
+      },
+      {
+        "start": 176.577,
+        "end": 198.646,
+        "label": "Buildup"
+      },
+      {
+        "start": 198.646,
+        "end": 264.853,
+        "label": "Drop"
+      },
+      {
+        "start": 264.853,
+        "end": 295.198,
+        "label": "Outro"
+      },
+      {
+        "start": 295.198,
+        "end": 307.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "1995515707",
+    "song": "Hiraeth - Our Love",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/86 - Hiraeth - Our Love.mp3",
+    "duration": 273.0,
+    "sections": [
+      {
+        "start": 0.056,
+        "end": 22.382,
+        "label": "Intro"
+      },
+      {
+        "start": 22.382,
+        "end": 44.707,
+        "label": "Buildup"
+      },
+      {
+        "start": 44.707,
+        "end": 134.009,
+        "label": "Drop"
+      },
+      {
+        "start": 134.009,
+        "end": 153.544,
+        "label": "Breakdown"
+      },
+      {
+        "start": 153.544,
+        "end": 156.335,
+        "label": "Buildup"
+      },
+      {
+        "start": 156.335,
+        "end": 245.637,
+        "label": "Drop"
+      },
+      {
+        "start": 245.637,
+        "end": 270.753,
+        "label": "Outro"
+      },
+      {
+        "start": 270.753,
+        "end": 273.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "1700133887",
+    "song": "Muzzy Lexurus Dualistic - Start Again (Lexurus & Dualistic Remix)",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/87 - Muzzy - Start Again (Lexurus & Dualistic Remix).mp3",
+    "duration": 254.0,
+    "sections": [
+      {
+        "start": 0.395,
+        "end": 55.567,
+        "label": "Intro"
+      },
+      {
+        "start": 55.567,
+        "end": 66.601,
+        "label": "Buildup"
+      },
+      {
+        "start": 66.601,
+        "end": 132.808,
+        "label": "Drop"
+      },
+      {
+        "start": 132.808,
+        "end": 165.912,
+        "label": "Breakdown"
+      },
+      {
+        "start": 165.912,
+        "end": 176.946,
+        "label": "Buildup"
+      },
+      {
+        "start": 176.946,
+        "end": 247.636,
+        "label": "Drop"
+      },
+      {
+        "start": 247.636,
+        "end": 254.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "1454949052",
+    "song": "Sustance Ruby Letitia - Rumours",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/88 - Sustance - Rumours.mp3",
+    "duration": 249.0,
+    "sections": [
+      {
+        "start": 0.236,
+        "end": 22.305,
+        "label": "Intro"
+      },
+      {
+        "start": 22.305,
+        "end": 44.374,
+        "label": "Buildup"
+      },
+      {
+        "start": 44.374,
+        "end": 110.581,
+        "label": "Drop"
+      },
+      {
+        "start": 110.581,
+        "end": 127.132,
+        "label": "Breakdown"
+      },
+      {
+        "start": 127.132,
+        "end": 132.65,
+        "label": "Buildup"
+      },
+      {
+        "start": 132.65,
+        "end": 198.856,
+        "label": "Drop"
+      },
+      {
+        "start": 198.856,
+        "end": 245.753,
+        "label": "Outro"
+      },
+      {
+        "start": 245.753,
+        "end": 249.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "1838422027",
+    "song": "Delta Heavy - Reborn (June Miller Remix)",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/89 - Delta Heavy - Reborn (June Miller Remix).mp3",
+    "duration": 237.0,
+    "sections": [
+      {
+        "start": 0.051,
+        "end": 22.12,
+        "label": "Intro"
+      },
+      {
+        "start": 22.12,
+        "end": 44.189,
+        "label": "Buildup"
+      },
+      {
+        "start": 44.189,
+        "end": 55.223,
+        "label": "Breakdown"
+      },
+      {
+        "start": 55.223,
+        "end": 66.258,
+        "label": "Buildup"
+      },
+      {
+        "start": 66.258,
+        "end": 104.879,
+        "label": "Drop"
+      },
+      {
+        "start": 104.879,
+        "end": 110.396,
+        "label": "Buildup"
+      },
+      {
+        "start": 110.396,
+        "end": 132.465,
+        "label": "Breakdown"
+      },
+      {
+        "start": 132.465,
+        "end": 154.534,
+        "label": "Buildup"
+      },
+      {
+        "start": 154.534,
+        "end": 165.569,
+        "label": "Breakdown"
+      },
+      {
+        "start": 165.569,
+        "end": 176.603,
+        "label": "Buildup"
+      },
+      {
+        "start": 176.603,
+        "end": 215.224,
+        "label": "Drop"
+      },
+      {
+        "start": 215.224,
+        "end": 230.741,
+        "label": "Outro"
+      },
+      {
+        "start": 230.741,
+        "end": 237.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "879498902",
+    "song": "Simon Splice - Knock Knock",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/90 - Simon Splice - Knock Knock.mp3",
+    "duration": 318.0,
+    "sections": [
+      {
+        "start": 0.121,
+        "end": 22.063,
+        "label": "Intro"
+      },
+      {
+        "start": 22.063,
+        "end": 54.978,
+        "label": "Buildup"
+      },
+      {
+        "start": 54.978,
+        "end": 65.949,
+        "label": "Buildup"
+      },
+      {
+        "start": 65.949,
+        "end": 153.72,
+        "label": "Drop"
+      },
+      {
+        "start": 153.72,
+        "end": 186.634,
+        "label": "Breakdown"
+      },
+      {
+        "start": 186.634,
+        "end": 197.606,
+        "label": "Buildup"
+      },
+      {
+        "start": 197.606,
+        "end": 285.377,
+        "label": "Drop"
+      },
+      {
+        "start": 285.377,
+        "end": 316.92,
+        "label": "Outro"
+      },
+      {
+        "start": 316.92,
+        "end": 318.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "407512222",
+    "song": "Satl Malaky - Still the Same",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/91 - Satl - Still the Same.mp3",
+    "duration": 288.0,
+    "sections": [
+      {
+        "start": 0.027,
+        "end": 44.165,
+        "label": "Intro"
+      },
+      {
+        "start": 44.165,
+        "end": 88.303,
+        "label": "Drop"
+      },
+      {
+        "start": 88.303,
+        "end": 132.441,
+        "label": "Drop"
+      },
+      {
+        "start": 132.441,
+        "end": 176.579,
+        "label": "Breakdown"
+      },
+      {
+        "start": 176.579,
+        "end": 220.716,
+        "label": "Drop"
+      },
+      {
+        "start": 220.716,
+        "end": 264.854,
+        "label": "Drop"
+      },
+      {
+        "start": 264.854,
+        "end": 288.654,
+        "label": "Outro"
+      }
+    ]
+  },
+  {
+    "id": "1358986572",
+    "song": "Murdock Dynamite MC - Dark Cloud (Hip Hop Mix)",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/92 - Murdock - Dark Cloud (Hip Hop Mix).mp3",
+    "duration": 202.0,
+    "sections": [
+      {
+        "start": 0.027,
+        "end": 2.785,
+        "label": "Intro"
+      },
+      {
+        "start": 2.785,
+        "end": 22.096,
+        "label": "Buildup"
+      },
+      {
+        "start": 22.096,
+        "end": 132.441,
+        "label": "Drop"
+      },
+      {
+        "start": 132.441,
+        "end": 143.475,
+        "label": "Breakdown"
+      },
+      {
+        "start": 143.475,
+        "end": 154.51,
+        "label": "Buildup"
+      },
+      {
+        "start": 154.51,
+        "end": 200.027,
+        "label": "Drop"
+      },
+      {
+        "start": 200.027,
+        "end": 202.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "2039161617",
+    "song": "BREDREN - Moldovan",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/93 - BREDREN - Moldovan.mp3",
+    "duration": 223.0,
+    "sections": [
+      {
+        "start": 0.051,
+        "end": 38.672,
+        "label": "Intro"
+      },
+      {
+        "start": 38.672,
+        "end": 44.189,
+        "label": "Buildup"
+      },
+      {
+        "start": 44.189,
+        "end": 129.706,
+        "label": "Drop"
+      },
+      {
+        "start": 129.706,
+        "end": 132.464,
+        "label": "Buildup"
+      },
+      {
+        "start": 132.464,
+        "end": 217.981,
+        "label": "Drop"
+      },
+      {
+        "start": 217.981,
+        "end": 220.74,
+        "label": "Buildup"
+      },
+      {
+        "start": 220.74,
+        "end": 223.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "924617802",
+    "song": "Total Science - Killa",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/94 - Total Science - Killa.mp3",
+    "duration": 270.0,
+    "sections": [
+      {
+        "start": 0.118,
+        "end": 55.29,
+        "label": "Intro"
+      },
+      {
+        "start": 55.29,
+        "end": 66.325,
+        "label": "Buildup"
+      },
+      {
+        "start": 66.325,
+        "end": 154.6,
+        "label": "Drop"
+      },
+      {
+        "start": 154.6,
+        "end": 165.635,
+        "label": "Breakdown"
+      },
+      {
+        "start": 165.635,
+        "end": 176.669,
+        "label": "Buildup"
+      },
+      {
+        "start": 176.669,
+        "end": 267.703,
+        "label": "Drop"
+      },
+      {
+        "start": 267.703,
+        "end": 270.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "559315082",
+    "song": "Satl - Rattler",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/95 - Satl - Rattler.mp3",
+    "duration": 318.0,
+    "sections": [
+      {
+        "start": 0.027,
+        "end": 22.096,
+        "label": "Intro"
+      },
+      {
+        "start": 22.096,
+        "end": 44.165,
+        "label": "Buildup"
+      },
+      {
+        "start": 44.165,
+        "end": 176.579,
+        "label": "Drop"
+      },
+      {
+        "start": 176.579,
+        "end": 215.2,
+        "label": "Breakdown"
+      },
+      {
+        "start": 215.2,
+        "end": 220.717,
+        "label": "Silence"
+      },
+      {
+        "start": 220.717,
+        "end": 308.993,
+        "label": "Drop"
+      },
+      {
+        "start": 308.993,
+        "end": 313.131,
+        "label": "Outro"
+      },
+      {
+        "start": 313.131,
+        "end": 318.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "425701152",
+    "song": "Monrroe Technimatic Emily Jones - Dawning (Technimatic Remix)",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/96 - Monrroe - Dawning (Technimatic Remix).mp3",
+    "duration": 264.0,
+    "sections": [
+      {
+        "start": 0.193,
+        "end": 44.331,
+        "label": "Intro"
+      },
+      {
+        "start": 44.331,
+        "end": 66.4,
+        "label": "Buildup"
+      },
+      {
+        "start": 66.4,
+        "end": 154.676,
+        "label": "Drop"
+      },
+      {
+        "start": 154.676,
+        "end": 176.745,
+        "label": "Breakdown"
+      },
+      {
+        "start": 176.745,
+        "end": 198.814,
+        "label": "Buildup"
+      },
+      {
+        "start": 198.814,
+        "end": 242.952,
+        "label": "Drop"
+      },
+      {
+        "start": 242.952,
+        "end": 258.124,
+        "label": "Outro"
+      },
+      {
+        "start": 258.124,
+        "end": 264.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "82178314",
+    "song": "SpectraSoul - Mimic (Original Mix)",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/97 - SpectraSoul - Mimic (Original Mix).mp3",
+    "duration": 313.0,
+    "sections": [
+      {
+        "start": 0.046,
+        "end": 22.371,
+        "label": "Intro"
+      },
+      {
+        "start": 22.371,
+        "end": 44.697,
+        "label": "Buildup"
+      },
+      {
+        "start": 44.697,
+        "end": 156.324,
+        "label": "Drop"
+      },
+      {
+        "start": 156.324,
+        "end": 167.487,
+        "label": "Breakdown"
+      },
+      {
+        "start": 167.487,
+        "end": 178.65,
+        "label": "Buildup"
+      },
+      {
+        "start": 178.65,
+        "end": 290.277,
+        "label": "Drop"
+      },
+      {
+        "start": 290.277,
+        "end": 312.603,
+        "label": "Outro"
+      },
+      {
+        "start": 312.603,
+        "end": 313.0,
+        "label": "END"
+      }
+    ]
+  },
+  {
+    "id": "1903809347",
+    "song": "Gydra - Trojan",
+    "file_path": "/Users/joelbae/Music/deemix Music/WATAI 98-sample/98 - Gydra - Trojan.mp3",
+    "duration": 249.0,
+    "sections": [
+      {
+        "start": 0.028,
+        "end": 22.353,
+        "label": "Intro"
+      },
+      {
+        "start": 22.353,
+        "end": 44.679,
+        "label": "Intro"
+      },
+      {
+        "start": 44.679,
+        "end": 78.167,
+        "label": "Drop"
+      },
+      {
+        "start": 78.167,
+        "end": 89.33,
+        "label": "Buildup"
+      },
+      {
+        "start": 89.33,
+        "end": 111.656,
+        "label": "Drop"
+      },
+      {
+        "start": 111.656,
+        "end": 133.981,
+        "label": "Breakdown"
+      },
+      {
+        "start": 133.981,
+        "end": 156.307,
+        "label": "Buildup"
+      },
+      {
+        "start": 156.307,
+        "end": 189.795,
+        "label": "Drop"
+      },
+      {
+        "start": 189.795,
+        "end": 200.958,
+        "label": "Buildup"
+      },
+      {
+        "start": 200.958,
+        "end": 223.283,
+        "label": "Drop"
+      },
+      {
+        "start": 223.283,
+        "end": 247.702,
+        "label": "Outro"
+      },
+      {
+        "start": 247.702,
+        "end": 249.0,
         "label": "END"
       }
     ]
