@@ -97,3 +97,13 @@ Genre normalization and bucketing are configured in `config/taxonomy.py`:
 - `GENRE_DELIMITER_PATTERN`: Splits multi-genre tags on `/` or `\`.
 
 You can tweak these settings to adjust label mapping without touching the CLI scripts. All CLIs automatically pick up any taxonomy changes.
+
+
+
+
+
+----------------- HOW TO DOWNLOAD SONGS ------------------
+
+https://link.deezer.com/s/32wbNvBqXptbSd1rmMRAa
+is the link to all the songs used
+install https://deemix.org/ and download the playlist
